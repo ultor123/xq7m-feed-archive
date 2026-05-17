@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Sun, 17 May 2026 18:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:48:56 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -15,6 +15,12 @@
       <itunes:email>ultan@thekiln.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    <image>
+      <url>https://ultor123.github.io/xq7m-feed-archive/cover.jpg</url>
+      <title>Daily Learning and Enrichment</title>
+      <link>https://ultor123.github.io/xq7m-feed-archive</link>
+    </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
     <item>
@@ -25,6 +31,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-17.mp3" length="5541165" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
     <item>
       <title>DLE 2026-05-15</title>
@@ -34,6 +41,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-15.mp3" length="5326125" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
     <item>
       <title>DLE 2026-05-14</title>
@@ -43,6 +51,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-14.mp3" length="5360685" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
     <item>
       <title>DLE 2026-05-13</title>
@@ -52,6 +61,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-13.mp3" length="5122605" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
     <item>
       <title>DLE 2026-05-12</title>
@@ -61,6 +71,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-12.mp3" length="5187885" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
     <item>
       <title>DLE 2026-05-11</title>
@@ -76,6 +87,7 @@
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-11.mp3" length="1644459" type="audio/mpeg"/>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
     </item>
   </channel>
 </rss>

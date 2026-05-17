@@ -1,7 +1,5 @@
-# DLE Feed
+# Feed Archive
 
-Private podcast feed for Daily Learning and Enrichment audio episodes.
+Personal RSS feed.
 
-RSS feed: https://ultor123.github.io/dle-feed-eedb6ce3/feed.xml
-
-Add to Apple Podcasts via Library → ••• → Add a Show by URL.
+URL: https://ultor123.github.io/xq7m-feed-archive/feed.xml

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Learning and Enrichment</title>
+    <link>https://ultor123.github.io/dle-feed-eedb6ce3</link>
+    <atom:link href="https://ultor123.github.io/dle-feed-eedb6ce3/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
+    <language>en-us</language>
+    <copyright>Ultan Rourke</copyright>
+    <lastBuildDate>Sun, 17 May 2026 18:17:06 +0000</lastBuildDate>
+    <itunes:author>Ultan Rourke</itunes:author>
+    <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Ultan Rourke</itunes:name>
+      <itunes:email>ultan@thekiln.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-17</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"Tech Twitter is just people who made money telling people who haven't made money that they're thinking about making money wrong."</blockquote></p><p><h3>2. Business Insight</h3></p><p><strong>A — Greene (Mastery): The Three Phases.</strong> Apprenticeship → Creative-Active → Mastery. No shortcuts. Stay in the work.</p><p><strong>B — Carnegie: Begin in a Friendly Way.</strong> Sun beats wind. Open hard conversations with warmth and shared ground.</p><p><h3>3. Deep Line</h3></p><p><blockquote>"A myth cannot be refuted, since it is identical with the convictions of a group." — Sorel. The Kiln's positioning isn't a claim to prove — it's a myth to embody.</blockquote></p><p><h3>4. Thought Principle: Working Backwards (Bezos). Start with customer need, not your current skills.</h3></p><p><h3>5. New Words: Hyperbolic Discounting (over-valuing immediate vs future rewards), Asymmetric Information (the gap you monetize), Pareto Optimality (the equilibrium where any change makes someone worse off)</h3></p><p><h3>6. Stoic: "The wound is the place where the Light enters you." — Rumi</h3></p><p><h3>7. Daily Math: Regression to the Mean. Extreme results regress toward the average. Most "breakthroughs" and "crises" are just outliers. Judge on long-run averages.</h3></p><p>Next: Pareto Distribution.</p>]]></description>
+      <pubDate>Sun, 17 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-17</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-17.mp3" length="5541165" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DLE 2026-05-15</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"A seed round is just paying for the privilege of finding out your idea doesn't work. A Series A is paying to find out it works but not the way you thought."</blockquote></p><p><h3>2. Business Insight</h3></p><p><strong>A — Cialdini: Social Proof Under Uncertainty.</strong> ICP-matched case studies beat generic ones. Stack proof where doubt is highest.</p><p><strong>B — Bezos: Input Metrics Over Output Metrics.</strong> Track enriched leads, response rates, meetings booked. If inputs are world-class, revenue follows.</p><p><h3>3. Deep Line</h3></p><p><blockquote>"The optimist in politics is an inconstant and even dangerous man." — Sorel. The "we're a family" founder fires coldest.</blockquote></p><p><h3>4. Thought Principle: Definite vs Indefinite Optimism (Thiel). Have a concrete plan, not vague iteration.</h3></p><p><h3>5. New Words: Goodhart's Law (when a measure becomes a target, it ceases to be good), Counterfactual Thinking (what would have happened without you?), Shibboleth (language that signals group membership)</h3></p><p><h3>6. Stoic: "Never esteem anything as of advantage to you that will make you break your word or lose your self-respect." — Marcus Aurelius</h3></p><p><h3>7. Daily Math: Confidence Intervals. The width of your CI is your ignorance. 10 data points = wide interval = you know almost nothing. 100 = tight = trustworthy.</h3></p><p>Next: Regression to the Mean.</p>]]></description>
+      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-15</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-15.mp3" length="5326125" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DLE 2026-05-14</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"Every startup deck says 'if we capture just 1% of the market...' and every VC knows that 1% is the hardest 1% you'll ever capture."</blockquote></p><p><h3>2. Business Insight</h3></p><p><strong>A — Carnegie: Let the client feel the idea is theirs.</strong> Plant ideas through questions, not presentations. They'll champion "their" idea with 10x the energy.</p><p><strong>B — Greene (Mastery): Skill-Stacking.</strong> Your moat is the combination of skills, not any single one. Keep adding layers.</p><p><h3>3. Deep Line</h3></p><p><blockquote>"Only power restrains power." — Burnham</blockquote></p><p><h3>4. Thought Principle: The Contrast Principle (Cialdini). Always show the big scary number before your price.</h3></p><p><h3>5. New Words: Skin in the Game (personal downside exposure), Chesterton's Fence (understand before removing), Satisficing (good enough beats optimal)</h3></p><p><h3>6. Stoic: "It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult." — Seneca</h3></p><p><h3>7. Daily Math: Normal Distribution. 68% within 1 SD, 95% within 2, 99.7% within 3. Most "crises" are just normal variance.</h3></p><p>Next: Confidence Intervals.</p>]]></description>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-14</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-14.mp3" length="5360685" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DLE 2026-05-13</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"The best investment advice I ever got was 'invest in things you understand.' The worst advice I ever got was also that, because I understood nothing."</blockquote></p><p><h3>2. Business Insight</h3></p><p><strong>A — Cialdini: Authority Through Vulnerability (Vincent Strategy).</strong> Argue against your own interest once. It buys total credibility for the upsell.</p><p><strong>B — Collins: Stop-Doing Lists > To-Do Lists.</strong> The discipline is in subtracting. Cut one thing this week.</p><p><h3>3. Deep Line</h3></p><p><blockquote>"From mean to great fortune, people rise rather by fraud than by force." — Machiavelli</blockquote></p><p><h3>4. Thought Principle: The Commitment Blueprint (Grant). Hire for values + make dissent a core value. Zero percent failure rate in the study.</h3></p><p><h3>5. New Words: Iatrogenic (harm by the healer), Second-Order Thinking (and then what?), Legibility (forcing messy reality into neat systems)</h3></p><p><h3>6. Stoic: "We suffer more often in imagination than in reality." — Seneca</h3></p><p><h3>7. Daily Math: Standard Deviation & Variance. Same average, different spread = different reality. Always ask "what's the spread?" when someone gives you an average.</h3></p><p>Next: Normal Distribution.</p>]]></description>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-13</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-13.mp3" length="5122605" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DLE 2026-05-12</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"I'm 27, I run a company, and I still call my mam when the washing machine makes a weird noise. That's the duality of entrepreneurship."</blockquote></p><p><h3>2. Business Insight</h3></p><p><strong>A — Bezos: Customer Obsession.</strong> Clients aren't loyal — they're satisfied until someone offers something better.</p><p><strong>B — 48 Laws, Law 11: Make Yourself Indispensable.</strong> Embed in the client's workflow. Own their Clay tables, enrichment, sequences. Make switching cost enormous through depth, not lock-in.</p><p><h3>3. Deep Line</h3></p><p><blockquote>"The representative has himself elected by the voters, not the voters who choose the representative." — Mosca</blockquote></p><p><h3>4. Thought Principle: First Who, Then What (Collins)</h3></p><p>Get the right people on the bus before figuring out where to drive it.</p><p><h3>5. New Words: Iatrogenic (harm by the healer), Kaizen (continuous improvement), Apophenia (seeing patterns that don't exist)</h3></p><p><h3>6. Stoic: "The soul becomes dyed with the colour of its thoughts." — Marcus Aurelius</h3></p><p><h3>7. Daily Math: Law of Large Numbers. Under 30 data points? Treat any pattern as noise. Increase sample size before optimizing.</h3></p><p>Next: Standard Deviation & Variance.</p>]]></description>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-12</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-12.mp3" length="5187885" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>DLE 2026-05-11</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3></p><p><blockquote>"People ask me what The Kiln does and I say 'we help companies find people who want to talk to them' and they say 'so... marketing?' and I die a little inside."</blockquote></p><p><hr/>
+<h3>2. Business Insight</h3></p><p><strong>A — Thiel: Distribution IS the Product.</strong> Most startups die from distribution failure, not product failure. The Kiln solves the most common cause of startup death.</p><p><strong>B — Cialdini: Foot-in-the-Door.</strong> Small commitments change self-image. Free audits and quick wins aren't charity — they're commitment devices. 76% vs 17% compliance.</p><p><hr/>
+<h3>3. Deep Line</h3></p><p><blockquote>"It is easier to cope with a bad conscience than with a bad reputation." — Nietzsche</blockquote></p><p><hr/>
+<h3>4. Thought Principle: The Sarick Effect (Grant)</h3></p><p>Lead with your biggest flaws when pitching skeptical audiences. It disarms skepticism and increases persuasion. Rufus Griscom sold Babble to Disney for $40M after a slide titled "Here's Why You Should Not Buy Babble."</p><p><hr/>
+<h3>5. New Words & Terms</h3></p><p><strong>Convexity</strong> — Limited downside, uncapped upside. Only take convex bets.</p><p><strong>Overton Window</strong> — The range of acceptable ideas in public discourse. Position yourself where the window is moving.</p><p><strong>Praxis</strong> — The integration of theory and practice. Not just knowing, but doing informed by knowing.</p><p><hr/>
+<h3>6. Stoic Closer</h3></p><p><blockquote>"First say to yourself what you would be; and then do what you have to do." — Epictetus</blockquote></p><p><hr/>
+<h3>7. Daily Math: Bayes' Theorem</h3></p><p>P(A|B) = P(B|A) × P(A) / P(B). Update beliefs when new evidence arrives. Anchor on the base rate first, then adjust. Your gut skips base rates — Bayes doesn't.</p><p>Next: Law of Large Numbers.</p>]]></description>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-11</guid>
+      <enclosure url="https://ultor123.github.io/dle-feed-eedb6ce3/audio/DLE-2026-05-11.mp3" length="1644459" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

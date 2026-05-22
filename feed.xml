@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Wed, 20 May 2026 12:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:33:13 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,43 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-22</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"Inventing is messy, and over time, it's certain that we'll fail at some big bets too."</blockquote>
+— Jeff Bezos, to shareholders, as a man worth $100 billion.</p><p>Deploy when someone asks how you handle failure. "As Bezos put it — and he said this <em>after</em> building the everything store — inventing is messy. If it's good enough for him, it's good enough for whatever I've broken this week."</p><p><hr/>
+<h3>2. Business Insight</h3></p><p><strong>A — Marc Andreessen:</strong> "In a great market, the market <em>pulls</em> product out of the startup." Most agencies grind at pushing services onto lukewarm ICPs. The Kiln's diagnostic question isn't "how do we close more?" — it's "are we in a market where GTM infrastructure is <em>demanded</em>, or are we still convincing people they need it?" If you're spending more energy justifying the category than closing deals, you may be in the wrong pond.</p><p><strong>B — Jim Collins:</strong> "'Stop doing' lists are more important than 'to do' lists." At $20k MRR climbing toward €100k, the instinct is to add — new services, new channels, new outreach angles. But the faster lever is almost always deletion. What client type, service offering, or internal process is eating time without compounding toward the goal? Cut it before it becomes load-bearing by accident.</p><p><hr/>
+<h3>3. Deep Line</h3>
+<blockquote>"It is not money that is the sinews of war, but good soldiers. For money cannot find good soldiers, but good soldiers will be sure to find money." — Machiavelli</blockquote></p><p>Don't raise, borrow, or beg for resources before you've proven you can use them. Build the capability first — the capital follows execution, not the other way around.</p><p><hr/>
+<h3>4. Thought Principle: Vuja De</h3>
+Most experienced operators miss the biggest opportunities because familiarity breeds blindness — they stop <em>seeing</em> what they look at every day. Vuja de is the deliberate practice of seeing the familiar as if for the first time: asking "why does this work this way?" about things everyone else has stopped questioning.</p><p><strong>Kiln application:</strong> Look at your client's current GTM stack the way a smart outsider would — not "how do we optimise this?" but "why does anyone do it this way at all?" The highest-value infrastructure builds often come from noticing an assumption nobody has interrogated in years. The insight hiding inside the obvious default is usually worth more than the incremental improvement everyone is chasing.</p><p><hr/>
+<h3>5. New Words & Terms</h3></p><p><strong>Oligopoly</strong> — a market structure in which a small number of firms collectively dominate, each aware that its decisions affect and are affected by the others; distinguished from monopoly by the presence of a few competitors rather than one. <em>"The GTM tooling space is drifting toward oligopoly — three or four platforms will own the infrastructure layer, and every agency will have to build on top of one of them whether they like it or not."</em></p><p><strong>Concave payoff</strong> — a return profile where outcomes plateau or diminish past a certain point; the opposite of convex, where upside is unbounded. <em>"Agency retainer work has a concave payoff — there's a ceiling on what any single client pays, which is exactly why The Kiln needs a productised offer alongside bespoke work."</em></p><p><strong>Attrition rate</strong> — the percentage of customers or revenue lost over a given period, distinct from churn in that it often refers to gradual, passive losses rather than explicit cancellations. <em>"Knowing your monthly attrition rate is more useful than knowing your churn events — it tells you what's quietly bleeding out before anyone picks up the phone to cancel."</em></p><p><hr/>
+<h3>6. Stoic Closer</h3>
+<blockquote>"Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius</blockquote></p><p>Every hour spent debating the ideal system is an hour not spent building the actual one.</p><p><hr/>
+<h3>7. Daily Math: Monte Carlo Simulation</h3></p><p><strong>Concept:</strong>
+A Monte Carlo simulation runs a model hundreds or thousands of times, each time sampling inputs randomly from a defined probability distribution, and observes the distribution of outcomes that results. Instead of asking "what will happen?" it asks "across all the plausible ways this could go, what range of outcomes should we expect — and how often?"</p><p>The name comes from the Monte Carlo casino: the method was formalised by Stanislaw Ulam in the 1940s when he was thinking about card games during convalescence. Neumann and Oppenheimer then used it in nuclear weapons design. Now it lives in every serious financial model, engineering simulation, and — once you understand it — in your head every time you forecast revenue.</p><p>The core idea is straightforward:
+1. Define your inputs as distributions, not single numbers (e.g., "new clients per month: somewhere between 1 and 4, most likely 2")
+2. Draw a random value from each input distribution
+3. Compute the output (e.g., MRR at month 12)
+4. Repeat steps 2–3 thousands of times
+5. Look at the resulting distribution of outputs — the median, the 10th percentile (bad case), the 90th percentile (good case)</p><p><strong>Business example:</strong>
+The Kiln wants to forecast whether it hits €100k MRR by month 12. Instead of building one optimistic spreadsheet, model three uncertain inputs:</p><p>- <strong>New clients per month:</strong> uniform distribution between 1 and 4
+- <strong>Average contract value (ACV):</strong> normally distributed, mean €4,000/mo, standard deviation €1,000
+- <strong>Monthly churn rate:</strong> between 2% and 8%, most likely 4%</p><p>A simple month-by-month model: MRR(t+1) = MRR(t) × (1 − churn) + new_clients × ACV</p><p>Run this 10,000 times. You might find:
+- <strong>Median outcome at month 12:</strong> €72,000 MRR
+- <strong>90th percentile (good run):</strong> €118,000 MRR
+- <strong>10th percentile (bad run):</strong> €38,000 MRR</p><p>This tells you something a single spreadsheet never can: <em>hitting €100k by month 12 is a real possibility, but the median path doesn't get you there — you need better-than-median performance on at least two of the three inputs.</em></p><p><strong>Insight:</strong>
+The point of Monte Carlo is not to produce a precise forecast — it is to <em>understand the shape of your uncertainty</em>. Most founders build one revenue model and call it a plan. Monte Carlo forces you to admit that each input is a range, not a number, and shows you which input has the most leverage on the outcome. Typically, in a services business: ACV has more variance impact than new client volume, and churn has the most catastrophic tail risk. The simulation makes this visible.</p><p>It also cures false precision. A plan that says "we'll hit €100k by October" is a wish. A simulation that says "we hit €100k by October in 31% of scenarios, and in 68% of those scenarios we needed ACV above €4,500" is a strategy.</p><p><strong>Today's exercise:</strong>
+Build — or sketch on paper — a three-input Monte Carlo for The Kiln's next six months:</p><p>1. Estimate a <strong>range</strong> (low / most likely / high) for new clients signed per month
+2. Estimate a <strong>range</strong> for average monthly contract value
+3. Estimate a <strong>range</strong> for monthly churn rate</p><p>If you have access to Python, Excel, or even a basic spreadsheet, run at least 100 iterations by sampling randomly from those ranges and computing end-of-month MRR each time. If you are doing this by hand, run five distinct scenarios (pessimistic, bad, base, good, optimistic) using the low/mid/high combinations.</p><p>Ask: in what percentage of your scenarios do you hit €100k MRR within six months? What single input change moves that percentage the most? That input is your highest-leverage variable — and it deserves disproportionate attention this week.</p><p><em>Next: Markov Chains.</em></p>]]></description>
+      <pubDate>Fri, 22 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-22</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-22.mp3" length="8268717" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-05-20</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>
@@ -55,7 +92,7 @@ Most founders treat <em>any</em> reply as a hot lead. Conditional probability te
 Estimate three numbers from your actual data or your best honest guess:
 1. What percentage of your outbound list is genuinely strong ICP? (Your prior)
 2. What percentage of strong-fit prospects reply when you reach them?
-3. What percentage of weak-fit prospects reply?</p><p>Run the Bayes calculation. How much does a reply actually update your confidence in fit? Now ask: what would have the bigger effect on that posterior — doubling your reply rate through better copy, or doubling your base rate through tighter targeting? The math will almost certainly tell you targeting is the higher-leverage lever.</p><p><em>Next: Monte Carlo.</em></p>]]></description>
+3. What percentage of weak-fit prospects reply?</p><p>Run the Bayes calculation. How much does a reply actually update your confidence in fit? Now ask: what would have the bigger effect on that posterior — doubling your reply rate through better copy, or doubling your base rate through tighter targeting? The math will almost certainly tell you targeting is the higher-leverage lever.</p><p><em>Next: Monte Carlo.</em></p><p><hr/></p>]]></description>
       <pubDate>Wed, 20 May 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">dle-2026-05-20</guid>
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-20.mp3" length="6709677" type="audio/mpeg"/>

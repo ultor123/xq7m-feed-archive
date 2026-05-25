@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Fri, 22 May 2026 08:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:32:33 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,49 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-25</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"Never, ever say that you have no competitors. That signals naivete. Great markets draw competitors, and so if you really have no competition, you must not be in a great market." — Marc Andreessen</blockquote></p><p>Deploy when a founder proudly tells you their pitch deck says "no one else is doing this." Smile, nod, then ask them to reconsider whether that's actually a flex.</p><p><hr/>
+<h3>2. Business Insight</h3>
+<strong>A — Zero to One (Thiel):</strong> "Poor sales rather than bad product is the most common cause of failure." Most founders at €20k MRR are still treating sales as the thing they do after the real work. For The Kiln, the real work <em>is</em> the sales system — every client you build one for is proof you've solved the problem yourself.</p><p><strong>B — Originals (Grant):</strong> "The biggest barrier to originality is not idea generation — it's idea selection." The Kiln probably has a backlog of positioning angles, offer variants, and outbound approaches it's never shipped. The constraint isn't more ideas — it's a fast, honest filter for killing the mediocre ones before they eat the calendar.</p><p><hr/>
+<h3>3. Deep Line</h3>
+<blockquote>"Every great business is built around a secret that's hidden from the outside. When you share your secret, the recipient becomes a fellow conspirator." — Peter Thiel</blockquote></p><p>The Kiln's secret isn't Clay or data enrichment — those are tools. The secret is that GTM infrastructure, built properly, is compounding and defensible. Every client you tell that to either gets it immediately and signs, or doesn't and wasn't your client anyway.</p><p><hr/>
+<h3>4. Thought Principle: Vuja De</h3>
+Most people experience a market for years and never question its defaults. Vuja de is the discipline of staring at something familiar — your client's broken CRM, their dead outbound sequence, their manually-built lead list — and asking why it has to be this way at all. It's not naivety; it's structured re-examination.</p><p>For The Kiln, this means treating every new client's existing GTM stack as a crime scene rather than a starting point. The value isn't in improving what's there — it's in questioning whether what's there should exist at all.</p><p><hr/>
+<h3>5. New Words & Terms</h3>
+<strong>Proprioception</strong> — the body's internal sense of its own position and movement, without needing to look; metaphorically, a system's ability to monitor itself from within. <em>"The best GTM stacks have proprioception — the CRM knows when it's drifting, the sequences self-report what's working, and the whole thing doesn't need a consultant to tell it where it is."</em></p><p><strong>Salient</strong> — standing out from surrounding material in a way that naturally draws attention; often used in psychology and economics to describe options or features that dominate perception disproportionately. <em>"In a cold email, the one salient detail — a specific revenue number, a named competitor, a fresh news hook — does more work than four paragraphs of company description."</em></p><p><strong>Satisficing</strong> — a portmanteau of 'satisfy' and 'suffice', coined by Herbert Simon; choosing an option that is good enough rather than optimising for the theoretical best. <em>"Most buyers aren't maximising — they're satisficing. They want a GTM partner that clears a competence threshold and doesn't make their life harder. The Kiln's pitch should clear that bar, not dazzle them into confusion."</em></p><p><hr/>
+<h3>6. Stoic Closer</h3>
+<blockquote>"If it is not right, do not do it; if it is not true, do not say it." — Marcus Aurelius</blockquote></p><p>Runs fine as a business principle too — fewer decks, fewer promises, fewer wasted Tuesdays.</p><p><hr/>
+<h3>7. Daily Math: Markov Chains</h3></p><p><strong>Concept:</strong>
+A Markov chain is a system that moves between a defined set of states, where the probability of transitioning to the next state depends <em>only</em> on the current state — not on any history of how you got there. This is called the Markov property, or more bluntly, the "memoryless" property.</p><p>Formally: if the system is in state <em>S</em> at time <em>t</em>, then the probability of being in state <em>S'</em> at time <em>t+1</em> is fixed and depends solely on <em>S</em>, not on <em>S₋₁</em>, <em>S₋₂</em>, or anything before.</p><p>You define a Markov chain with:
+1. A <strong>set of states</strong> (e.g., Prospect, MQL, SQL, Proposal, Closed-Won, Churned)
+2. A <strong>transition matrix</strong> — a table where entry <em>P(i,j)</em> is the probability of moving from state <em>i</em> to state <em>j</em> in one step
+3. An <strong>initial distribution</strong> — where things start</p><p>The magic is that after enough steps, many Markov chains converge to a <strong>stationary distribution</strong>: a stable long-run proportion of time spent in each state, regardless of where you started. Think of it as the system's natural resting shape.</p><p><strong>Business example:</strong>
+Model a simplified Kiln sales pipeline as a Markov chain with five states:</p><p>| State | Description |
+|---|---|
+| <strong>Prospect</strong> | In outreach, not yet engaged |
+| <strong>Conversation</strong> | Discovery call booked or held |
+| <strong>Proposal</strong> | Proposal sent |
+| <strong>Client</strong> | Paying retainer |
+| <strong>Lost</strong> | Dropped out at any stage |</p><p>Now define transition probabilities (monthly):</p><p>| From \ To | Prospect | Conversation | Proposal | Client | Lost |
+|---|---|---|---|---|---|
+| Prospect | 0.60 | 0.25 | 0 | 0 | 0.15 |
+| Conversation | 0 | 0.20 | 0.50 | 0 | 0.30 |
+| Proposal | 0 | 0 | 0.10 | 0.55 | 0.35 |
+| Client | 0 | 0 | 0 | 0.93 | 0.07 |
+| Lost | 0 | 0 | 0 | 0 | 1.00 |</p><p>Reading this: a Prospect has a 25% chance of booking a conversation this month, 60% chance of staying in outreach, and 15% chance of going cold. A Proposal has a 55% chance of converting to a Client.</p><p>Now ask: <em>if you start 100 prospects in the top of the funnel, what does the system look like after 6 months?</em> You multiply the initial state vector by the transition matrix repeatedly — the numbers flow forward through the pipeline automatically.</p><p><strong>Insight:</strong>
+Two things become visible immediately when you model a pipeline as a Markov chain:</p><p>First, <strong>the conversion rate that matters most is usually not the one people obsess over.</strong> Everyone watches Proposal-to-Close. But the Markov model shows that if your Prospect-to-Conversation rate drops from 25% to 15%, the downstream Client count falls drastically even if your close rate holds. Volume at the top of the chain has enormous leverage on the final state.</p><p>Second, <strong>churn is a transition probability, and it compounds brutally.</strong> A 7% monthly churn rate sounds modest. But in steady state, the average client tenure is just 1/0.07 ≈ 14 months. Halving that churn rate to 3.5% doubles average tenure — without signing a single new client. The model makes this arithmetic unavoidable.</p><p>Markov chains also expose whether your pipeline will reach a <strong>steady state</strong> — a predictable long-run distribution across stages — or whether it will drain out over time because the "Lost" state is absorbing everything. In the example above, Lost is an <em>absorbing state</em> (once you're there, you stay). The only way to maintain a healthy client base is a continuous inflow of new Prospects. The model tells you the exact inflow rate required to sustain a target number of active clients.</p><p><strong>Today's exercise:</strong>
+Sketch The Kiln's current pipeline as a Markov chain:</p><p>1. Define <strong>four to six states</strong> that represent where a contact actually sits in your world (not where a CRM template says they should sit).
+2. Estimate, honestly, the <strong>monthly transition probabilities</strong> between each pair of states. What fraction of Prospects become Conversations each month? What fraction of Proposals close?
+3. Pick one transition probability and ask: <em>if I doubled this rate, what happens to the number of active Clients after six months?</em></p><p>You don't need a computer. A back-of-envelope calculation for two or three iterations reveals the shape. The insight you're after is: which single transition, if improved, has the most downstream leverage? That's the stage of your pipeline that deserves the most deliberate investment this quarter.</p><p><em>Next: Kelly Criterion.</em></p>]]></description>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-25</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-25.mp3" length="7305645" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-05-22</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>
@@ -52,7 +95,7 @@ The Kiln wants to forecast whether it hits €100k MRR by month 12. Instead of b
 The point of Monte Carlo is not to produce a precise forecast — it is to <em>understand the shape of your uncertainty</em>. Most founders build one revenue model and call it a plan. Monte Carlo forces you to admit that each input is a range, not a number, and shows you which input has the most leverage on the outcome. Typically, in a services business: ACV has more variance impact than new client volume, and churn has the most catastrophic tail risk. The simulation makes this visible.</p><p>It also cures false precision. A plan that says "we'll hit €100k by October" is a wish. A simulation that says "we hit €100k by October in 31% of scenarios, and in 68% of those scenarios we needed ACV above €4,500" is a strategy.</p><p><strong>Today's exercise:</strong>
 Build — or sketch on paper — a three-input Monte Carlo for The Kiln's next six months:</p><p>1. Estimate a <strong>range</strong> (low / most likely / high) for new clients signed per month
 2. Estimate a <strong>range</strong> for average monthly contract value
-3. Estimate a <strong>range</strong> for monthly churn rate</p><p>If you have access to Python, Excel, or even a basic spreadsheet, run at least 100 iterations by sampling randomly from those ranges and computing end-of-month MRR each time. If you are doing this by hand, run five distinct scenarios (pessimistic, bad, base, good, optimistic) using the low/mid/high combinations.</p><p>Ask: in what percentage of your scenarios do you hit €100k MRR within six months? What single input change moves that percentage the most? That input is your highest-leverage variable — and it deserves disproportionate attention this week.</p><p><em>Next: Markov Chains.</em></p>]]></description>
+3. Estimate a <strong>range</strong> for monthly churn rate</p><p>If you have access to Python, Excel, or even a basic spreadsheet, run at least 100 iterations by sampling randomly from those ranges and computing end-of-month MRR each time. If you are doing this by hand, run five distinct scenarios (pessimistic, bad, base, good, optimistic) using the low/mid/high combinations.</p><p>Ask: in what percentage of your scenarios do you hit €100k MRR within six months? What single input change moves that percentage the most? That input is your highest-leverage variable — and it deserves disproportionate attention this week.</p><p><em>Next: Markov Chains.</em></p><p><hr/></p>]]></description>
       <pubDate>Fri, 22 May 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">dle-2026-05-22</guid>
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-22.mp3" length="8268717" type="audio/mpeg"/>

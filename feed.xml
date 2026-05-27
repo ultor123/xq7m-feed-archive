@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Tue, 26 May 2026 05:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:47:24 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,39 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-27</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"States are not ruled with prayer-books."</blockquote>
+— Cosimo de' Medici</p><p>When a client asks if you can "just send a few emails and see what happens," this is the line. Deliver it warmly. It reframes the entire conversation toward infrastructure without making anyone feel stupid.</p><p><hr/>
+<h3>2. Business Insight</h3></p><p><strong>A — Bezos Letters:</strong> "Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow." The Kiln's version of this: stop waiting until the sequence is perfect before launching the campaign. A live sequence generating signal beats an ideal sequence still in a Google Doc.</p><p><strong>B — pmarca:</strong> "In a great market, the market pulls product out of the startup." The corollary for an agency: when The Kiln lands in the right ICP pocket, clients start asking for things you haven't built yet. That pull is data. Follow the pull — it's the market telling you what to build next.</p><p><hr/>
+<h3>3. Deep Line</h3>
+<blockquote>"The way we see the problem is the problem." — Stephen Covey</blockquote></p><p>Most GTM failures aren't execution failures — they're diagnosis failures. The sequence didn't underperform; the wrong problem was being solved beautifully.</p><p><hr/>
+<h3>4. Thought Principle: The Myth Cannot Be Refuted</h3>
+Burnham, synthesising Sorel: a myth isn't a theory you can argue someone out of — it's an identity. A competitor's brand, a client's loyalty to their current vendor, a prospect's belief that "outbound doesn't work in our space" — these aren't logical positions. They're myths. You don't defeat a myth with a counter-argument; you replace it with a better story that the person can inhabit. For The Kiln: don't try to prove cold outbound works. Make the prospect feel what it would be like to have a full pipeline without doing the work themselves. Let them step into the new myth.</p><p><hr/>
+<h3>5. New Words & Terms</h3></p><p><strong>Veridical</strong> — corresponding to reality; accurate in its representation. <em>"Most revenue forecasts are confident, but rarely veridical — the CRM says €180k in pipeline, the actual close rate says something rather more humbling."</em></p><p><strong>Sinecure</strong> — a position that requires little or no work but provides a salary or income. <em>"If your agency retainer becomes a sinecure — a monthly wire transfer for work nobody tracks — you've lost both accountability and leverage. Measure everything."</em></p><p><strong>Suasion</strong> — persuasion through argument or appeal, often used in contexts of influence without force. <em>"The real skill in enterprise sales isn't pressure — it's moral suasion: making the right answer feel like their idea."</em></p><p><hr/>
+<h3>6. Stoic Closer</h3>
+<blockquote>"Perfection of character is this: to live each day as if it were your last, without frenzy, without apathy, without pretence." — Marcus Aurelius</blockquote></p><p>Not a call to chaos — a call to clarity about what actually matters today.</p><p><hr/>
+<h3>7. Daily Math: Expected Value</h3></p><p><strong>Concept:</strong>
+The math curriculum has completed one full sequence — EV through Kelly. Today we restart it, because revisiting Expected Value with twelve months of sharper context is not repetition; it's compounding. Expected Value (EV) is the probability-weighted average of all possible outcomes. It answers one question: <em>what is this worth, on average, if I ran it a thousand times?</em></p><p>The formula:</p><p><strong>EV = Σ (probability of outcome × value of outcome)</strong></p><p>Or for a simple two-outcome scenario:</p><p><strong>EV = (p × win) + ((1 − p) × loss)</strong></p><p>This is the foundation everything else in the curriculum was built on. Bayes updated probabilities. Kelly told you how much to bet given EV. Monte Carlo simulated EV across complex distributions. But all of them are downstream of this: can you put a number on what something is <em>expected</em> to produce?</p><p><strong>Business example:</strong>
+The Kiln is deciding whether to invest time building a formal case study from a recent client engagement. The work involved: roughly 4 hours of writing, design, and approval chasing. The question is whether it's worth it.</p><p>Model the outcomes:</p><p>- <strong>Outcome A:</strong> The case study gets used in 3 pitches over the next quarter, closes 1 deal worth €8,000. Probability: 35% (p = 0.35, value = €8,000)
+- <strong>Outcome B:</strong> The case study supports 1 pitch but doesn't directly close anything — however, it shortens the sales cycle by one meeting, saving 3 hours of time worth roughly €600. Probability: 40% (p = 0.40, value = €600)
+- <strong>Outcome C:</strong> It sits in a Notion folder, used by nobody. Probability: 25% (p = 0.25, value = €0)</p><p>Calculate EV:</p><p>EV = (0.35 × €8,000) + (0.40 × €600) + (0.25 × €0)
+EV = €2,800 + €240 + €0
+<strong>EV = €3,040</strong></p><p>For 4 hours of work, the expected return is €3,040. That's an expected hourly return of €760. The decision makes itself.</p><p><strong>Insight:</strong>
+The reason most founders don't do this calculation is that it forces honesty about probability. Assigning 35% to "closes a deal" feels deflating when your gut wants to say 80%. But the discipline of assigning <em>realistic</em> probabilities — informed by your actual historical close rates — is exactly what separates good resource allocation from optimism theater.</p><p>Notice also what this calculation reveals: Outcome C (the wasted effort) has a 25% probability and contributes <em>zero</em> to EV. That 25% is the real cost — not the hours, but the probability-weighted nothing. If you can take actions that reduce the probability of Outcome C (better distribution, active pitch insertion, a follow-up process), you dramatically increase EV without doing more work.</p><p>EV thinking also protects you from the wrong kind of loss aversion. The case study might not close a deal in this quarter. But if you're calculating correctly, that's already priced into the 35% — the right question isn't "did this one instance work?" but "is my EV calculation sound?"</p><p><strong>Today's exercise:</strong>
+Pick one content or collateral asset The Kiln has been considering but hasn't built — a case study, a one-pager, a short video, a comparison doc.</p><p>1. List <strong>three realistic outcome scenarios</strong> for that asset over the next 90 days.
+2. Assign an honest <strong>probability</strong> to each (they must sum to 1).
+3. Assign a <strong>value</strong> to each outcome — in revenue, time saved, or meetings shortened.
+4. Calculate the <strong>EV</strong>.
+5. Compare EV to the actual time cost of building it (convert your hours to a euro equivalent).</p><p>If EV > cost: build it. If EV < cost: drop it, or redesign the distribution so Outcome C becomes less likely.</p><p>The goal isn't a perfect model. It's the discipline of thinking probabilistically about output before committing input.</p>]]></description>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-27</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-27.mp3" length="6597165" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-05-26</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>
@@ -52,7 +85,7 @@ Kelly answers a question that most founders never formally ask: <em>given that I
 Pick one real investment decision The Kiln faces in the next 30 days — a hire, a channel, a software tool, a partnership conversation.</p><p>1. Estimate <strong>p</strong>: what's the honest probability this works within your defined time horizon?
 2. Estimate <strong>b</strong>: if it works, what's the return multiple relative to the cost?
 3. Calculate <strong>f</strong>* using the Kelly formula.
-4. Compare that number to what you were instinctively planning to allocate.</p><p>If your gut allocation was lower than Kelly, ask why. Are you underestimating your edge? Risk-averse beyond what the numbers justify? If your gut was <em>higher</em> than Kelly, that's a warning sign — you're likely overconfident in p or underweighting the downside.</p><p>The goal isn't to mechanically follow the formula. It's to use it as a mirror: Kelly reveals where your conviction and your resource allocation are out of sync.</p><p><em>This completes the current curriculum sequence: Expected Value → Bayes' Theorem → Law of Large Numbers → Standard Deviation → Normal Distribution → Confidence Intervals → Regression to the Mean → Pareto Distribution → Conditional Probability → Monte Carlo → Markov Chains → Kelly Criterion.</em></p>]]></description>
+4. Compare that number to what you were instinctively planning to allocate.</p><p>If your gut allocation was lower than Kelly, ask why. Are you underestimating your edge? Risk-averse beyond what the numbers justify? If your gut was <em>higher</em> than Kelly, that's a warning sign — you're likely overconfident in p or underweighting the downside.</p><p>The goal isn't to mechanically follow the formula. It's to use it as a mirror: Kelly reveals where your conviction and your resource allocation are out of sync.</p><p><em>This completes the current curriculum sequence: Expected Value → Bayes' Theorem → Law of Large Numbers → Standard Deviation → Normal Distribution → Confidence Intervals → Regression to the Mean → Pareto Distribution → Conditional Probability → Monte Carlo → Markov Chains → Kelly Criterion.</em></p><p><hr/></p>]]></description>
       <pubDate>Tue, 26 May 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">dle-2026-05-26</guid>
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-26.mp3" length="7865901" type="audio/mpeg"/>

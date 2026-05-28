@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Wed, 27 May 2026 10:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 06:28:55 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,45 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-28</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"People ask me what The Kiln does and I say 'we help companies find people who want to talk to them' and they say 'so... marketing?' and I die a little inside."</blockquote></p><p>Pair with the immediate follow-up: "It's like plumbing — nobody wants to discuss it at dinner, but everyone notices when the pipes are burst and the CEO is knee-deep in missed quota." Kills the awkward pause on podcasts when the host doesn't quite get GTM infrastructure.</p><p><hr/>
+<h3>2. Business Insight</h3></p><p><strong>A — The Machiavellians (Burnham/Mosca):</strong> "A hundred men acting uniformly in concert, with a common understanding, will triumph over a thousand men who are not in accord and can therefore be dealt with one by one." Outbound volume without coordination is just noise. The Kiln's edge is that it doesn't just generate pipeline — it aligns sequence, message, timing, and ICP into a single coordinated motion. Sell the concert, not the headcount.</p><p><strong>B — Originals (Adam Grant):</strong> The biggest barrier to originality isn't idea generation — it's idea selection. Most founders have a dozen possible GTM approaches and execute none of them well because they can't choose. The Kiln's value is partly editorial: helping clients stop hedging across five mediocre strategies and go deep on one good one. Curation is the product.</p><p><hr/>
+<h3>3. Deep Line</h3>
+<blockquote>"From mean to great fortune, people rise rather by fraud than by force." — Machiavelli (via Burnham)</blockquote></p><p>Not an endorsement of dishonesty — a reminder that positioning, narrative control, and strategic framing move more levers than brute effort ever will. The agency that wins the enterprise client is rarely the one that worked hardest; it's the one that framed the conversation first.</p><p><hr/>
+<h3>4. Thought Principle: The Coordination Premium</h3>
+Small coordinated teams consistently outperform large disorganised ones — in armies, in sales floors, in markets. The value isn't in the number of actors; it's in the shared understanding of what each actor is supposed to do and when. Most GTM failures aren't resource failures — they're coordination failures: marketing fires, sales ignores it, and the prospect falls through the gap nobody owns. The Kiln's pitch is essentially: we close that gap, permanently, on your behalf.</p><p><hr/>
+<h3>5. New Words & Terms</h3></p><p><strong>Oligarchy</strong> — rule by a small group, especially one exercising power for corrupt or selfish purposes; in Burnham's usage, the inevitable consolidation of control into an elite few regardless of the system's stated ideology. <em>"Every 'flat structure' startup eventually discovers the iron law of oligarchy — four people actually make all the decisions, and the org chart is decorative fiction."</em></p><p><strong>Vuja de</strong> — the experience of seeing something familiar as if for the first time; the opposite of déjà vu; coined in business literature to describe fresh-eyes analysis of entrenched defaults. <em>"The best GTM audit isn't a new framework — it's vuja de: looking at your existing sales motion like you've never seen it before and asking why any of this is the way it is."</em></p><p><strong>Interposition</strong> — the act of placing something between parties; in political theory, inserting an authority or intermediary to resolve or de-escalate conflict. <em>"The agency's best role in a difficult client situation isn't advocacy — it's interposition: stepping between the problem and the panic, absorbing the noise so the client can think clearly."</em></p><p><hr/>
+<h3>6. Stoic Closer</h3>
+<blockquote>"Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius</blockquote></p><p>Every minute spent debating your positioning is a minute not spent executing it.</p><p><hr/>
+<h3>7. Daily Math: Bayes' Theorem</h3></p><p><strong>Concept:</strong>
+Bayes' Theorem tells you how to update a belief when you receive new evidence. It answers the question: <em>given what I just learned, how much should I revise my prior estimate?</em> This is the second topic in the curriculum — and if Expected Value tells you what a bet is worth, Bayes tells you how to sharpen your probability estimates as information arrives.</p><p>The formula:</p><p><strong>P(A|B) = [P(B|A) × P(A)] / P(B)</strong></p><p>In plain English:
+- <strong>P(A)</strong> — your prior probability: what you believed before the new evidence
+- <strong>P(B|A)</strong> — the likelihood: how probable is the new evidence, <em>assuming A is true?</em>
+- <strong>P(B)</strong> — the marginal probability: how likely is the new evidence overall, across all scenarios?
+- <strong>P(A|B)</strong> — your posterior probability: your updated belief after seeing the evidence</p><p><strong>Business example:</strong>
+The Kiln sends a cold email sequence to a list of 200 VP Sales prospects. From past experience, you believe that roughly 20% of prospects in this ICP are genuinely in-market right now — meaning they have active pain, budget, and urgency. That's your <strong>prior: P(in-market) = 0.20</strong>.</p><p>Now one prospect replies warmly — they ask for a case study and want to schedule a call within the week. You want to know: <em>given this reply behaviour, how likely is it that this person is genuinely in-market?</em></p><p>From your historical data:
+- When prospects are genuinely in-market, they reply warmly and request a call about <strong>60%</strong> of the time: <strong>P(warm reply | in-market) = 0.60</strong>
+- When prospects are <em>not</em> in-market, they still occasionally reply warmly (curious but not buying) about <strong>10%</strong> of the time: <strong>P(warm reply | not in-market) = 0.10</strong></p><p>First, calculate <strong>P(warm reply)</strong> — the overall probability of receiving this kind of reply from anyone:</p><p>P(warm reply) = P(warm reply | in-market) × P(in-market) + P(warm reply | not in-market) × P(not in-market)
+P(warm reply) = (0.60 × 0.20) + (0.10 × 0.80)
+P(warm reply) = 0.12 + 0.08 = <strong>0.20</strong></p><p>Now apply Bayes:</p><p>P(in-market | warm reply) = [P(warm reply | in-market) × P(in-market)] / P(warm reply)
+P(in-market | warm reply) = (0.60 × 0.20) / 0.20
+P(in-market | warm reply) = 0.12 / 0.20
+<strong>P(in-market | warm reply) = 0.60</strong></p><p>Before the reply, you thought there was a 20% chance this person was in-market. After the warm reply, that probability has jumped to <strong>60%</strong>. Same person, new evidence, updated belief.</p><p><strong>Insight:</strong>
+Most salespeople treat a warm reply as confirmation — "they're interested, let's close." Bayes says something more precise: it's a signal that dramatically raises the probability, but doesn't eliminate uncertainty. That 40% residual matters. It means you should qualify harder on the call, not assume the deal is done.</p><p>The more practically important lesson: your prior matters enormously. If your baseline in-market rate were 5% instead of 20%, the same warm reply would only update you to about 24% — a much more modest revision. This is why building accurate base-rate data (true ICP match rates, historical close rates, real conversion benchmarks) is not a vanity exercise. Garbage priors produce garbage posteriors, no matter how sophisticated your Bayesian update.</p><p>Bayesian thinking also protects against over-updating. One warm reply is one data point. If the prior is low, you shouldn't bet the house on it. If you've seen this pattern repeat across fifty prospects, your prior should already be higher — and the warm reply means more.</p><p><strong>Today's exercise:</strong>
+Take one active prospect or lead in The Kiln's pipeline right now.</p><p>1. Set your <strong>prior</strong>: based on ICP fit alone, what's the honest probability this company closes? (Use historical close rate data, not optimism.)
+2. Identify the <strong>most recent signal</strong> you've received — a reply, a meeting booked, a no-show, a referral request, a ghosting.
+3. Estimate: how often does that signal occur when a prospect <em>does</em> close? And how often when they <em>don't</em>?
+4. Run the Bayes update. What's your <strong>posterior probability</strong> now?
+5. Does that number change how you prioritise this prospect this week?</p><p>The goal is not a perfect calculation — it is the habit of treating new information as an <em>update</em>, not a <em>verdict</em>.</p>]]></description>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-28</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-28.mp3" length="7450029" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-05-27</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>
@@ -48,7 +87,7 @@ Pick one content or collateral asset The Kiln has been considering but hasn't bu
 2. Assign an honest <strong>probability</strong> to each (they must sum to 1).
 3. Assign a <strong>value</strong> to each outcome — in revenue, time saved, or meetings shortened.
 4. Calculate the <strong>EV</strong>.
-5. Compare EV to the actual time cost of building it (convert your hours to a euro equivalent).</p><p>If EV > cost: build it. If EV < cost: drop it, or redesign the distribution so Outcome C becomes less likely.</p><p>The goal isn't a perfect model. It's the discipline of thinking probabilistically about output before committing input.</p>]]></description>
+5. Compare EV to the actual time cost of building it (convert your hours to a euro equivalent).</p><p>If EV > cost: build it. If EV < cost: drop it, or redesign the distribution so Outcome C becomes less likely.</p><p>The goal isn't a perfect model. It's the discipline of thinking probabilistically about output before committing input.</p><p><hr/></p>]]></description>
       <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">dle-2026-05-27</guid>
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-27.mp3" length="6597165" type="audio/mpeg"/>

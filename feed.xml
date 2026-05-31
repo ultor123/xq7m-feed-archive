@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Sat, 30 May 2026 05:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:17:17 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,44 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-05-31</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"The more you say, the more common you appear and the less in control you are."</blockquote></p><p>Greene's Law 4, deployed ruthlessly in client pitches: after you state the price, stop talking. The silence that follows is not awkward — it's doing the work. The first person to speak loses. Practise closing your mouth in the mirror if you have to.</p><p><hr/>
+<h3>2. Business Insight</h3></p><p><strong>A — Bezos Letters to Shareholders:</strong> "Working backwards from customer needs can be contrasted with a 'skills-forward' approach — if used exclusively, the company employing it will never be driven to develop fresh skills." Most GTM agencies sell what they already know how to build. The Kiln's positioning sharpens the moment you open every client engagement with "what does a qualified pipeline actually look like for you?" and work backwards from that — not from your existing tech stack or favourite sequence tool.</p><p><strong>B — Good to Great, Collins:</strong> "Technology is an accelerator of momentum, not a creator of it." Half of The Kiln's prospective clients want to be sold AI-powered outreach as a magic wand. The real pitch is that AI amplifies whatever system is already underneath it — and if the system is broken, you're just breaking faster. Lead with the infrastructure diagnosis, not the tooling demo.</p><p><hr/>
+<h3>3. Deep Line</h3>
+<blockquote>"You can't talk your way out of problems you behave yourself into." — Stephen Covey</blockquote></p><p>No amount of repositioning, rebranding, or clever case studies repairs trust you burned through late deliverables, unclear comms, or scope creep you quietly ignored. Reputation is built in actions, one engagement at a time — and The Kiln at €100k MRR lives or dies on that ledger.</p><p><hr/>
+<h3>4. Thought Principle: The Stockdale Paradox</h3>
+Admiral James Stockdale survived seven years as a prisoner of war in Vietnam. His insight: the optimists — the ones who said "we'll be out by Christmas," then Easter, then summer — died of a broken heart. Stockdale himself survived by holding two truths simultaneously: unflinching faith that he would prevail in the end, and brutal honesty about how difficult his current reality actually was. Collins called this the Stockdale Paradox — and it is perhaps the most useful mental model for founders. <strong>Kiln application:</strong> Believe, genuinely, that €100k MRR is coming. And also look squarely at the pipeline data, the churn risk, and the accounts that aren't growing. Both at once. Optimism that avoids the facts is not faith — it's self-deception wearing a vision board.</p><p><hr/>
+<h3>5. New Words & Terms</h3></p><p><strong>Truncated</strong> — cut short or reduced, particularly an outcome distribution where the upper limit is artificially capped. <em>"Bezos pointed out that baseball has a truncated outcome distribution — you can score four runs maximum — while in business, occasionally you can score a thousand. Most agency owners price like baseball players when they should be thinking about asymmetric upside."</em></p><p><strong>Stewardship delegation</strong> — a style of delegating that defines the desired outcome and the guardrails, then grants the person full autonomy over the method. Contrasted with micromanagement, which delegates tasks. <em>"When you hire your first account manager at The Kiln, use stewardship delegation: tell them what a healthy client relationship looks like at 90 days, agree on the metrics, then step back — don't prescribe every email they send."</em></p><p><strong>Proxies</strong> — metrics or processes that stand in for the real thing, which then get optimised instead of the actual goal. <em>"Reply rate is a proxy for pipeline quality — the moment your team starts optimising for replies rather than qualified conversations, you've started managing the proxy and abandoned the point."</em></p><p><hr/>
+<h3>6. Stoic Closer</h3>
+<blockquote>"First say to yourself what you would be; and then do accordingly." — Epictetus</blockquote></p><p>Decide what The Kiln is — then let every decision, hire, and client conversation be a vote for that identity.</p><p><hr/>
+<h3>7. Daily Math: Normal Distribution</h3></p><p><strong>Concept:</strong>
+Last entry introduced standard deviation — the measure of how spread out your results are around the mean. Today's topic asks: once you know the mean and the standard deviation, what does the full shape of your data look like?</p><p>The Normal Distribution (also called the Gaussian distribution or the bell curve) is the answer. It describes a specific, symmetrical pattern where:</p><p>- ~68% of all values fall within <strong>1 standard deviation</strong> of the mean (between μ − σ and μ + σ)
+- ~95% fall within <strong>2 standard deviations</strong> (μ − 2σ to μ + 2σ)
+- ~99.7% fall within <strong>3 standard deviations</strong> (μ − 3σ to μ + 3σ)</p><p>This is called the <strong>68-95-99.7 rule</strong> (or the empirical rule), and it is one of the most practically useful facts in applied statistics.</p><p>The shape is symmetric: the same proportion of results falls above the mean as below it. Most results cluster near the centre; extreme outcomes are rare and get exponentially rarer the further out you go.</p><p>Not all distributions are normal — and knowing when you're dealing with one that isn't is equally important (we'll get there with the Pareto distribution). But many business metrics — deal sizes within a given ICP, response times, onboarding durations — approximate normality well enough for this framework to be useful.</p><p><strong>Business example:</strong>
+The Kiln tracks time-to-first-reply on outbound sequences across 200 prospects in a given campaign. The mean is 4 days, and the standard deviation is 1.5 days.</p><p>Applying the empirical rule:
+- <strong>68%</strong> of replies will arrive between <strong>2.5 and 5.5 days</strong> after the first touch (μ ± 1σ)
+- <strong>95%</strong> will arrive between <strong>1 and 7 days</strong> (μ ± 2σ)
+- <strong>99.7%</strong> will arrive between <strong>0 and 8.5 days</strong> (μ ± 3σ)</p><p>This means: if a prospect hasn't replied by day 9, you are statistically in the outer 0.3% of outcomes. They're almost certainly not going to. You have full empirical permission to stop following up and reallocate that slot to a fresh prospect. You are no longer being persistent — you're wasting sequence capacity on a dead contact.</p><p>This is how the normal distribution turns a vague feeling ("I think we've chased this enough") into a defensible, data-driven cut-off point.</p><p><strong>The two-sigma rule for pipeline qualification:</strong>
+If your average deal size is €15,000 with a standard deviation of €4,000, then:
+- A deal at €23,000 is two sigma above the mean — unusual but real. Worth noting; worth understanding why.
+- A deal at €7,000 is two sigma below the mean — worth asking whether it should be in the pipeline at all, or whether the ICP targeting drifted.</p><p>Any time a data point sits beyond two standard deviations from your mean, it deserves a flag and an explanation. Not panic — an explanation. Outliers are information.</p><p><strong>Insight:</strong>
+The normal distribution is not just a statistical shape — it is a planning tool. Once you know your mean and standard deviation on any key metric, you can make probabilistic statements about future performance with confidence. "We expect 90% of clients to complete onboarding within X days." "We expect 95% of sequence campaigns to generate at least Y replies." These are not guesses — they are normal distribution calculations. That is the difference between an agency that operates on intuition and one that operates on infrastructure. The Kiln should be able to make those statements for every client engagement it runs.</p><p><strong>Today's exercise:</strong>
+Take the same six-week dataset you used in the standard deviation exercise yesterday.</p><p>1. <strong>Confirm your mean (μ) and standard deviation (σ)</strong> from yesterday's calculation.
+2. <strong>Apply the empirical rule.</strong> Calculate:
+   - The 1-sigma band: μ − σ to μ + σ
+   - The 2-sigma band: μ − 2σ to μ + 2σ
+3. <strong>Check your actual data.</strong> How many of your six values fall inside the 1-sigma band? How many are outside the 2-sigma band?
+4. <strong>Identify any outliers.</strong> If any value sits beyond 2σ from the mean, ask: was it caused by a specific event (a conference, a campaign, a holiday)? If yes, it belongs in your notes, not your planning baseline.
+5. <strong>Write one sentence</strong> that uses your real numbers: <em>"We expect [metric] to fall between [lower bound] and [upper bound] in approximately 95% of normal operating weeks."</em> That sentence is the beginning of a proper GTM forecast.</p>]]></description>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-05-31</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-31.mp3" length="7715373" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-05-30</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>
@@ -44,7 +82,7 @@ Most founders optimise for mean outcomes. The ones who build durable businesses 
 Take one active GTM metric — booked calls, qualified leads, reply rates, or proposals sent — and pull the last six weeks of data.</p><p>1. <strong>Calculate the mean.</strong> Add all six values, divide by six.
 2. <strong>Calculate the deviation for each week.</strong> Subtract the mean from each value. Square each result.
 3. <strong>Calculate standard deviation.</strong> Average the squared deviations. Take the square root.
-4. <strong>Ask the hard question:</strong> Is your standard deviation less than 30% of your mean (well-controlled), between 30–70% (needs attention), or above 70% (you don't have a process — you have a prayer)?</p><p>If your standard deviation is high, don't optimise the average — fix the consistency of your inputs first. A predictable €15k is worth more than an unpredictable €20k, because only one of them lets you build.</p>]]></description>
+4. <strong>Ask the hard question:</strong> Is your standard deviation less than 30% of your mean (well-controlled), between 30–70% (needs attention), or above 70% (you don't have a process — you have a prayer)?</p><p>If your standard deviation is high, don't optimise the average — fix the consistency of your inputs first. A predictable €15k is worth more than an unpredictable €20k, because only one of them lets you build.</p><p><hr/></p>]]></description>
       <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">dle-2026-05-30</guid>
       <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-05-30.mp3" length="7101357" type="audio/mpeg"/>

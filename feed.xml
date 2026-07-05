@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 05:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 05:03:52 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,23 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-07-05</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"My mother still introduces me at Mass as 'working in computers.' I've stopped correcting her. 'GTM infrastructure' takes longer to explain and she's right that it involves a laptop."</blockquote></p><p>Works anywhere you need to humanise yourself fast — podcast intro, client dinner, mixed room. Gets the laugh, signals you're not precious about your own title, and gives you a natural bridge into what GTM infrastructure actually is and why it matters.</p><p><h3>2. Business Insight</h3>
+<strong>A — [Christensen, <em>The Innovator's Dilemma</em>]:</strong> When clients try to build GTM in-house and fail, the failure rarely happens at the Resources level — budget, headcount, tooling. It happens at the Values level: their internal cost structure won't tolerate work that runs at different margins or longer feedback loops than their core business. That's not incompetence. It's rational. Use it in pitches: "We're not replacing something you do well. We're doing something your structure won't let you do at all."</p><p><strong>B — [Collins, <em>Good to Great</em>]:</strong> "Technology is an accelerator of momentum, not a creator of it." Everyone selling AI GTM is selling the accelerant before checking whether there's anything to accelerate. A broken outbound process plus AI equals faster broken outbound. Lead with this in competitive conversations: The Kiln builds the process first, then multiplies what's already working.</p><p><h3>3. Deep Line</h3>
+<blockquote>"A hundred men acting uniformly in concert, with a common understanding, will triumph over a thousand men who are not in accord and can therefore be dealt with one by one." — Gaetano Mosca</blockquote></p><p>The argument for structured outbound over volume. Coordinated sequencing with shared messaging beats a larger disorganised team. Systems create concert; chaos creates isolation. The Kiln's edge isn't headcount — it's concert.</p><p><h3>4. Thought Principle: The Good Enough Cliff</h3>
+From Christensen: technology improves faster than customer needs rise. Once a product clears the "good enough" threshold, the basis of competition shifts — from features to reliability, then to convenience, then to price. The cliff is the moment the category flips. The Kiln's question for every client category: have they hit it? If so, the winning GTM motion isn't built on capability claims — it's built around speed-to-value and ease, which is exactly what a tightly-run infrastructure play delivers.</p><p><h3>5. New Words & Terms</h3>
+<strong>Veridical</strong> — corresponding to facts; not merely plausible but actually accurate. "A veridical ICP is built from closed-won data, not from the profile drafted in a strategy session three years ago."</p><p><strong>Prelapsarian</strong> — relating to the time before a fall or corruption; innocent, unspoiled. "Every scaling founder chases the prelapsarian version of their business — when feedback loops were tight and every customer felt like a relationship, not a ticket."</p><p><strong>Fungible</strong> — mutually interchangeable; indistinguishable from alternatives. "The most dangerous place to be is fungible — when a buyer can swap you for a competitor without noticing. That's not a positioning problem; it's an existential one."</p><p><h3>6. Stoic Closer</h3>
+<blockquote>"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius</blockquote></p><p>Not reassurance — instruction. The friction in your pipeline is the curriculum.</p><p><h3>7. Daily Math: Conditional Probability</h3>
+<strong>Concept:</strong> P(A|B) = P(A ∩ B) / P(B). Conditional probability asks: given that one thing is already true, how does that change the probability of something else? It's the mathematics of context — and the reason flat metrics like open rate, reply rate, and click rate are almost always lying to you.</p><p><strong>Business example:</strong> Your sequence gets a 40% open rate. You celebrate. But the metric that actually matters is P(books call | opened email). If that figure is 3%, the 40% is noise. The people opening aren't the people who want to buy. The conditional probability exposes the disconnect the flat rate buries.</p><p><strong>Insight:</strong> Every funnel stage is a conditional — P(reply | opened), P(call booked | replied), P(close | call). Multiplied together, those are your true end-to-end conversion rate. Most teams optimise for top-of-funnel volume because it's visible and feels like progress. Conditional probability forces you to look stage-to-stage — and almost always reveals the bottleneck is mid-funnel, not at the top.</p><p><strong>Today's exercise:</strong> Take your last 50 outbound sequences. Calculate four conditional probabilities: P(open | sent), P(reply | opened), P(call | replied), P(close | call). Multiply them together to get your real end-to-end rate. Identify which stage has the steepest drop. That gap is your only job next week.</p>]]></description>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-07-05</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-07-05.mp3" length="5370285" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-07-04</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>

@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 10:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:44:28 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,25 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-07-09</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"Nobody walks in here with what they think is a bad idea." — Brandon Tartikoff</blockquote></p><p>Deploy any time a prospect walks you through their current GTM stack with the quiet confidence of someone who has confused activity for strategy. The conviction is real. The conversion rate is not.</p><p><h3>2. Business Insight</h3>
+<strong>A — [Christensen, <em>The Innovator's Solution</em>]:</strong> Customers don't buy products — they hire them to do a job that arises in their lives. Most GTM agencies research the buyer's role, industry, and company size. The sharper question is: what job is the buyer trying to get done, and what are they currently hiring instead? The ICP that maps to a job is worth ten times the ICP that maps to a firmographic.</p><p><strong>B — [Collins, <em>Good to Great</em>]:</strong> "Technology is an accelerator of momentum, not a creator of it." AI-augmented outbound is the current arms race. Automation amplifies whatever is already working — or whatever is already broken. The agencies selling AI-powered sequencing to clients with no positioning and no ICP clarity are selling a better engine for a car with no road.</p><p><h3>3. Deep Line</h3>
+<blockquote>"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius</blockquote></p><p>The complex procurement cycle, the six-person buying committee, the compliance questionnaire — these aren't obstacles to closing enterprise deals. They're the moat. Every agency that calls them annoying is signalling it hasn't built the infrastructure to navigate them.</p><p><h3>4. Thought Principle: The Sarick Effect</h3>
+Adam Grant's term for a counterintuitive persuasion finding: when pitching to skeptical audiences, leading with your biggest flaws increases persuasion — not decreases it. Rufus Griscom sold Babble to Disney for $40M after opening with a slide titled "Here's Why You Should Not Buy Babble." Disarming the objection before they raise it makes you look honest, makes them look less clever for thinking it, and removes the ammunition they were saving. For The Kiln: the next time a prospect asks "how are you different from agency X?" — don't deflect. Lead with "here's what we're not yet" before saying what you are. The trust that builds in 90 seconds takes a polished deck three meetings to build.</p><p><h3>5. New Words & Terms</h3>
+<strong>Counterfactual</strong> — relating to a hypothetical scenario contrary to what actually happened, used to reason rigorously about causation. "The counterfactual for most failed outbound campaigns isn't better copy — it's a market that doesn't actually have the pain being solved for."</p><p><strong>Apostasy</strong> — formal abandonment of a previously held belief or position; originally religious, applicable anywhere loyalty was publicly declared. "Shifting from 'we sell to everyone' to a tight ICP is a necessary apostasy — the old belief must be publicly buried before the new one takes hold internally."</p><p><strong>Propinquity</strong> — nearness in space, time, or relationship; a documented psychological driver of trust and affinity formation. "B2B deals still close on propinquity — the rep who shows up consistently, follows up precisely, and stays in the room wins, even when the product is marginally inferior."</p><p><h3>6. Stoic Closer</h3>
+<blockquote>"He who is everywhere is nowhere." — Seneca</blockquote></p><p>The channel strategy, the ICP, the service line — pick one and be somewhere.</p><p><h3>7. Daily Math: Expected Value</h3>
+<strong>Concept:</strong> Expected Value (EV) is the probability-weighted average of all possible outcomes: <strong>EV = Σ (probability of outcome × value of outcome)</strong>. It answers not "what will happen?" but "what should I expect on average, across many repetitions of this bet?"</p><p><strong>Business example:</strong> The Kiln is weighing two deals. Enterprise: 12-week cycle, 15% close probability, €50k contract. Mid-market: 4-week cycle, 55% close probability, €18k contract.
+- Enterprise EV: 0.15 × €50,000 = <strong>€7,500</strong>
+- Mid-market EV: 0.55 × €18,000 = <strong>€9,900</strong></p><p>The mid-market deal is worth more in expectation — even though the headline number is smaller. Most salespeople chase the big number. Expected Value chases the right one.</p><p><strong>Insight:</strong> EV thinking also exposes the cost of optimism bias. If you overestimate your close probability by 20 points — believing you're at 35% when you're really at 15% — your expected pipeline is more than double what it actually is. Every forecast built on inflated probabilities is a lie told to yourself, on average, indefinitely.</p><p><strong>Today's exercise:</strong> Open your current pipeline. For each deal, write your gut close probability and the contract value, calculate EV per deal, and sum them. Then ask: are these probabilities based on evidence — stage conversion rates, competitor comparisons, stakeholder engagement signals — or on hope? The gap between gut-probability EV and evidence-probability EV is exactly how much your forecast is lying by.</p>]]></description>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-07-09</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-07-09.mp3" length="5503917" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-07-08</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>

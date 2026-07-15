@@ -7,7 +7,7 @@
     <description>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</description>
     <language>en-us</language>
     <copyright>Ultan Rourke</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 06:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:41:14 +0000</lastBuildDate>
     <itunes:author>Ultan Rourke</itunes:author>
     <itunes:summary>Daily insights, frameworks, soundbites, and math for the entrepreneur building The Kiln to 100k MRR.</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,23 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:category text="Education"/>
+    <item>
+      <title>DLE 2026-07-15</title>
+      <description><![CDATA[<p><h3>1. The Funny One</h3>
+<blockquote>"The best description of outbound I've been given came from a plumber: 'You knock on doors until someone needs a plumber.' I've been running sequences ever since. He's probably charging more than I am."</blockquote></p><p>Deploy when someone insists cold outreach is dead, or when explaining The Kiln's core mechanic to a sceptical audience. The joke concedes nothing about the model while landing the rate.</p><p><h3>2. Business Insight</h3>
+<strong>A — [Alex Hormozi]:</strong> "Most people's problem is they're trying to be clever with 10 leads when they should be dumb with 1,000." Clients arrive at The Kiln with elaborate personalisation frameworks and 47 contacts. The conversation usually starts with adding a zero to the list. AI-assisted personalisation is a multiplier — it needs volume to multiply.</p><p><strong>B — [Marc Andreessen]:</strong> "In a great market, the market pulls product out of the startup." The diagnostic for any new Kiln engagement: are prospects asking how fast you can start, or are you still explaining why outbound works? The former is market pull. The latter means the ICP is wrong, the pain point is off, or both. Fix the targeting before touching the copy.</p><p><h3>3. Deep Line</h3>
+<blockquote>"Desire is a contract you make with yourself to be unhappy until you get what you want." — Naval Ravikant</blockquote></p><p>This isn't anti-ambition — it's portfolio management. Every active goal is a standing commitment to dissatisfaction until it resolves. Run thirty simultaneous contracts and unhappiness becomes your default operating state. The discipline is signing fewer, larger ones — and being honest about which you're actually carrying.</p><p><h3>4. Thought Principle: Goodhart's Law</h3>
+In 1975, economist Charles Goodhart observed that when a measure becomes a target, it ceases to be a good measure. The moment you tell a system — human or algorithmic — that a metric is what success looks like, the system optimises for the metric rather than the underlying reality it was supposed to track.</p><p>For The Kiln: reply rate sounds like a clean success metric until clients start counting unsubscribes as replies, or optimising subject lines for curiosity rather than qualification. The metric worth defending is qualified pipeline value — slower, messier, harder to game. When clients push back on that framing, Goodhart is the name to drop.</p><p><h3>5. New Words & Terms</h3>
+<strong>Apophenia</strong> — the tendency to perceive meaningful connections between unrelated things. "Two slow reply-rate weeks after a subject line change isn't causation — it's apophenia. The sample is too small and the variables too many to conclude anything."</p><p><strong>Heuristic</strong> — a practical rule-of-thumb that trades optimality for speed; good enough, fast. "The best SDRs run on heuristics, not decision trees. 'If they mention headcount over fifty in the first reply, book the call immediately' — that's a heuristic. Build it from pattern recognition, not from policy documents."</p><p><strong>Counterfactual</strong> — what would have happened under different conditions; the test of whether a cause was actually causal. "Before crediting a sequence with closing a deal, ask the counterfactual: would that prospect have bought anyway? Sometimes the sequence was just in the room when it happened."</p><p><h3>6. Stoic Closer</h3>
+<blockquote>"Begin at once to live, and count each separate day as a separate life." — Seneca</blockquote></p><p>Not a warning that time is scarce — a reminder that today is already complete.</p><p><h3>7. Daily Math: Confidence Intervals</h3>
+<strong>Concept:</strong> A confidence interval wraps a range around your sample estimate and makes the uncertainty explicit. A 95% CI means: if you ran this experiment 100 times, 95 of those intervals would contain the true underlying value. The formula for a proportion: CI = p ± 1.96 × √(p(1−p)/n).</p><p><strong>Business example:</strong> You run a sequence to 200 contacts and get a 3.1% reply rate — roughly six replies. Plug into the formula: 0.031 ± 1.96 × √(0.031 × 0.969 / 200) = 0.031 ± 0.024. Your 95% CI runs from 0.7% to 5.5%. You cannot yet say whether your true reply rate is under 1% or over 5% — both are inside the plausible range. Making sequence-killing decisions from 200 sends is like reading a map from the first inch.</p><p><strong>Insight:</strong> The CI converts "we don't have enough data yet" from a vibe into a number. Clients who want to rewrite after two slow weeks are working with an interval so wide it contains the entire outcome space. The answer isn't a new sequence — it's more sends. The margin of error halves when n quadruples. Certainty is earned through volume, not tweaking.</p><p><strong>Today's exercise:</strong> Take a recent completed sequence. Compute p (replies ÷ total sent). Plug into CI = p ± 1.96 × √(p(1−p)/n). How wide is the interval? What sample size would cut it in half? (Hint: you need to quadruple n to halve the margin of error — that number is usually more sobering than expected.)</p>]]></description>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">dle-2026-07-15</guid>
+      <enclosure url="https://ultor123.github.io/xq7m-feed-archive/audio/DLE-2026-07-15.mp3" length="5892525" type="audio/mpeg"/>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ultor123.github.io/xq7m-feed-archive/cover.jpg"/>
+    </item>
     <item>
       <title>DLE 2026-07-14</title>
       <description><![CDATA[<p><h3>1. The Funny One</h3>

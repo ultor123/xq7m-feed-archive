@@ -74,7 +74,7 @@ def build_prompt():
 
     selected = ([picked_soundbite] if picked_soundbite else []) + picked_deep
     context_bundle = "\n\n".join(
-        f"=== {name} ===\n{text[:6000]}"  # cap each file
+        f"=== {name} ===\n{text[:50000]}"  # generous per-file cap: full files fit (Hormozi ~45k)
         for name, text in selected
     )
 
@@ -131,7 +131,7 @@ RECENT DLE ENTRIES (the last few days — don't repeat anything here):
 {recent_dle}
 
 CONTEXT LIBRARY (rotating subset — 5 files chosen by today's date):
-{context_bundle[:35000]}
+{context_bundle[:200000]}
 
 Now write today's DLE entry. Output the markdown section, then `===AUDIO===` on its own line, then the audio script."""
 

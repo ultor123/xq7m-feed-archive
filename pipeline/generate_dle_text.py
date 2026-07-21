@@ -62,6 +62,7 @@ def build_prompt():
     deep_files = [
         f for f in context_files
         if f[0].startswith("book_")
+        or f[0].startswith("podcast_")   # distilled podcast episodes (e.g. Hormozi on DOAC)
         or "senra" in f[0]
         or f[0].startswith("naval")
     ]

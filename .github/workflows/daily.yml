@@ -1,0 +1,110 @@
+name: Daily DLE Podcast
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC = 06:00 Lisbon (WEST). Runs on GitHub's servers — no laptop needed.
+  workflow_dispatch:        # allows manual "Run workflow" from the Actions tab
+    inputs:
+      dle_date:
+        description: "Backfill a specific date (YYYY-MM-DD). Leave blank for today."
+        required: false
+        default: ""
+
+permissions:
+  contents: write   # commit feed.xml + advice history back to the repo
+
+concurrency:
+  group: daily-dle
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      DLE_HOME: ${{ github.workspace }}
+      DLE_DATE: ${{ github.event.inputs.dle_date }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install system audio deps
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg espeak-ng
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python deps (Kokoro TTS)
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Install Claude Code CLI
+        run: curl -fsSL https://claude.ai/install.sh | bash
+
+      - name: Generate episode text (Claude, subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export PATH="$HOME/.local/bin:$PATH"
+          python pipeline/generate_dle_text.py
+          test -s /tmp/dle_today_text.md || { echo "::error::text generation produced no output"; exit 1; }
+
+      - name: Compute episode date
+        id: d
+        run: echo "date=${DLE_DATE:-$(date -u +%F)}" >> "$GITHUB_OUTPUT"
+
+      - name: Append to advice history
+        run: |
+          { echo ""; echo "---"; echo ""; cat /tmp/dle_today_text.md; } >> data/DLE_Advice.md
+
+      - name: Generate audio (Kokoro)
+        run: |
+          mkdir -p audio
+          python pipeline/dle_audio.py /tmp/dle_today_audio.txt
+          test -f "audio/DLE-${{ steps.d.outputs.date }}.mp3" || { echo "::error::audio not created"; exit 1; }
+
+      - name: Upload audio to Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release upload audio "audio/DLE-${{ steps.d.outputs.date }}.mp3" --clobber
+
+      - name: Rebuild RSS feed
+        run: python pipeline/generate_rss.py
+
+      - name: Commit feed + history
+        run: |
+          git config user.name "Ultan Rourke"
+          git config user.email "ultan@thekiln.com"
+          git add data/DLE_Advice.md feed.xml
+          git commit -m "Daily DLE ${{ steps.d.outputs.date }}" || echo "nothing to commit"
+          git push
+
+      - name: Notify Telegram (success)
+        if: success()
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          D="${{ steps.d.outputs.date }}"
+          curl -s -m 120 "https://api.telegram.org/bot${TG_TOKEN}/sendAudio" \
+            -F "chat_id=${TG_CHAT}" \
+            -F "audio=@audio/DLE-${D}.mp3" \
+            -F "title=DLE ${D}" -F "performer=The Kiln Daily" \
+            -F "caption=🎙️ Daily Learning & Enrichment — ${D} is live." >/dev/null || true
+          curl -s -m 60 "https://api.telegram.org/bot${TG_TOKEN}/sendDocument" \
+            -F "chat_id=${TG_CHAT}" \
+            -F "document=@/tmp/dle_today_text.md;filename=DLE-${D}-script.md" \
+            -F "caption=📝 Script — ${D}" >/dev/null || true
+
+      - name: Notify Telegram (failure)
+        if: failure()
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s -m 20 "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT}" \
+            --data-urlencode "text=🔴 DLE cloud run FAILED for ${{ steps.d.outputs.date }}. See: https://github.com/ultor123/xq7m-feed-archive/actions" >/dev/null || true

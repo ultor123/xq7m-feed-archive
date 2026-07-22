@@ -69,3 +69,27 @@
 - "Building a SaaS company is like cooking — you start with a recipe, realize you're missing half the ingredients, improvise wildly, and somehow end up in a Michelin-starred restaurant or a house fire. There's no in-between." — Humor Soundbites
 - Raising a seed round is basically the same as online dating — a 70% aspirational profile, awkward meetings, and someone says yes for reasons you don't fully understand. — Humor Soundbites
 - "Culture eats strategy for breakfast, but cashflow eats culture for dinner." — Humor Soundbites
+- "There's no substitution, so there's not a second place thing you go buy instead of Grand Theft Auto... It's not like you go buy Pepsi instead of Coke. There is no Pepsi. There's only Coke." — Shaan Puri
+- On the friend making the GTA case: "He basically made this case like Warren Buffett describing a business with incredible moats." — Shaan Puri
+- On Twitch viewing behavior: "Their phone is their personal entertainment device... then there's second screen, you put it up on the TV while you're chilling on the couch... and second tab, I'm a programmer working all day, but I have a second monitor or a background tab with the audio going. My favorite streamer hanging out, and I'll glance over when he's doing it." — Shaan Puri
+- On evaluating creators: "Not who has the most followers, but who has the minds and hearts of young people... there's the multiplier of popularity times approval rating." — Shaan Puri
+- On a good fit: "If his Tinder profile matches what we like here on MFM, so far so good." — Shaan Puri
+- On the manual early grind: "The amount of manual cranking you have to do at the beginning to get something off the ground is so underrated." — Shaan Puri
+- On the Sam Altman incidents timing: "It sounded like 9/11. I don't remember where I was." — Shaan Puri
+- Shelf space as a discovery algorithm: "The same way that content creators are constantly trying to figure out how to get on the YouTube shelf or the Instagram shelf — how do I get discovered there?" — Shaan Puri
+- The Kanye documentary analogy for spotting talent early: "You know these documentaries, the dude who followed Kanye around ten years before he became famous... and you're like, I can't believe we're so lucky that this guy happened to just follow this young artist in Chicago who happened to become Kanye West." — Shaan Puri
+- Beats by Dre placement analogy: "Instead of going for audiophiles, everywhere you saw it was hip hop artists and athletes walking into the stadium. It became synonymous with the pregame lock in... they've created billions of dollars of value by that association." — Shaan Puri
+- Grey Goose in the Oscar after-party limos: "They would put it in the limousines of the after parties of the Oscars, and just where it was seen was almost just as important as the story of how it was triple filtered." — Shaan Puri
+- Selling water as the ultimate marketing test: "One of the great tests of marketing is can you sell water? There's a marketing genius about figuring out how to sell water — and not just once, how to sell it many times in many different ways." — Shaan Puri
+- Water as a personal badge (Rohan's line, but a clean analogy): "Your water's a badge. When you walk around with the water, more than anything else, it's a little bit of a reflection of you." — Sam Parr's guest Rohan Oza (MFM)
+- Software as labor: "the software essentially works like labor... essentially a consultant that comes in and it learns your workflows, it documents it, figures out how things are currently working, and then it starts to improve or automate." — Shaan Puri
+- On becoming maintenance staff for AI: "do we all just become sort of like mechanics for the robots and for AI?" — Shaan Puri
+- On the coming obsolescence of driving, told through his kids: "It's horseback riding. Right? Not cars." (his kids will one day say "you used to have to do all that?" about driving) — Shaan Puri
+- Framing the AI race via Elon's phrase: "Elon has called it the highest Elo game in the world... the highest level chess game being played between the smartest people with the most capital behind them going all out for the biggest prize." — Shaan Puri
+- On the "all the way over here vs. all the way over there" reframe: "the industry, the expectation of the customer, the current workflow is all the way here. What if it was all the way on this side?" — Shaan Puri
+- On the concentrated portfolio held for years: "it's like sitting in there like a Swiss bank account" (on the dry-aging room full of meat). — Shaan Puri
+- On the falling-behind risk in defense/tech (relaying Palmer Luckey): "At some point, the slope of their line will cross over the lead that we have." — Shaan Puri
+- On the essential-infrastructure endgame: the meat facility is designated "an essential service that they cannot close down... essential food infrastructure at this point." — Shaan Puri
+- On value investing being simple: Nick Sleep "owned Costco, he owned Amazon, and one other thing... four winners and they'd held it for a long time and that's all you needed to do. The game wasn't more complicated than that." — Shaan Puri
+- On money being invisible when stable: "Money is essentially like a fish in water. You don't even see it." — Shaan Puri
+- On R&D reinvestment (relaying Palmer Luckey on Amazon): Amazon "convinced investors that they should be able to invest all of their profits and more back into Amazon for twenty years, and that's what gave them this incredible durable advantage." — Shaan Puri

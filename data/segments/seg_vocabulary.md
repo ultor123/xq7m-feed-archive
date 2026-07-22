@@ -41,3 +41,23 @@
 - **Deterrence** — security bought not by the stockpile but by the capacity to generate and regenerate it. — Trey Stephens, Business Soundbites
 - **Permissionless leverage** — code and media, the leverage of the new rich, that you can deploy without anyone's approval. — Naval Ravikant, Philosophy Soundbites
 - **Specific knowledge** — knowledge found by pursuing genuine curiosity that can't be trained; if society can train you for it, it can replace you. — Naval Ravikant, Philosophy Soundbites
+- "The great lock in." — Shaan Puri
+- "Fun employed." — Shaan Puri
+- "The world class figure it outer of that." / "world class recruiter... of the great people." — Shaan Puri
+- "Put his finger on the scale and his thumb on the scale to tilt, to be competitive with other products." — Shaan Puri
+- "Ready baked... a DoorDash delivery on your doorstep." — Shaan Puri
+- "Land and expand newspaper monopoly." — Shaan Puri
+- "Speaking out of both sides of their mouth." — Shaan Puri
+- "Shelf space is the original algorithm." — Shaan Puri (crediting Rohan's line, but framing it as reusable)
+- "The pregame lock in" — the ritual moment (walk-in / pregame) a brand can own to create identity association. — Shaan Puri
+- "Mafia-like business practices" — describing the behind-the-scenes reality of retail shelf placement. — Shaan Puri
+- "epiphany" — the name for the sudden-realization moment of spotting a big market-moving opportunity: "you've been pilled and now you can see the other side." — Sam Parr (MFM) [guest's term, surfaced in Shaan's exchange]
+- "the think harder button" — Shaan's label for Elon's long processing silence, likened to an AI think mode — Shaan Puri
+- "ground floor truth" — what you get from mystery shopping / going to the frontline instead of strategy decks — Shaan Puri
+- "high variety" entrepreneur — Shaan's self-description of an idea-guy style spanning many industries vs. staying in one domain for forty years — Shaan Puri
+- "the kingmaker move" — the tactic of creating an award, event, or list to insert yourself at the center of a market. — Shaan Puri
+- "the idiot index" (relaying Elon Musk) — the markup a part costs over its raw-material value; "the idiot tax you're paying because you don't know how to make the part yourself." — Shaan Puri
+- "the blue dollar" — the black-market/parallel exchange rate in Argentina, "like two x what the actual dollar rate is because they're that desperate to have dollars." — Shaan Puri
+- "trajectory razor" — a person or moment that shifts the course of someone's life. — Shaan Puri
+- "frame breaker / frame breaking moments" — experiences (like travel) that break your default assumptions. — Shaan Puri (also used by Sam Parr, MFM)
+- "empty vessels" (relaying Nick Sleep) — companies that make the most noise via advertising while shunning durable substance. — Shaan Puri

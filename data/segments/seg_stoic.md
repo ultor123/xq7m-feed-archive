@@ -54,3 +54,11 @@
 - "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." — Samuel Beckett, History/Culture Soundbites
 - "I can't go on. I'll go on." — Samuel Beckett, History/Culture Soundbites
 - "Nearly all men can stand adversity, but if you want to test a man's character, give him power." — Abraham Lincoln, History/Culture Soundbites
+- On going back to the beginning: "Naval's talked about this, that the true masters are people who can go back down the mountain and start again and take a new path. Because going back down the mountain once you've climbed up is so exhausting... it's so hard to give up the vantage point you have to go back to being a beginner again." — Shaan Puri
+- On learning through pain: "He's been early on a few different calls in my life to the point where now when he says something I find outlandish, I have learned through trauma of not fully backing his prior things that I should really pay attention." — Shaan Puri
+- The closing gut-check: "Honest question, is the loss of self respect worth the gain of influence and money?" — Shaan Puri
+- On not overreaching at exit: knowing when to walk vs. when you've done enough — "I think I'm good," accepting a great outcome rather than chasing the maximum. — Shaan Puri
+- On sitting with a problem before rushing to fix it: "there's almost a benefit in just feeling the pain a little longer than you're supposed to to just really drive home the importance of it." — Shaan Puri
+- On watching your own customers struggle: "feeling the pain of watching somebody use your product." — Shaan Puri
+- On not chasing status directly: "I think Naval has a funny one like that. He goes, if you wanna be rich and famous, try getting rich first and just see if that does the trick." — Shaan Puri
+- On sustainable high performance over burnout (on ELEMNT's 3-weeks-on/1-week-off cadence): "giving people time and space to think and plan. You can have a high performance team with that. It's not about just constant burnout of pushing as hard as you can with no breaks whatsoever." — Shaan Puri

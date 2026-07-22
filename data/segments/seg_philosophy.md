@@ -84,3 +84,26 @@
 - "It is not that we have a short time to live, but that we waste a great deal of it." — Seneca, Philosophy Soundbites
 - "The whole future lies in uncertainty: live immediately." — Seneca, Philosophy Soundbites
 - "No man is free who is not master of himself." — Epictetus, Philosophy Soundbites
+- "I don't think most people actually ask themselves this very important question. Where is the opportunity right now?" — Shaan Puri
+- "It sounds caveman, sounds stupid, but it's actually the thing. Where is the opportunity right now?" — Shaan Puri
+- On why fun beats metrics: "When you're doing the thing that you actually enjoy doing, you'll sustain even in the face of bad results." — Shaan Puri
+- "I think the fun sustained him when the numbers would have been discouraging to the average person." — Shaan Puri
+- On inheritance, riffing on Buffett: "I'm more of a believer in the Warren Buffett philosophy, which is you give your kids enough to do anything, but not enough to do nothing." — Shaan Puri
+- On reverse succession: "Most people who build a business and become successful want their kids to inherit the business... That's not my plan... I've told my kids we're gonna work together, but in the reverse. When I retire, I wanna work on whatever you're doing. I'll be your intern, basically." — Shaan Puri
+- "The best way to be together is for me to be their voluntary intern of whatever they're trying to do in life." — Shaan Puri
+- On differentiation being universal: "Even if you're a dentist and you have a dental practice, you're gonna either be undifferentiated or differentiated. It's the game of stand out. Do you care about doing something that is beyond normal?" — Shaan Puri
+- On self-work being the majority of the battle: "First studying how do you get yourself to do it, which is like 80% of the battle." — Shaan Puri
+- On the M&A finish line: "He works six years, seven years, eight years, and then 50% of the value is gonna be how good you are at this M&A thing at the end." — the last mile carries half the reward. — Shaan Puri
+- On earned advantages: "You didn't wake up, you weren't born with that. You earned that somehow." — Shaan Puri
+- On self-reliance: "Most entrepreneurs don't have that advantage. People have to figure out how do you survive. No one's gonna come save you." — Shaan Puri
+- On what energizes him: "Nothing fires me up more than a good hustle story. After this, I'm gonna go work." — Shaan Puri
+- "As an entrepreneur, if your life gets too comfortable, you lose your ability to spot problems." — Shaan Puri
+- On noticing as a superpower: "noticing is actually a superpower. We talked about noticing for bottlenecks. But then you can notice for things that don't make sense in the world, and an entrepreneur can come in and make it make sense by actually changing the way the world works... change the system rather than just say, I guess it just has to be that way." — Shaan Puri
+- On the sharpening effect of simplifying for others: "And it sharpens your own thinking. You think you're doing it for them and then you realize, actually, I didn't fully have clarity on this. I forced myself to be clear to them. Now I'm clear to myself." — Shaan Puri
+- On living through a hinge moment in history: "It's probably the first time that I feel like I have no idea what the world's gonna look like in ten, fifteen years. But I do know it's likely to be completely different." — Shaan Puri
+- "if you're the best at anything, money will never be a problem for you. You're the best plumber, money will never be a problem for you. It doesn't matter what you are." — Shaan Puri
+- On differentiation: "This was the key lesson that Pat Junior figured out which was don't sell a commodity, create a brand." — Shaan Puri
+- On the value of travel and perspective: on Argentina's currency — "Money is essentially like a fish in water. You don't even see it. You just assume a dollar's a dollar... If you go to a place that's inflating 20% a year, you realize very quickly, oh wow, these people need a different solution." — Shaan Puri
+- On being seen: "Everybody likes to be seen, I've learned." — Shaan Puri
+- On the four-minute-mile effect: "there's a almost like Roger Bannister four minute mile type of thing going on where the really smart people see what other really awesome people do, and it breaks their frame of what they thought was possible for themselves, and then they do more." — Shaan Puri
+- On finding and mentoring young outliers: "If you identify them in that golden window, that eleven to nineteen year old window, you can actually be such a meaningful trajectory razor for them. You can actually shift the course of their life just by giving them a network of other weirdos like them." — Shaan Puri

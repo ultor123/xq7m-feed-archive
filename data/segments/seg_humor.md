@@ -61,3 +61,30 @@
 - The apathy confession: "I don't struggle with anxiety. I struggle with apathy... Why do I even bother? We already have enough money. Who cares?" — Hormozi/DOAC
 - On his own first content: "I had a video reacting to my own first content and it's horrendous. It's horrible." — Hormozi/DOAC
 - The "if there was a divorce in the business" line: "If there was a divorce in the business, I think the vast majority of people would [go with her]... I'm serious. People are loyal to Leila." — Hormozi/DOAC
+- "It's not even a laptop. It's like a notepad. It's the hotel notepad." — Shaan Puri
+- "You should be thinking as a 14 year old, you're like, which girl's gonna kiss me? Where are the girls that might kiss me, and how do I get them to kiss me?" — Shaan Puri
+- "I'm so insecure and have such a lack of a spine that I'm just gonna go towards what I think might actually work." — Shaan Puri
+- "One of their energy drinks is called shit up collector's box... Got three of my home. I don't see the red flags. What are you talking about? It's like the red flag is wrapped around my eyes." — Shaan Puri
+- "These are these are my Epstein emails." — Shaan Puri
+- "I got seven tabs open right now because I gotta see what this guy's doing." — Shaan Puri
+- "They're like, but you're gonna have to pay me. And I'm like, okay. I guess I'll pay you then... They're like, you have to pay me 10. Ten bucks, which is what they call money." — Shaan Puri
+- "Bro. Bro. Bro. I came to you ready baked. That was a DoorDash delivery on your doorstep." — Shaan Puri
+- "I had a midlife crisis yesterday... there was a girl there clearly taking Instagram influencer pics, pretending she's having a good time... I was laughing at her, mocking her, and judging her. And then I was like, I guess it's not so different what I do... my vlogger is right over there. I just posted a video of me working out. It's not that different, I guess." — Shaan Puri
+- "Nobody wins the lottery seven times." — Shaan Puri
+- On Rohan being modest about naming his own creative style: "Tactically creative. That sounds like something I would say when I don't want to do work." — Shaan Puri
+- On the Shark Tank Poppy clip: "The title of the video is Sharks Disgusted... by the Poppy. I think Kevin may have spit it out." — Shaan Puri
+- "You've got a terrible brand name. It's Mother's in cursive, and it looks like an old sparkling wine or something like that." — Shaan Puri
+- On his business partner's obsession: "My business partner Ben, he's been trying to get me to drink freaking banana water. He's like, oh, banana water. And I do it, it's nasty. He's like, banana water — that's the next coconut water." — Shaan Puri
+- "I almost wanna rename the podcast How Lucky Are We?" — Shaan Puri
+- "You're like the Forrest Gump of the tech industry just going into different spaces" — Shaan Puri
+- On why comedians fall off: "When comedians get too rich, they fall off a cliff because they don't have relatable jokes anymore because their life is completely unrelatable at this point." — Shaan Puri
+- Describing Elon's long silence in think mode: "That is the think harder button." — Shaan Puri
+- On biographies: "we get a lot of biographies. Oh, they grew up this way and daddy issues and blah blah blah." — Shaan Puri
+- On the butcher's hand-talking photo: "and feel the meat?" — Shaan Puri
+- On the Webby Awards: "It's basically the Oscars for Internet nerds minus all of the prestige." — Shaan Puri
+- On Larry and Sergey in foil capes at the early Webbys: "the founders of Google, Larry and Sergei wearing giant foil capes and it looks like they're rollerblading." — Shaan Puri
+- On Google's search revenue: "Turns out that wish came, wishes do come true. He got a lot more than a penny." — Shaan Puri
+- On the Harry and David gift basket default: "Who doesn't like huge pears?" — Shaan Puri
+- On teenagers doing amazing things: "we're just picking boogers when we were teens compared to them. And now we're picking boogers." — Shaan Puri
+- On Sam's fear-of-heights rule: "We don't even think it's changing at Floor 49." — Shaan Puri
+- On rejecting corporate sponsors to build prestige: "we would reject them to only raise our profile as being cruel." — Shaan Puri

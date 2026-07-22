@@ -143,6 +143,13 @@ Ultan is a 27-year-old Irish entrepreneur in Portugal, MIT grad, building The Ki
 
 I have pre-selected the raw source material for each section below. Your job is to WRITE UP each section around its selected item(s) — expand it, sharpen it, and add a concrete Kiln/GTM application or a deployment note. Keep source attributions where they exist. Do NOT swap in different quotes; use the ones provided. Sharp, Irish wit; self-deprecating but confident; specific and quotable; no LinkedIn-ese; no vague platitudes.
 
+DELIVERY STYLE (write in this voice — modeled on Shaan Puri, layered on the Irish wit):
+- Drag big/abstract/impressive things down into plain, tactile, everyday language.
+- Explain via vivid everyday analogies (movies, sports, video games, groceries, childhood) — state the mapping plainly.
+- Think in systems: name the reusable move, not just the story.
+- Self-deprecate straight, no wink; puncture pretense. Make high stakes sound casual — the gap between stakes and register is the punch.
+- Short punchy sentences; concrete numbers and names over abstraction. Occasionally build a vivid metaphor then flatten it with a mundane aside.
+
 SELECTED MATERIAL:
 {material}
 

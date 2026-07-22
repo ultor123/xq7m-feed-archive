@@ -122,3 +122,24 @@
 - "Do what you can, with what you have, where you are." — Theodore Roosevelt, History/Culture Soundbites
 - "If you see fraud and do not say fraud, you are a fraud." — Nassim Taleb, History/Culture Soundbites
 - "Simplicity is the ultimate sophistication." — Leonardo da Vinci, History/Culture Soundbites
+- "Whoever moves fast, whoever builds interesting things, whoever creates interesting content is going to benefit from this." — Shaan Puri
+- On the GTA timing edge: "It's this weird thing where you know it's coming, but it's not out yet. So nobody has a head start. Whoever moves fast wins." — Shaan Puri
+- On where to start a business: "There's gonna be a chance to do something in your circle of competence, in an area you know about, and to actually learn business by doing a starter business." — Shaan Puri
+- Massive credit for walking away from vanity metrics: "The first thing was massive credit for walking away from the metrics." — Shaan Puri
+- "Identify the main thing, and then either the person doing it has to be the world class figure it outer of that, or you recruit world class people." — Shaan Puri
+- On paying great people: "This is one of the great asymmetric arbitrages that exist... the mindset shift has to be there of, the whole game is find the best people." — Shaan Puri
+- On protecting momentum: "As a founder, or anybody who tries to make a project happen, I gotta stay with this, I don't wanna lose any momentum." — Shaan Puri
+- On negotiation restraint at the deal table: don't overreach or you might be "catching a falling knife," and don't underreach or "you keep kicking yourself with how much you left on the table." — Shaan Puri (echoing/framing the guest)
+- Study your craft as a marketer — never run ad blocker, live inside the feed you're trying to master. — Shaan Puri
+- Let the other players show their hand before you reveal your interest: praising Rohan's Shark Tank patience — "incredible patience to let the other sharks play out before you chimed in, because obviously you would influence them." — Shaan Puri
+- On product usage as a mandate: implicit rule that CEOs must use their own product and watch average users struggle — "It's surprising how many CEOs don't actually use the product." — Shaan Puri
+- Use your own eyes over dashboards: endorsing the mentor's line, "your two eyes and your two ears" are your most powerful analytics — go see the frontline yourself before waiting on data. — Shaan Puri
+- On selling your company: "The first thing you gotta realize is you don't own it anymore. They do. They have the keys." — Sam Parr (MFM)
+- On earn-out mindset after acquisition: instead of staying pugnacious, "sit down with them and say, what drives success for you? What do you care about?... make it fun. If you do that, oftentimes you got an earn out and it's gonna work for you too." — Sam Parr (MFM)
+- On differentiation over commodity: "don't sell a commodity, create a brand." — Shaan Puri
+- On rebellion with discipline: "He knew what to keep sacred, and he knew what to rebel." — Shaan Puri
+- On copying winners: "literally just copying their playbook is better than hiring a great who's gonna come up with their own playbook." — Shaan Puri
+- On get rich before famous (relaying Naval): "try getting rich first and just see if that does the trick." — Shaan Puri
+- On the audacity/logic/sensitivity triangle needed to build the great things. — Shaan Puri
+- (Sam's personal codes) "going to weddings that are more than an hour away and going above Floor 50, not for me." — Sam Parr (MFM)
+- On be-king-or-be-rich (relaying Jason Cohen, via Sam): "ask yourself, do you wanna be king or you wanna be rich? Because they require different things." — Sam Parr (MFM)

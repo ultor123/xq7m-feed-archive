@@ -1,0 +1,133 @@
+# Segment: Business
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- No barrier, no Power. A benefit alone just invites imitation until returns collapse to average — the barrier is the whole game. — 7 Powers
+- Sell Power, not activity: frame value as building a client's barrier (switching costs, process power), not "more meetings." — 7 Powers
+- The moment to establish Power is the high-growth (takeoff) window — miss it and the door closes. — 7 Powers
+- Diagnostic question for any strategy call: "Where's the barrier?" If an advantage has a benefit but no barrier, it's temporary. — 7 Powers
+- The strategic goal isn't to beat the competition — it's to make it irrelevant by creating uncontested market space. — Blue Ocean Strategy
+- Break the differentiation/low-cost trade-off: pursue differentiation and low cost simultaneously (value innovation). — Blue Ocean Strategy
+- Blue oceans are built by aggregating the demand of noncustomers, not by fighting for existing ones. — Blue Ocean Strategy
+- The biggest untapped pipeline is often the "unexplored" tier — companies that never considered the category at all. — Blue Ocean Strategy
+- "When forced to choose between optimizing the appearance of our GAAP accounting and maximizing the present value of future cash flows, we'll take the cash flows." (1997) — Amazon Letters to Shareholders
+- "If you're long-term oriented, customer interests and shareholder interests are aligned." (2003) — Amazon Letters to Shareholders
+- "A dreamy business offering has at least four characteristics. Customers love it, it can grow to very large size, it has strong returns on capital, and it's durable in time... When you find one of these, don't just swipe right, get married." (2014) — Amazon Letters to Shareholders
+- "Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow." (2016) — Amazon Letters to Shareholders
+- Focus on controllable inputs (selection, price, delivery speed) and trust the outputs (revenue, profit) to follow. (2009) — Amazon Letters to Shareholders
+- Free cash flow per share, not earnings, is the north star — a company can grow earnings while destroying shareholder value; EBITDA is especially misleading because it ignores capital expenditure. — Amazon Letters to Shareholders
+- "We want to make money when people use our devices — not when people buy our devices." — sold Kindle hardware at breakeven (2012) — Amazon Letters to Shareholders
+- Set your prices high and do not flinch; pitch the C-suite, not the manager; propose the ambitious scope, not the safe one — boldness signals confidence, and confidence closes deals (Law 28). — The 48 Laws of Power
+- Make yourself indispensable, not interchangeable: own the client's data layer, enrichment logic, and sequencing so switching cost is enormous (Law 11). — The 48 Laws of Power
+- Use strategic scarcity — "We only take five new clients per quarter" — to flip the power dynamic so prospects pursue you; inbound closes faster, at higher prices, with better terms (Laws 8, 16). — The 48 Laws of Power
+- "You can buy a person's hand, but you can't buy his heart... You can buy his back, but you can't buy his brain. That's where his creativity is." — on why throwing money at a culture problem doesn't work — The 7 Habits of Highly Effective People
+- Win-Win isn't being nice — it's being nice AND tough simultaneously; in any ongoing relationship, anything less than Win-Win is eventually Lose-Lose. — The 7 Habits of Highly Effective People
+- "Management is doing things right; leadership is doing the right things." (Drucker/Bennis, via Covey) — The 7 Habits of Highly Effective People
+- The marginal cost of serving client #10 should be dramatically lower than client #1 — productize the repeatable parts so custom strategy sits on top of standardized infrastructure. — Amazon Letters to Shareholders
+- "The only way on earth to influence other people is to talk about what they want and show them how to get it." — How to Win Friends and Influence People
+- "About 15 percent of one's financial success is due to one's technical knowledge and about 85 percent is due to skill in human engineering -- to personality and the ability to lead people." (Carnegie Foundation research) — How to Win Friends and Influence People
+- "People are not your most important asset. The right people are." — Good to Great
+- "First who, then what": get the right people on the bus, the wrong people off, the right people in the right seats -- then figure out where to drive it. — Good to Great
+- "The purpose of compensation is not to 'motivate' the right behaviors from the wrong people, but to get the right people on the bus in the first place." — Good to Great
+- "Letting the wrong people hang around is unfair to all the right people, as they inevitably find themselves compensating for the inadequacies of the wrong people." — Good to Great
+- "'Stop doing' lists are more important than 'to do' lists." — Good to Great
+- "Two big mediocrities joined together never make one great company." (on acquisitions) — Good to Great
+- Test for a wrong-seat hire: if it were a hiring decision, would you hire them again? If they told you they were leaving, would you feel disappointed or secretly relieved? Act on the answer. — Good to Great
+- Target a single beachhead niche with a compelling, painful reason to buy now; a big fish in a small pond beats a small fish in the ocean. — Crossing the Chasm
+- Deliver the "whole product" -- pragmatists buy the complete turnkey solution, not the core technology. — Crossing the Chasm
+- References must come from within the target niche -- pragmatists trust their own kind; a visionary reference is worthless to a pragmatist. — Crossing the Chasm
+- "The truly gifted negotiator is one whose initial position is exaggerated enough to allow for a series of reciprocal concessions that will yield a desirable final offer, yet is not so outlandish as to be seen as illegitimate from the start." — Influence
+- Structure every proposal as three tiers with the top anchored high; the middle tier feels like a negotiated concession and clients follow through more. — Influence
+- Present the scope of the problem (revenue left on the table) before revealing price; a $5K/month retainer looks trivial next to "$2.3M in pipeline you're not capturing." — Influence
+- Free audits and quick wins aren't charity -- they're commitment devices that shift the prospect's self-image toward "Kiln client." — Influence
+- Sustaining innovation makes a product better on metrics customers already value (incumbents win); disruptive innovation launches worse but cheaper/simpler/more convenient, taking root at the low end. — The Innovator's Dilemma
+- The remedy for self-disruption: house the disruptive effort in a separate autonomous unit small enough to get excited about small wins, with its own cost structure. — The Innovator's Dilemma
+- The best disruption target is nonconsumption — no incumbent is defending it, and the customer is thrilled with a modest solution — Innovator's Solution
+- Segment by the job the customer is hiring the product to do, not by demographics or product category — Innovator's Solution
+- Be impatient for profit (forces a viable model early) but patient for growth (don't force premature scale) — Innovator's Solution
+- When a product isn't good enough yet, money lives in integrated/interdependent architectures; once it's more than good enough it commoditizes and profit migrates to the adjacent bottleneck — Innovator's Solution
+- Hire managers for the problems they've actually wrestled (schools of experience), not their résumé polish — Innovator's Solution
+- "Raising money is never an accomplishment in and of itself — it just raises the stakes for all the hard work you would have had to do anyway: actually building your business." — pmarca
+- "The most valuable thing you can do is actually build your product. When in doubt, focus on that." — pmarca
+- "Never, ever say that you have no competitors. That signals naivete. Great markets draw competitors, and so if you really have no competition, you must not be in a great market." — pmarca
+- "Act like you haven't raised nearly as much money as you actually have." — Barksdale's rule — pmarca
+- "The easiest way to lose control of your spending is to hire too many people. The second easiest way is to pay people too much." — pmarca
+- "I'd rather have someone all fired up to do something for the first time than someone who's done it before and isn't that excited to do it again." — pmarca
+- "If they bullshit you during the hiring process, they'll bullshit you once they're onboard." — pmarca
+- Hire for drive, curiosity, and ethics over pedigree; there's no data correlating raw intelligence with company success — pmarca
+- "It is far more important to fire a bad executive as fast as possible versus a normal employee" — because they're harder to evaluate but cause far more damage. Andy Grove: "You always fire a bad executive too late." — pmarca
+- Don't build a startup that depends on a big-company deal; never assume a deal is closed until cash is in the bank — pmarca
+- Distribution risk is the hardest to eliminate: "If your plan has distribution risk... personally I'd recommend shelving the plan and doing something else." — pmarca
+- Never pitch that you'll capture "just 2%" of a huge market — it signals you have no theory of winning — pmarca
+- Volume beats perfectionism: run 10 variants, measure, double down on what works, rather than perfecting one sequence — Originals
+- Commitment-blueprint startups (hiring for cultural fit and emotional bonds) had a zero percent failure rate in a study of ~200 Silicon Valley startups — but risk insularity as they mature; the cure is making dissent a core value — Originals
+- Sell to the real ruling class (the 3-5 people who actually decide), not the org chart — arm your champion to convince the oligarchy, don't waste cycles on the committee — Machiavellians
+- Combine the "how" and the "what" — clients pay premium prices to people who understand both the surface and the structure — Mastery
+- The person with the widest, most integrated view of the client's full revenue architecture will always command the highest fees — Mastery
+- "If you've invented something new but you haven't invented an effective way to sell it, you have a bad business — no matter how good the product." — Zero to One (Thiel)
+- "Most businesses get zero distribution channels to work: poor sales rather than bad product is the most common cause of failure." — Zero to One (Thiel)
+- "If you want to create and capture lasting value, don't build an undifferentiated commodity business." — Zero to One (Thiel)
+- "The best salespeople are those whose sales ability is hidden. Sales works best when it's invisible." — Zero to One (Thiel)
+- "Everybody has a product to sell… If you don't see any salespeople, you're the salesperson." — Zero to One (Thiel)
+- "Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy." — Naval (How to Get Rich)
+- "You're not going to get rich renting out your time. You must own equity — a piece of a business — to gain your financial freedom." — Naval (How to Get Rich)
+- "You will get rich by giving society what it wants but does not yet know how to get. At scale." — Naval (How to Get Rich)
+- "Learn to sell. Learn to build. If you can do both, you will be unstoppable." — Naval (How to Get Rich)
+- "Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media)." — Naval (How to Get Rich)
+- "Code and media are permissionless leverage. They're the leverage behind the newly rich. You can create software and media that works for you while you sleep." — Naval (How to Get Rich)
+- "Capital and labor are permissioned leverage… someone has to give it to you… someone has to follow you." — Naval (How to Get Rich)
+- "Become the best in the world at what you do. Keep redefining what you do until this is true." — Naval (How to Get Rich)
+- "Businesses that have high creativity and high leverage tend to be ones where you could do an hour of work, and it can have a huge effect. Or you can do 1,000 hours of work, and it can have no effect." — Naval (nav.al/renting-time)
+- "You do not want to compete, you want to be a market of one." — Naval corpus
+- "The team you build is the company you build." — Naval (nav.al/curate-people)
+- Own one word: the strongest brands own a single word or attribute in the mind (safety, overnight, search); trying to own several dilutes all of them. — Positioning (Ries & Trout)
+- The follower's move is to find the open hole — an unowned attribute (size, price, gender, time of use); "The uncola" beats "a better cola." — Positioning (Ries & Trout)
+- The line-extension trap: stretching a strong brand name across many products erodes the single clear idea it owned; a name that means one thing can't also mean everything. — Positioning (Ries & Trout)
+- "Just waste tokens, save time. Don't look at the tokens either as inputs or outputs. Just look at your time, and look at the final output." — Naval (nav.al/tokens)
+- "You always want the smartest model. Intelligence is an unalloyed good… it's always cheaper than a real person, and real-time." — Naval (nav.al/hardware)
+- "People are using AI in the wrong places. They're trying to start AI businesses when they shouldn't start AI businesses. They should use AI in their business." — Hormozi/DOAC
+- "Are you making more money now, even though you're token-maxing?" — Hormozi/DOAC
+- "Price is such a strong signal for value... add a zero to your price tag." — Hormozi/DOAC
+- "The value of talking to people richer than you will do more for you than what you are doing for them." — Hormozi/DOAC
+- "Every problem is a marketing problem." — Hormozi/DOAC
+- "You're broke. It's okay. You cannot be scalable. You can just make money." — Hormozi/DOAC
+- "They try to find in one person what they can more easily find in three." — Hormozi/DOAC (unicorn-hiring trap)
+- "We don't want to create demand. We want to channel it." — Gary Halbert via Hormozi/DOAC
+- "It's not the business's job to solve your emotional needs. The business's job is to serve the customer." — Hormozi/DOAC
+- "Look for things that people would not want to say at parties. There's usually big opportunities there." — Hormozi/DOAC (unsexy, high-margin markets)
+- Don't advertise as an AI business — customers care about the outcome, not your tech stack; many are actively afraid of AI, so leading with it can be a negative. — Hormozi/DOAC
+- Pricing: sell out of the market's wallet, not your own — price is what the customer will pay, not what you feel you deserve; new founders undercharge because a skill is easy for them. — Hormozi/DOAC
+- The "add a zero" test: name a crazy price, then ask "what would I have to do for it to be worth that?" and build the offer up to justify it — "You only need five" premium clients. — Hormozi/DOAC
+- Price of a service has near 1:1 correlation with how advanced the business/owner is — raise price when demand exceeds supply, keep delivering more value than you charge, repeat. — Hormozi/DOAC
+- Big clients (Coca-Cola) are often easier to manage than small terrified ones (the founder who put his mortgage on the line). — Hormozi/DOAC
+- The best retention question, for staff and clients alike: "What would it take for you to work here / be your sole provider forever? Just tell me what it would take." — Hormozi/DOAC
+- The refusal to hire is usually ego ("no one can do what I do" — "a very attractive lie") and fear (the responsibility of payroll); his own early mistake was that his bar wasn't high enough. — Hormozi/DOAC
+- The distilled job of any leader is holding the standard: "the person highest up should have the highest standard — and if someone ever has a higher standard for a unit than I do, they should run it, not me." — Hormozi/DOAC
+- Collapse training time by teaching the way you wish you'd learned it — "go back as though you were teaching it the right way to somebody else." — Hormozi/DOAC
+- The customer pipeline (lead-gen → nurture → sales → onboarding → retention/ascension) mirrors the supply/hiring side (application-gen → nurture → interview → onboarding → retention → ascension) — same machine works for both. — Hormozi/DOAC
+- Choosing who to serve is "one of the highest-leverage decisions you make" — sell to where the money is, not to your own peer group. — Hormozi/DOAC
+- The most slept-on lever in the value equation is speed — "look at what everyone else is doing and do it in half the time; there will always be someone willing to pay a premium for that." — Hormozi/DOAC
+- "Don't find customers for your products. Find products for your customers. The money is in the gap between what they want and what they have." — Alex Hormozi, Business Soundbites
+- "The bottleneck is never the business model. It's always the owner's inability to do the boring work consistently." — Alex Hormozi, Business Soundbites
+- "You don't need more time. You need more leverage. One person with the right system beats ten people with hustle." — Alex Hormozi, Business Soundbites
+- "Most people's problem is they're trying to be clever with 10 leads when they should be dumb with 1,000." — Alex Hormozi, Business Soundbites
+- "Think about what you want to be doing in 10 years and whether the thing you're working on is going to be a meaningful step in that direction. If not, you should probably be doing something else." — Patrick Collison, Business Soundbites
+- "People dramatically underestimate the compounding returns of moving faster... they learn twice as fast, which means they compound twice as fast." — Patrick Collison, Business Soundbites
+- "The best companies are the ones where the founders care about things that don't obviously matter. The details compound." — John Collison, Business Soundbites
+- "The hardest thing in building a company is keeping it simple. Complexity is the default. Simplicity requires constant, active effort." — John Collison, Business Soundbites
+- "Revenue is vanity, profit is sanity, but cash flow is reality. The number of companies that die with great revenue is staggering." — Chamath, Business Soundbites
+- "In the age of AI, the only moat is speed of execution and depth of customer understanding. Everything else is a speed bump, not a wall." — Chamath, Business Soundbites
+- "The difference between a $1M company and a $100M company is usually the founder's willingness to do the things that don't scale — for way longer than feels reasonable." — Jason Calacanis, Business Soundbites
+- "Every great company was built by a founder who could sell. Not pitch, not present — sell. Close the deal, collect the check, ship the product." — Jason Calacanis, Business Soundbites
+- "You know you have product-market fit when customers are pulling the product out of your hands. If you're pushing, you don't have it yet." — David Sacks, Business Soundbites
+- "The best SaaS companies don't sell software. They sell a promoted version of their customer. Here's who you are today, here's who you'll be with us." — David Sacks, Business Soundbites
+- "Enterprise sales is just convincing 7 people in a row that you're worth the risk. The product is table stakes. The sale is won on trust." — David Sacks, Business Soundbites
+- "Growth solves most problems. When you're growing fast, people are happy... When you're not, every small issue becomes existential." — Sam Altman, Business Soundbites
+- "We're about to have AI that can do the work of a 10-person team. The founders who figure out how to orchestrate that will build billion-dollar companies with 10 employees." — Sam Altman, Business Soundbites
+- "The best businesses solve problems that people are embarrassed to talk about, or bored of dealing with. Shame and boredom are the two most underrated market signals." — Shaan Puri, Business Soundbites
+- "The most valuable business lesson I've learned: boring businesses make exciting money. The sexiest business model is the one that prints cash quietly." — Sam Parr, Business Soundbites
+- "Content is the cheapest form of customer acquisition that exists. One viral piece of content can do what a $500k ad budget can't." — Sam Parr, Business Soundbites
+- "The fortune is in the follow-up. Not because people are playing hard to get, but because they're busy and you're not that important to them yet." — Alex Hormozi, Business Soundbites
+- "Every CEO is a salesperson. If you can't sell your vision to employees, customers, and investors, you don't have a company — you have a hobby." — Marc Benioff, Business Soundbites
+- "Cold email works when you lead with insight, not with your pitch. Show someone you understand their world better than they expect, and the meeting books itself." — Shaan Puri, Business Soundbites
+- "You can't create demand with a form fill. You create demand by being so useful and insightful that people come looking for you." — Chris Walker, Business Soundbites
+- "Before asking for more headcount, show me what it looks like with AI doing everything it can. The ceiling for a small team with great tools has never been higher." — Tobi Lutke, Business Soundbites

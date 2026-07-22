@@ -1,0 +1,95 @@
+# Segment: Contrarian
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- "The paranoid and wary are often the easiest to deceive." — people who think they cannot be fooled are the ripest targets (Law 3). — The 48 Laws of Power
+- "I learned that you actually have more power when you shut up." (Andy Warhol, Law 4) — The 48 Laws of Power
+- Negative reviews are good for business — they help customers decide, build trust, and the short-term sales loss is dwarfed by the long-term trust gain (2003). — Amazon Letters to Shareholders
+- Amazon let third parties compete on its own product pages; everyone thought it was suicide, but third-party units went from 6% to over 50% of all units sold. — Amazon Letters to Shareholders
+- Amazon lowered prices even when its own price-elasticity data said raising them was the smart short-term move — betting the compounding trust effect wins over a decade (2005). — Amazon Letters to Shareholders
+- AWS Trusted Advisor actively tells customers how to stop spending money with Amazon — "I'm pretty sure we're the only IT vendor telling customers how to stop spending money with us." (2012/2015) — Amazon Letters to Shareholders
+- "I constantly remind our employees to be afraid, to wake up every morning terrified. Not of our competition, but of our customers." (1998) — Amazon Letters to Shareholders
+- Independence is overrated — the self-help world puts it on a pedestal, but it's only an intermediate achievement; the real goal is interdependence. — The 7 Habits of Highly Effective People
+- The problem isn't lack of discipline — it's lack of vision; when your "yes" is burning hot enough, saying "no" becomes easy. — The 7 Habits of Highly Effective People
+- Efficiency with people is counterproductive — you're efficient with things and effective with people; a "10-minute quality conversation" to resolve an issue usually makes things worse. — The 7 Habits of Highly Effective People
+- Positive thinking without correct paradigms is useless — a great attitude with the wrong map just gets you to the wrong place faster with a smile on your face. — The 7 Habits of Highly Effective People
+- Winning the argument loses the deal: "You can't win an argument. You can't because if you lose it, you lose it; and if you win it, you lose it." — How to Win Friends and Influence People
+- People don't buy on logic -- they buy on emotion and justify with logic afterward. — How to Win Friends and Influence People
+- Criticism doesn't change behavior, it entrenches it -- even Al Capone thought he was a public benefactor. — How to Win Friends and Influence People
+- Celebrity CEOs are negatively correlated with greatness; comparison companies hired flashy outside saviors 6x more often, and 10 of 11 good-to-great CEOs came from inside. — Good to Great
+- Executive compensation shows zero systematic link to going from good to great -- you can't bribe someone into a moral code demanding excellence. — Good to Great
+- Strategy doesn't separate good from great -- both sets had good strategies; the difference was deeper understanding and disciplined execution. — Good to Great
+- Growth is not a Hedgehog Concept -- not one good-to-great company obsessed over growth, yet they grew more; the problem becomes how not to grow too fast. — Good to Great
+- "Technology is an accelerator of momentum, not a creator of it." — Good to Great
+- Scarcity doesn't make things better -- it makes people dumber: scarce cookies were rated more desirable but didn't taste any better. — Influence
+- The more people who could help, the fewer who will -- 85% helped when alone, only 31% with five bystanders present. — Influence
+- Threats produce compliance but destroy commitment -- lightly-reasoned persuasion creates lasting behavior, heavy pressure breeds churn. — Influence
+- Newly scarce beats always scarce -- "we just had to cap new client intake" hits harder than "we only take 10 clients." — Influence
+- Liking beats liking the product -- reciprocity wiped out the effect of liking entirely in the Regan raffle study. — Influence
+- Making something hard to attain makes people value it more (effort justification). — Influence
+- "Your competitor isn't the company that does what you do better -- it's the one doing something you consider beneath you." — The Innovator's Dilemma
+- Don't only build what current clients ask for -- their requests point at sustaining work; keep a separate track for what the market wants next. — The Innovator's Dilemma
+- Markets that don't exist can't be analyzed -- big-company planning demands data that doesn't yet exist, so disruptive opportunities get screened out. — The Innovator's Dilemma
+- "The best product doesn't win — the best market wins." The world's best software for an OS nobody runs is worth zero — pmarca
+- "The #1 company-killer is lack of market." — Rachleff's Law — pmarca
+- "Markets that don't exist don't care how smart you are." — pmarca
+- "Career planning = career limiting." Andreessen's first rule of career planning: don't plan your career — pmarca
+- "Intelligence is highly overrated" for hiring — no data links raw IQ to company success — pmarca
+- "Bubbles are extremely rare, and people predicting them are almost always wrong" — "technology industry experts have successfully predicted nine of the last five bubbles" — pmarca
+- "If everyone agrees right up front that whatever you are doing makes total sense, it probably isn't a new and radical enough idea to justify a new company." — pmarca
+- Originals are not natural risk-takers — entrepreneurs are significantly more risk-averse than the general population; "burn the boats" is survivor bias — Originals
+- "Entrepreneurs who kept their day jobs had 33 percent lower odds of failure than those who quit." — Originals
+- First-mover advantage is largely a myth — pioneers failed at 6x the rate of settlers (47% vs. 8%) — Originals
+- "Practice makes perfect, but it doesn't make new." — child prodigies master rules but rarely change the world — Originals
+- Procrastination can fuel creativity — procrastinators produced 28% more creative solutions; da Vinci worked on the Mona Lisa on and off for ~16 years — Originals
+- Passion in a pitch is a red flag, not a green light; the real signal is passion for execution, visible in actions — Originals
+- "'Don't bring me problems; bring me solutions' is wrong" — a solutions-only culture kills inquiry and breeds groupthink — Originals
+- Cohesion doesn't cause groupthink — Janis's theory is debunked; the real culprits are overconfidence and reputational fear — Originals
+- "The biggest barrier to originality is not idea generation — it's idea selection." 87% of generated ideas are unique; the bottleneck is choosing — Originals
+- Rational argument almost never changes anything that matters — you can scientifically disprove any doctrine and it changes nothing, because beliefs rest on non-logical drives — Machiavellians
+- The people who "just want what's best for everyone" are the most dangerous — "the men who spilt most blood were precisely those who had the greatest desire to let their equals enjoy the golden age" — Machiavellians
+- Humanitarian ideals often increase total violence — denying force drives it underground where it becomes more vicious — Machiavellians
+- The "self-taught" path is usually inferior, not more authentic — refusing mentorship usually stems from insecurity; even Edison used Faraday's books as a substitute mentor — Mastery
+- Natural talent is mostly irrelevant and often a curse — Darwin was "below the common standard in intellect"; Galton had a higher IQ but never mastered anything — Mastery
+- Drugs and madness don't produce creativity — discipline does; Coltrane did his worst work on heroin — Mastery
+- "The representative has himself elected by the voters, not the voters who choose the representative." Flip for business: vendors engineer the conditions under which customers select them — Machiavellians
+- "Capitalism and competition are opposites… under perfect competition all profits get competed away." — Zero to One (Thiel)
+- "Competition is not healthy — it's destructive." Competition destroys profits, forces commodity positioning, and distracts you from building anything new. — Zero to One (Thiel)
+- "First mover advantage is overrated. Last mover advantage is what matters." — Zero to One (Thiel)
+- "A bad plan is better than no plan." — Zero to One (Thiel)
+- "Disruption is a self-congratulatory buzzword that distorts strategy." Truly new companies don't disrupt — they make the old industry irrelevant. — Zero to One (Thiel)
+- "The most contrarian thing of all is not to oppose the crowd but to think for yourself." — Zero to One (Thiel)
+- "Monopolists lie to protect themselves. Non-monopolists lie to themselves." — Zero to One (Thiel)
+- "Leanness is a methodology, not a goal. Iteration without a bold plan won't take you from 0 to 1." — Zero to One (Thiel)
+- "Computers are complements for humans, not substitutes." The most valuable businesses will empower people rather than make them obsolete. — Zero to One (Thiel)
+- "Don't look for gaps, create new things." — Naval (2026-05-29)
+- "Reject most advice: most advice is people giving you their winning lottery ticket numbers." — Naval (nav.al/reject-advice)
+- "If you eat, invest, and think according to what the 'news' advocates, you'll end up nutritionally, financially and morally bankrupt." — Naval
+- "There is no skill called 'business.' Avoid business magazines and business classes." — Naval (How to Get Rich)
+- "The new competition isn't Humans vs AI. It's Humans with AI vs everyone else." — Naval (2026-05-26)
+- "Anthropic doesn't have Claude, Claude has Anthropic." — Naval (2026-05-25)
+- "Forty hour workweeks are a relic of the Industrial Age. Knowledge workers function like athletes — train and sprint, then rest and reassess." — Naval
+- "Organization is the enemy of innovation." — Naval
+- Positioning is not something you do to a product — it's what you do to the mind of the prospect; being first beats being better. — Positioning (Ries & Trout)
+- "Focus and patience are the two enduring competitive advantages, because they're so anti-human." (adds: "so anti-Instagram") — Hormozi/DOAC
+- "The fastest way to build a $10 million business is not the fastest way to build a $100 million business." — Hormozi/DOAC
+- "There are mistakes of picking the wrong path, but I think there are more mistakes of abandoning the right path." — Hormozi/DOAC
+- "Reality is the moat." — Hormozi/DOAC
+- "Do not delegate the hardest thinking work you have, because you will just get so weak so fast." — Hormozi/DOAC
+- "AI can give all of the recommendations in the world, but someone has to own the decision." — Hormozi/DOAC
+- Being good at marketing and sales is dangerous — you can grow revenue fast enough to mask a leaky bucket, and the moment sales stop the business craters. — Hormozi/DOAC
+- The $1M founder's problem isn't sales velocity, it's stickiness — he should have stayed longer in the product-market-fit phase making sure customers stay. — Hormozi/DOAC
+- Automating back-office work when you're demand-constrained is theatre — point the automation at the constraint, not the vanity project. — Hormozi/DOAC
+- "Competition is for losers. If you're competing, you've already lost." — Peter Thiel, Business Soundbites
+- "Every great company is built on a secret — something important and true that most people don't agree with you on. What do you believe that nobody else does?" — Peter Thiel, Business Soundbites
+- "Don't be the best. Be the only. If you're the only one doing what you do, you don't need to be the best at it." — Shaan Puri, Business Soundbites
+- "It's easier to start a hard company than an easy company. The hard company attracts better people, has less competition, and the work is more meaningful." — Sam Altman, Business Soundbites
+- "The best founders don't time markets. They build something so fundamental that they create the market timing." — Chamath, Business Soundbites
+- "Most businesses are just arbitraging information asymmetry. The question is whether that asymmetry is growing or shrinking. If it's shrinking, you're on borrowed time." — David Friedberg, Business Soundbites
+- "The companies that win with AI won't be the ones that use it to cut costs. They'll be the ones that use it to do things that were previously impossible." — David Friedberg, Business Soundbites
+- "I don't think abstention from participating in building technology for national security is a morally neutral decision. You are making a moral decision when you decide to abstain." — Sean Sankar, Business Soundbites
+- "The three most harmful addictions are heroin, carbohydrates, and a monthly salary." — Nassim Taleb, History/Culture Soundbites
+- "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." — George Bernard Shaw, History/Culture Soundbites
+- "The difference between successful people and really successful people is that really successful people say no to almost everything." — Warren Buffett, Philosophy Soundbites
+- "All I want to know is where I'm going to die, so I'll never go there. Invert, always invert." — Charlie Munger, Philosophy Soundbites
+- "If you want to improve, be content to be thought foolish and stupid." — Epictetus, Philosophy Soundbites
+- "I think it's important to reason from first principles rather than by analogy... You boil things down to the most fundamental truths and then reason up from there." — Elon Musk, Philosophy Soundbites

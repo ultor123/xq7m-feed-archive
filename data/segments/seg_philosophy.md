@@ -1,0 +1,86 @@
+# Segment: Philosophy
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- "Between stimulus and response, man has the freedom to choose." (Viktor Frankl, via Covey) — The 7 Habits of Highly Effective People
+- "We see the world, not as it is, but as we are — or, as we are conditioned to see it." — The 7 Habits of Highly Effective People
+- "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." (Teilhard de Chardin, via Covey) — The 7 Habits of Highly Effective People
+- "Love is a verb. Love — the feeling — is a fruit of love the verb." — the feeling follows the action, not the other way around — The 7 Habits of Highly Effective People
+- "That which we persist in doing becomes easier — not that the nature of the task has changed, but our ability to do has increased." (Emerson, via Covey) — The 7 Habits of Highly Effective People
+- All things are created twice — first in the mind, then in reality; if you don't design the first creation consciously, other people's agendas design it for you by default. — The 7 Habits of Highly Effective People
+- You don't "find" your mission — you detect it. It's already there; the work is stripping away conditioning and borrowed scripts to reveal what was always underneath. — The 7 Habits of Highly Effective People
+- "Never waste valuable time, or mental peace of mind, on the affairs of others — that is too high a price to pay." (Greene, Preface) — The 48 Laws of Power
+- "The value of a thing sometimes lies not in what one attains with it, but in what one pays for it — what it costs us." (Nietzsche) — The 48 Laws of Power
+- Missionaries build better products than mercenaries — genuinely caring about outcomes is the difference between a partner and a vendor. — Amazon Letters to Shareholders
+- "When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity." — How to Win Friends and Influence People
+- "The deepest principle in human nature is the craving to be appreciated." (William James) — How to Win Friends and Influence People
+- "Good is the enemy of great... Few people attain great lives, in large part because it is just so easy to settle for a good life." — Good to Great
+- "Greatness is not a function of circumstance. Greatness, it turns out, is largely a matter of conscious choice." — Good to Great
+- "It is no harder to build something great than to build something good." — Good to Great
+- Those who turn good into great are driven by an inner compulsion for excellence for its own sake; those who perpetuate mediocrity are driven by fear of being left behind. — Good to Great
+- "Civilization advances by extending the number of operations we can perform without thinking about them." (Whitehead) — Influence
+- "We are human because our ancestors learned to share their food and their skills in an honored network of obligation." (Leakey) — Influence
+- "The joy is not in experiencing a scarce commodity but in possessing it." — Influence
+- Well-run companies fail because they are well-run: listening to your best customers and protecting fat margins is exactly what blinds you to disruption. — The Innovator's Dilemma
+- "At your birth a seed is planted. That seed is your uniqueness... Your Life's Task is to bring that seed to flower." — Mastery
+- "No good can ever come from deviating from the path that you were destined to follow. You will be assailed by varieties of hidden pain." — Mastery
+- "The need for certainty is the greatest disease the mind faces." — Keats's Negative Capability, via Greene — Mastery
+- "Understand: your work is the single greatest means at your disposal for expressing your social intelligence." — Mastery
+- "It is an emotional quality that separates those who master a field from the many who simply work at a job." — desire, patience, persistence, not raw IQ — Mastery
+- "Your thoughts will tend to revolve around what you value most." — Mastery
+- "Do something you love." Most productivity tactics exist to free you to pursue core interests; if you're not spending most of your time on what you love, it's time for a change — pmarca
+- "Only agree to new commitments when both your head and your heart say yes." — pmarca
+- "The world is a very malleable place. If you know what you want, and you go for it with maximum energy and drive and passion, the world will often reconfigure itself around you much more quickly and easily than you would think." — pmarca
+- "Originality is not a fixed trait. It is a free choice." — Originals
+- "The hallmark of originality is rejecting the default and exploring whether a better option exists." — Originals
+- Freedom means institutionalized protections against arbitrary power — liberty is preserved not by unity but by conflict, not by harmony but by the clash of opposing interests — Machiavellians
+- Stop listening to what leaders say they want; watch what they do — the gap between formal and real meaning is where all the useful information lives — Machiavellians
+- "A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned." — Naval (2018-02-22)
+- "Desire is a contract you make with yourself to be unhappy until you get what you want." — Naval
+- "Happiness is a state where nothing is missing." — Naval
+- "We say peace of mind but what we really want is peace from mind." — Naval (2018-06-08)
+- "Peace is happiness at rest; happiness is peace in motion. The ultimate goal is not happiness. The goal is peace." — Naval (nav.al/peace)
+- "The closer you are to the truth, the more silent you become inside." — Naval (2019-06-21)
+- "Individuals search for truth, groups search for consensus." — Naval (2019-06-21)
+- "Guilt is society's voice speaking in your head." — Naval (2017-09-10)
+- "Reality is neutral. Reality has no judgments… How you choose to interpret that is up to you. And you do have that choice." — Naval
+- "You're not smart because you're unhappy; you're unhappy because you're smart." — Naval (nav.al/smart)
+- "The modern devil is cheap dopamine." — Naval (2020-05-25)
+- "In an age of abundance, pursuing pleasure for its own sake creates addiction." — Naval (2019-10-13)
+- "By the time people realize that they have enough money, they've lost their time and their health." — Naval
+- "That's the fundamental delusion – that there is something out there that will make you happy forever." — Naval
+- "If we want peace, we have to give up on self-conflict. We even have to give up on self-improvement, because self-improvement is just a dressed up form of self-conflict." — Naval (nav.al/truth)
+- "A man expresses love through duty." — Naval (2026-05-23)
+- "If the people you most look up to are investors and financiers, then your God is money." — Naval (2026-05-26)
+- "What you really want is a challenge at the edge of your capability." — Naval (2026-05-20)
+- "Escape competition through authenticity, when you realize that no one can compete with you on being you." — Naval
+- "The human brain isn't designed to process all of the world's breaking emergencies in realtime." — Naval (2026-03-06)
+- "Someone's version of you has to die. It's either your desired version of you or someone else's desired version of you. And the thing is, you're going to be with you a lot longer than they are." — Hormozi/DOAC
+- "You want certainty from a world that will give you none. And if you were uncomfortable with that, entrepreneurship might not be for you." — Hormozi/DOAC
+- "You are trying to solve tomorrow's problems with today's resources — and it's a fallacy. Future you will have them. But the hard part is future is a stranger." — Hormozi/DOAC
+- "Many people will sell you happiness. I will not be one of them. I try to sell quantitative things." — Hormozi/DOAC
+- "Figuring out what you want is 99% of the work. The easy part is getting it." — Hormozi's first boss, via Hormozi/DOAC
+- "We only want what we don't have... we only remember good and not bad." — Hormozi/DOAC (punishment fades, reward sticks)
+- On freedom vs. commitment: "all of the best parts of life come on the other side of exercising an option and walking through a door" — the secret to a life you want is making a commitment and sitting at the precipice to make a trade. — Hormozi/DOAC
+- On happiness being partly fixed: ~half of subjective well-being is genetic, and "strivers" are made by a parent who withholds approval except for achievement — teaching that love is earned. — Arthur Brooks via Hormozi/DOAC
+- His strongest indicator that he's okay: "I aggressively want to keep living" — citing Camus, the meaning of your life is the reason you don't kill yourself, and that answer changes over time. — Hormozi/DOAC
+- On death as daily practice: he wants to fast-forward to being 80 — the very young and very old share little responsibility and not caring what others think — "I want to pull as much of that forward as I can." — Hormozi/DOAC
+- The peach-tree parenting view: control the controllables (water, sunlight), you can't decree the output or change the seed — equip kids with as many skills as possible so whatever they want, they have the tools to get it. — Hormozi/DOAC
+- "she has never tried to change me... you can want him to be a peach tree or an apple tree, but he's going to be Alex." — Hormozi/DOAC (on Leila)
+- "Keep your identity small. The more labels you have for yourself, the stupider you become on every topic that identity touches." — Paul Graham, History/Culture Soundbites
+- "Play long-term games with long-term people. All returns in life — whether in wealth, relationships, or knowledge — come from compound interest." — Naval Ravikant, History/Culture Soundbites
+- "You're not going to get rich renting out your time. You must own equity — a piece of a business — to gain your financial freedom." — Naval Ravikant, History/Culture Soundbites
+- "Seek wealth, not money or status. Wealth is having assets that earn while you sleep." — Naval Ravikant, Philosophy Soundbites
+- "Earn with your mind, not your time. If you're still trading time for money, you haven't figured out leverage yet." — Naval Ravikant, Philosophy Soundbites
+- "Read what you love until you love to read. The information diet is more important than the food diet." — Naval Ravikant, Philosophy Soundbites
+- "Life isn't about finding yourself. Life is about creating yourself." — George Bernard Shaw, History/Culture Soundbites
+- "When I let go of what I am, I become what I might be." — Lao Tzu, History/Culture Soundbites
+- "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." — Rumi, History/Culture Soundbites
+- "The wound is the place where the Light enters you." — Rumi, History/Culture Soundbites
+- "Your time is limited, don't waste it living someone else's life." — Steve Jobs, History/Culture Soundbites
+- "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." — Steve Jobs, History/Culture Soundbites
+- "The happiness of your life depends upon the quality of your thoughts." — Marcus Aurelius, Philosophy Soundbites
+- "The soul becomes dyed with the colour of its thoughts." — Marcus Aurelius, Philosophy Soundbites
+- "Very little is needed to make a happy life; it is all within yourself, in your way of thinking." — Marcus Aurelius, Philosophy Soundbites
+- "It is not that we have a short time to live, but that we waste a great deal of it." — Seneca, Philosophy Soundbites
+- "The whole future lies in uncertainty: live immediately." — Seneca, Philosophy Soundbites
+- "No man is free who is not master of himself." — Epictetus, Philosophy Soundbites

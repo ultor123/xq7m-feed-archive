@@ -1,153 +1,212 @@
 #!/usr/bin/python3
 """
-Auto-generate today's DLE text using the Claude API.
-Pulls from context library, avoids dates already in DLE Advice.md.
-Writes the result to a temp file for the audio pipeline to consume.
+Auto-generate today's DLE (Daily Learning & Enrichment) episode text.
+
+Segment-pool model: the library is pre-shredded into per-segment pools under
+data/segments/. Each episode pulls ONE unused item from each pool (three from
+vocabulary), records what was used so nothing repeats until a pool is exhausted,
+then hands those specific items to Claude to write the episode around them.
+Generation runs through the Claude Code CLI on Ultan's subscription.
 """
 
 import os
 import re
 import sys
 import json
+import random
+import hashlib
 from datetime import date
 from pathlib import Path
 
-# Generation runs through the Claude Code CLI on Ultan's subscription (not the
-# paid Anthropic API). We deliberately strip ANTHROPIC_API_KEY from the CLI's
-# environment so it authenticates via the subscription OAuth login instead of a
-# (possibly depleted) API key that may be exported in the shell.
+# --- Claude CLI (subscription auth; API key stripped in call_claude) ---
 CLAUDE_BIN = os.path.expanduser("~/.local/bin/claude")
 if not os.path.exists(CLAUDE_BIN):
-    CLAUDE_BIN = "claude"  # fall back to PATH lookup
+    CLAUDE_BIN = "claude"
 MODEL = "claude-sonnet-4-6"
 
-# Paths — DLE_HOME lets the same code run locally (~/dle) and in CI ($GITHUB_WORKSPACE)
+# --- Paths (DLE_HOME = ~/dle locally, $GITHUB_WORKSPACE in CI) ---
 DLE_HOME = os.environ.get("DLE_HOME", os.path.expanduser("~/dle"))
 DLE_FILE = os.path.join(DLE_HOME, "data/DLE_Advice.md")
-CONTEXT_DIR = os.path.join(DLE_HOME, "data/context")
+SEG_DIR = os.path.join(DLE_HOME, "data/segments")
+USED_FILE = os.path.join(SEG_DIR, "_used.json")
 OUTPUT_TEXT = os.environ.get("DLE_OUT_TEXT", "/tmp/dle_today_text.md")
 OUTPUT_AUDIO_SCRIPT = os.environ.get("DLE_OUT_AUDIO", "/tmp/dle_today_audio.txt")
 
-today = os.environ.get("DLE_DATE") or date.today().isoformat()  # DLE_DATE allows backfilling past dates
+today = os.environ.get("DLE_DATE") or date.today().isoformat()
+
+# Episode segments: (pool slug, episode section label, how many items to pull)
+SEGMENTS = [
+    ("humor",      "The Funny One",      1),
+    ("business",   "Business Insight",   1),
+    ("philosophy", "Deep Line",          1),
+    ("frameworks", "Thought Principle",  1),
+    ("vocabulary", "New Words & Terms",  3),
+    ("stoic",      "Stoic Closer",       1),
+    ("contrarian", "Contrarian Take",    1),
+    ("analogies",  "Analogy",            1),
+    ("stories",    "Story",              1),
+    ("rules",      "Rule of Thumb",      1),
+]
+
+
+def _hash(text):
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+
+
+def load_pool(slug):
+    path = os.path.join(SEG_DIR, f"seg_{slug}.md")
+    items = []
+    if not os.path.exists(path):
+        return items
+    for ln in open(path):
+        ln = ln.rstrip("\n")
+        if ln.startswith("- "):
+            text = ln[2:].strip()
+            if text:
+                items.append((_hash(text), text))
+    return items
+
+
+def load_used():
+    if os.path.exists(USED_FILE):
+        try:
+            return json.load(open(USED_FILE))
+        except Exception:
+            return {}
+    return {}
+
+
+def save_used(used):
+    os.makedirs(SEG_DIR, exist_ok=True)
+    json.dump(used, open(USED_FILE, "w"), indent=0)
+
+
+def pick_items():
+    """Return {slug: [(hash, text), ...]} choosing unused items per pool.
+    Reproducible per date; recycles a pool once every item has been used."""
+    used = load_used()
+    picks = {}
+    for slug, _label, n in SEGMENTS:
+        pool = load_pool(slug)
+        if not pool:
+            picks[slug] = []
+            continue
+        used_set = set(used.get(slug, []))
+        available = [it for it in pool if it[0] not in used_set]
+        if len(available) < n:  # exhausted -> recycle this pool
+            used_set = set()
+            available = pool
+        rng = random.Random(f"{today}-{slug}")
+        chosen = rng.sample(available, min(n, len(available)))
+        picks[slug] = chosen
+    return picks
+
+
+def mark_used(picks):
+    used = load_used()
+    for slug, chosen in picks.items():
+        cur = set(used.get(slug, []))
+        pool_size = len(load_pool(slug))
+        for h, _t in chosen:
+            cur.add(h)
+        if len(cur) >= pool_size:  # fully cycled -> reset
+            cur = set(h for h, _ in chosen)
+        used[slug] = sorted(cur)
+    save_used(used)
 
 
 def read_dle_history():
     if not os.path.exists(DLE_FILE):
         return "", []
-    with open(DLE_FILE) as f:
-        content = f.read()
+    content = open(DLE_FILE).read()
     dates_used = re.findall(r'^## (\d{4}-\d{2}-\d{2})', content, flags=re.MULTILINE)
-    # Get last 2000 chars for recent context
-    tail = content[-5000:]
-    return tail, dates_used
-
-
-def read_context_files():
-    """Read all distilled context files (soundbites + books)."""
-    files = []
-    for f in sorted(Path(CONTEXT_DIR).glob("*.md")):
-        files.append((f.name, f.read_text()))
-    return files
+    return content[-4000:], dates_used
 
 
 def build_prompt():
-    import random
-    recent_dle, dates_used = read_dle_history()
-    context_files = read_context_files()
+    recent_dle, _dates = read_dle_history()
+    picks = pick_items()
 
-    # Rotate context daily — send 5 files per day (1 soundbites + 4 random "deep" sources)
-    # Deep sources = books, podcast transcripts (senra), thinker corpora (naval, etc.)
-    # This keeps the prompt manageable and the daily output fresher.
-    soundbite_files = [f for f in context_files if "soundbites" in f[0] or "frameworks" in f[0]]
-    deep_files = [
-        f for f in context_files
-        if f[0].startswith("book_")
-        or f[0].startswith("podcast_")   # distilled podcast episodes (e.g. Hormozi on DOAC)
-        or "senra" in f[0]
-        or f[0].startswith("naval")
-    ]
+    # Assemble the selected source items, one block per segment.
+    blocks = []
+    for slug, label, _n in SEGMENTS:
+        chosen = picks.get(slug, [])
+        if not chosen:
+            continue
+        lines = "\n".join(f"  - {t}" for _h, t in chosen)
+        blocks.append(f"### {label} (from the '{slug}' pool)\n{lines}")
+    material = "\n\n".join(blocks)
 
-    # Seed by date so the same day always picks the same files (reproducible)
-    rng = random.Random(today)
-    picked_deep = rng.sample(deep_files, min(4, len(deep_files)))
-    picked_soundbite = rng.choice(soundbite_files) if soundbite_files else None
-
-    selected = ([picked_soundbite] if picked_soundbite else []) + picked_deep
-    context_bundle = "\n\n".join(
-        f"=== {name} ===\n{text[:50000]}"  # generous per-file cap: full files fit (Hormozi ~45k)
-        for name, text in selected
-    )
-
-    avoid_list = ", ".join(dates_used[-25:])  # last 25 entries
-
-    return f"""You are writing Ultan's Daily Learning and Enrichment (DLE) entry for {today}.
+    prompt = f"""You are writing Ultan's Daily Learning and Enrichment (DLE) episode for {today}.
 
 Ultan is a 27-year-old Irish entrepreneur in Portugal, MIT grad, building The Kiln (GTM infrastructure agency, $20k/mo, targeting 100k MRR). He uses the DLE for podcast appearances, client pitches, and daily intellectual sharpening.
 
-OUTPUT FORMAT — produce TWO sections separated by `===AUDIO===`:
+I have pre-selected the raw source material for each section below. Your job is to WRITE UP each section around its selected item(s) — expand it, sharpen it, and add a concrete Kiln/GTM application or a deployment note. Keep source attributions where they exist. Do NOT swap in different quotes; use the ones provided. Sharp, Irish wit; self-deprecating but confident; specific and quotable; no LinkedIn-ese; no vague platitudes.
 
-**Section 1 (Markdown for the DLE file):** Use this exact structure:
+SELECTED MATERIAL:
+{material}
+
+OUTPUT FORMAT — produce TWO sections separated by a line containing only `===AUDIO===`.
+
+**Section 1 (Markdown):** exactly this structure:
 
 ## {today}
 
 ### 1. The Funny One
-> "quote"
-Brief deployment context.
+> "the humor item"
+One line on when to deploy it.
 
 ### 2. Business Insight
-**A — [source]:** Short punchy insight, Kiln-specific application.
-**B — [source]:** Same.
+**[source]:** the insight, sharpened + a Kiln application.
 
 ### 3. Deep Line
-> "quote" — Attribution
+> "the philosophy quote" — Attribution
 1-2 sentence reframe.
 
 ### 4. Thought Principle: [name]
-2-3 sentences explaining it + Kiln application.
+2-3 sentences explaining the framework + Kiln application.
 
 ### 5. New Words & Terms
 **Word1** — definition + usage example.
 **Word2** — same.
 **Word3** — same.
 
-### 6. Stoic Closer
-> "quote" — Attribution
+### 6. Contrarian Take
+> "the contrarian line"
+1-2 sentences on why it's right and how Ultan uses it.
+
+### 7. Analogy
+The analogy, written so it lands, + what it explains for The Kiln.
+
+### 8. Story
+The anecdote with its specifics (names, numbers, outcome) + the lesson.
+
+### 9. Rule of Thumb
+**The rule** — 1-2 sentences on how to apply it.
+
+### 10. Stoic Closer
+> "the stoic line" — Attribution
 One sentence.
 
-### 7. Daily Math: [concept]
-Concept + business example + insight + today's exercise. Math should progress through this curriculum: Expected Value, Bayes' Theorem, Law of Large Numbers, Standard Deviation, Normal Distribution, Confidence Intervals, Regression to the Mean, Pareto Distribution, Conditional Probability, Monte Carlo, Markov Chains, Kelly Criterion. Check the recent DLE entries below to see what's been covered — do the NEXT topic in the sequence.
+### 11. Daily Math: [concept]
+Concept + business example + insight + today's exercise. Progress through this curriculum, doing the NEXT topic not yet covered in recent entries: Expected Value, Bayes' Theorem, Law of Large Numbers, Standard Deviation, Normal Distribution, Confidence Intervals, Regression to the Mean, Pareto Distribution, Conditional Probability, Monte Carlo, Markov Chains, Kelly Criterion.
 
-**Section 2 (Plain text for audio):** Same content but written for text-to-speech. Use "number one" instead of "1.", spell out symbols, avoid markdown. Start with "Your daily learning and enrichment for [date in spoken form]." End with "That's your daily learning and enrichment. Go make it count."
+**Section 2 (Plain text for audio):** the same content written for text-to-speech — spell out "number one" etc., no markdown symbols. Start with "Your daily learning and enrichment for [date in spoken form]." End with "That's your daily learning and enrichment. Go make it count."
 
-RULES:
-- NEVER repeat a quote, word, or concept that's appeared in recent DLE entries (see below).
-- Pull material from the context library (soundbites + 11 distilled books + DLE Advice history).
-- Sharp, Irish wit. Self-deprecating but confident. Avoid LinkedIn-ese.
-- Specific, concrete, quotable. No vague platitudes.
-
-DATES ALREADY USED (avoid repeating their material): {avoid_list}
-
-RECENT DLE ENTRIES (the last few days — don't repeat anything here):
+RECENT EPISODES (for math continuity + so you don't repeat phrasing):
 {recent_dle}
 
-CONTEXT LIBRARY (rotating subset — 5 files chosen by today's date):
-{context_bundle[:200000]}
-
-Now write today's DLE entry. Output the markdown section, then `===AUDIO===` on its own line, then the audio script."""
+Now write today's episode. Output the markdown, then `===AUDIO===` on its own line, then the audio script."""
+    return prompt, picks
 
 
 def call_claude(prompt):
-    """Generate via the Claude Code CLI in headless print mode (subscription auth).
-
-    Tools and MCP servers are disabled so the run is a pure text completion that
-    can't hang on an interactive MCP auth prompt at 6am.
-    """
+    """Generate via the Claude Code CLI in headless print mode (subscription auth)."""
     import subprocess
     import time
 
-    # Strip the API key so the CLI uses the subscription login, not paid credits.
     env = dict(os.environ)
-    env.pop("ANTHROPIC_API_KEY", None)
+    env.pop("ANTHROPIC_API_KEY", None)  # force subscription login, not paid credits
 
     cmd = [
         CLAUDE_BIN, "-p", prompt,
@@ -167,9 +226,7 @@ def call_claude(prompt):
         except subprocess.TimeoutExpired:
             if attempt == max_attempts:
                 raise
-            wait = min(60, 5 * (2 ** (attempt - 1)))
-            print(f"CLI timed out, retry {attempt}/{max_attempts} in {wait}s...", file=sys.stderr)
-            time.sleep(wait)
+            time.sleep(min(60, 5 * (2 ** (attempt - 1))))
             continue
 
         out = proc.stdout.strip()
@@ -179,17 +236,15 @@ def call_claude(prompt):
         err = (proc.stderr.strip() or out or "no output")[:500]
         if attempt == max_attempts:
             raise RuntimeError(f"claude CLI failed (exit {proc.returncode}): {err}")
-        wait = min(60, 5 * (2 ** (attempt - 1)))
-        print(f"CLI error (exit {proc.returncode}): {err} — retry {attempt}/{max_attempts} in {wait}s...", file=sys.stderr)
-        time.sleep(wait)
+        print(f"CLI error (exit {proc.returncode}): {err} — retry {attempt}/{max_attempts}", file=sys.stderr)
+        time.sleep(min(60, 5 * (2 ** (attempt - 1))))
 
 
 def main():
     print(f"Generating DLE for {today}...")
-    prompt = build_prompt()
+    prompt, picks = build_prompt()
     result = call_claude(prompt)
 
-    # Split into markdown and audio
     if "===AUDIO===" in result:
         md_part, audio_part = result.split("===AUDIO===", 1)
     else:
@@ -204,8 +259,13 @@ def main():
     with open(OUTPUT_AUDIO_SCRIPT, "w") as f:
         f.write(audio_part)
 
+    # Only record items as used after a successful generation.
+    mark_used(picks)
+
     print(f"Markdown saved: {OUTPUT_TEXT} ({len(md_part)} chars)")
     print(f"Audio script saved: {OUTPUT_AUDIO_SCRIPT} ({len(audio_part)} chars)")
+    n = sum(len(v) for v in picks.values())
+    print(f"Segments used: {n} items across {len([v for v in picks.values() if v])} pools")
 
 
 if __name__ == "__main__":

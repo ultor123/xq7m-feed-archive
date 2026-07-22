@@ -1,0 +1,124 @@
+# Segment: Rules
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- Law 5 — So much depends on reputation: guard it with your life; build it on one sterling quality and protect it ruthlessly. — The 48 Laws of Power
+- Law 4 — Always say less than necessary; the person who talks most in a negotiation usually loses. — The 48 Laws of Power
+- Law 15 — Crush your enemy totally: if you leave one ember burning, a fire will eventually break out. — The 48 Laws of Power
+- Law 28 — Enter action with boldness: mistakes made through audacity are easily corrected with more audacity; everyone admires the bold, no one honors the timid. — The 48 Laws of Power
+- Law 16 — Use absence to increase respect and honor: too much circulation makes the price go down. — The 48 Laws of Power
+- Law 34 — Be royal in your own fashion: act like a king to be treated like one; set your own price. — The 48 Laws of Power
+- Law 9 — Win through your actions, never through argument; demonstrate, do not explain. — The 48 Laws of Power
+- Law 48 — Assume formlessness; be as formless as water. — The 48 Laws of Power
+- "It is easier to cope with a bad conscience than with a bad reputation." (Nietzsche, Law 5) — The 48 Laws of Power
+- "It takes great talent and skill to conceal one's talent and skill." (La Rochefoucauld, Law 46) — The 48 Laws of Power
+- "Lord, protect me from my friends; I can take care of my enemies." (Voltaire, Law 2) — The 48 Laws of Power
+- "The way we see the problem is the problem." — The 7 Habits of Highly Effective People
+- "The key is not to prioritize what's on your schedule, but to schedule your priorities." — The 7 Habits of Highly Effective People
+- "It's incredibly easy to get caught up in an activity trap... climbing the ladder of success only to discover it's leaning against the wrong wall." — The 7 Habits of Highly Effective People
+- "Trust is the highest form of human motivation. It brings out the very best in people." — The 7 Habits of Highly Effective People
+- "If two people have the same opinion, one is unnecessary." — The 7 Habits of Highly Effective People
+- "So often the problem is in the system, not in the people... You have to water the flowers you want to grow." — The 7 Habits of Highly Effective People
+- "Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be." (Goethe, via Covey) — The 7 Habits of Highly Effective People
+- "Given a ten percent chance of a 100 times payoff, you should take that bet every time. But you're still going to be wrong nine times out of ten." (2015) — Amazon Letters to Shareholders
+- "Word of mouth remains the most powerful customer acquisition tool we have." (1997) — Amazon Letters to Shareholders
+- "We consider them to be loyal to us — right up until the second that someone else offers them a better service." (1998) — Amazon Letters to Shareholders
+- "'You've worn me down' is an awful decision-making process... Go for quick escalation instead — it's better." (2016) — Amazon Letters to Shareholders
+- "Failure and invention are inseparable twins." (2015) — Amazon Letters to Shareholders
+- "Customers are always beautifully, wonderfully dissatisfied, even when they report being happy and business is great." (2016) — Amazon Letters to Shareholders
+- Seek first to understand, then to be understood — diagnose before you prescribe; the amateur sells products, the professional diagnoses needs then sells solutions. — The 7 Habits of Highly Effective People
+- "Any man who tries to be good all the time is bound to come to ruin among the great number who are not good." (Machiavelli) — The 48 Laws of Power
+- "You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you." — How to Win Friends and Influence People
+- A person's name is the sweetest and most important sound in any language. — How to Win Friends and Influence People
+- Get the other person saying "yes, yes" immediately -- each small yes builds momentum toward the big one. — How to Win Friends and Influence People
+- If you are wrong, admit it quickly and emphatically -- beat the other person to the criticism. — How to Win Friends and Influence People
+- Begin with praise and honest appreciation -- a barber lathers a man before shaving him. — How to Win Friends and Influence People
+- Give the other person a fine reputation to live up to. — How to Win Friends and Influence People
+- Let the other person feel that the idea is his or hers. — How to Win Friends and Influence People
+- Ask questions instead of giving direct orders -- questions create ownership, orders create resentment. — How to Win Friends and Influence People
+- "A drop of honey catches more flies than a gallon of gall." (Lincoln) — How to Win Friends and Influence People
+- "By fighting you never get enough, but by yielding you get more than you expected." — How to Win Friends and Influence People
+- People usually have two reasons for doing anything -- one that sounds good and the real one; appeal to the one that sounds good. (J.P. Morgan) — How to Win Friends and Influence People
+- The moment you feel the need to tightly manage someone, you've made a hiring mistake. — Good to Great
+- Crawl, walk, run -- not run, walk, crawl -- when adopting new technology. — Good to Great
+- Use budgets to decide which activities get fully funded and which get zero, not to spread resources across everything. — Good to Great
+- Be rigorous, not ruthless: try moving people to a different seat before removing them from the bus. — Good to Great
+- Every cold email needs a "because" clause -- the reason barely matters; having one matters enormously. — Influence
+- Never send a cold email to a team alias or CC -- pick one person and assign them the task ("You, sir, in the blue jacket"). — Influence
+- People are persuaded more by the actions of others than by any proof you can offer -- 95% are imitators, 5% initiators. — Influence
+- Social proof works best under uncertainty and from similar others -- make case studies ICP-matched, not just ICP-targeted. — Influence
+- Diagnostic: "Who's your beachhead -- the one narrow segment that will buy now and vouch for you to their peers? If it's 'everyone,' you're still stuck before the chasm." — Crossing the Chasm
+- Lead with the problem and the segment, not the feature list; name a clear competitor so buyers can slot you on their mental map. — Crossing the Chasm
+- "It's never the idea; it's always the execution." — Bill Sahlman on the Segway — Originals
+- "Argue like you're right and listen like you're wrong." — Karl Weick — Originals
+- "Dissenting opinions are useful even when they're wrong." — Charlan Nemeth — Originals
+- "Familiarity doesn't breed contempt. It breeds comfort." — Howard Tullman — Originals
+- "The best entrepreneurs are not risk maximizers. They take the risk out of risk-taking." — Linda Rottenberg — Originals
+- "The greatest tragedy of mankind comes from the inability of people to have thoughtful disagreement to find out what's true." — Ray Dalio — Originals
+- "Prophets of doom and gloom appear wise and insightful, while positive statements are seen as having a naive Pollyanna quality." — Teresa Amabile — Originals
+- Don't keep a schedule — refuse to commit to any set time, so you can always work on whatever is most important or interesting; the single most productive tactic — pmarca
+- Keep only three lists: Todo, Watch, Later; if it doesn't go on one, it goes away — pmarca
+- The 3x5 card method: each night write 3-5 things to do tomorrow; keep an Anti-Todo List on the back; tear up the card at day's end — pmarca
+- Do email exactly twice a day; keep the client shut otherwise — the endorphin hit fractures your time and kills flow — pmarca
+- "When you are BPMF, focus obsessively on getting to product/market fit. Do whatever is required... whatever is required." — pmarca
+- Never assume a big-company deal is closed until the cash hits the bank — pmarca
+- "Only power restrains power." — Burnham — Machiavellians
+- "A hundred men acting uniformly in concert... will triumph over a thousand men who are not in accord." — Mosca — Machiavellians
+- "It is not money that is the sinews of war, but good soldiers. For money cannot find good soldiers, but good soldiers will be sure to find money." — Machiavelli — Machiavellians
+- "From mean to great fortune, people rise rather by fraud than by force." — Machiavelli — Machiavellians
+- "States are not ruled with prayer-books." — Cosimo de' Medici, quoted by Mosca — Machiavellians
+- "Poor is the apprentice who does not surpass his Master." — Leonardo da Vinci — Mastery
+- "The future belongs to those who learn more skills and combine them in creative ways." — Mastery
+- "Creativity and adaptability are inseparable." — Mastery
+- "There are two kinds of failure. The first comes from never trying out your ideas because you are afraid... The second kind comes from a bold and venturesome spirit." — Mastery
+- "The great division will be between those who have trained themselves to handle complexity and those who are overwhelmed by them." — Mastery
+- "Your emotional commitment to what you are doing will be translated directly into your work. If you go at your work with half a heart, it will show." — Primary Law of the Creative Dynamic — Mastery
+- Beware the Michael Eisner Memorial Weak Executive Problem: a CEO who came up through one function hires weak people there so they can stay "the man" — pmarca
+- "If you can't decide, the answer is no." — Naval
+- "Play long-term games with long-term people. All returns in life… come from compound interest." — Naval (2019-03-24)
+- "Play iterated games. All the returns in life… come from compound interest." — Naval (How to Get Rich)
+- "Don't partner with cynics and pessimists. Their beliefs are self-fulfilling." — Naval (How to Get Rich)
+- "Pick business partners with high intelligence, energy, and, above all, integrity." — Naval (How to Get Rich)
+- "Pick an industry where you can play long term games with long term people." — Naval (How to Get Rich)
+- "Earn with your mind, not your time." — Naval (2017-12-22)
+- Aspirational hourly rate: "If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it." — Naval (How to Get Rich)
+- "Reading is faster than listening. Doing is faster than watching." — Naval (How to Get Rich)
+- "You should be too busy to 'do coffee,' while still keeping an uncluttered calendar." — Naval (How to Get Rich)
+- "Read what you love until you love to read." — Naval (nav.al/love-read)
+- "Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers." — Naval (How to Get Rich)
+- "Whatever strengthens your ego weakens your judgement, and ultimately, your success." — Naval
+- "Play stupid games, win stupid prizes." — Naval (nav.al/stupid-games)
+- "No one is going to value you more than you value yourself." — Naval
+- "There are 10x engineers because there are 10x thinkers." — Naval (2026-05-29)
+- Kelly criterion / avoid ruin: "A ruined reputation is the same as getting wiped to zero." — Naval (nav.al/kelly-criterion)
+- Principal-agent: "If you're an employee, your most important job is to think like a principal." — Naval (nav.al/principal-agent)
+- Diagnostic line: "What word do you own in your buyer's mind? If you can't answer in one word, neither can they." — Positioning (Kiln application)
+- Boring Work Thesis: "Boring is the alpha" — the best founders do incredibly boring things incredibly well (day-7 follow-ups, CRM audits, churn calls). — Frameworks & Analogies (Hormozi)
+- Find the right people, say the right things, at the right time — everything else is in service of that. — Frameworks & Analogies
+- "The pain of staying the same has to be greater than the pain of change." — Tony Robbins via Hormozi/DOAC
+- "Cut once, sell twice — not cut once, sell once." — Hormozi/DOAC
+- "Unmade decisions can last forever." — Hormozi/DOAC
+- "Punishment fades, reward sticks." — Hormozi/DOAC
+- "Compress fourteen years of business advice into thirty-seven minutes — that's a good deal." (people follow experts for time compression) — Hormozi/DOAC
+- Bill Ackman's crisis rule: during a long crisis you can't solve in a day, "take one bite at a time" and check back every month or two for progress. — via Hormozi/DOAC
+- "If your competitive advantage can be Googled, it's not a competitive advantage." — Humor Soundbites
+- "The best companies are built by people who are slightly annoyed that something doesn't exist yet." — Humor Soundbites
+- "The market doesn't care about your feelings, your brand guidelines, or your Q3 roadmap." — Humor Soundbites
+- "Do things that don't scale." — Paul Graham, History/Culture Soundbites
+- "A startup is a company designed to grow fast. That's it. Everything else is a consequence of that growth." — Paul Graham, History/Culture Soundbites
+- "The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself." — Paul Graham, History/Culture Soundbites
+- "It's hard to do a really good job on anything you don't think about in the shower." — Paul Graham, History/Culture Soundbites
+- "The most important skill for getting rich is becoming a perpetual learner." — Naval Ravikant, History/Culture Soundbites
+- "Luck is what happens when preparation meets opportunity." — Seneca, Philosophy Soundbites
+- "He who is everywhere is nowhere." — Seneca, Philosophy Soundbites
+- "Every battle is won before it is ever fought." — Sun Tzu, History/Culture Soundbites
+- "Appear weak when you are strong, and strong when you are weak." — Sun Tzu, History/Culture Soundbites
+- "The supreme art of war is to subdue the enemy without fighting." — Sun Tzu, History/Culture Soundbites
+- "Do nothing that is of no use." — Miyamoto Musashi, History/Culture Soundbites
+- "Most decisions are two-way doors... The cost of being slow on reversible decisions is much higher than the cost of occasionally being wrong." — Jeff Bezos, Philosophy Soundbites
+- "Have backbone; disagree and commit." — Jeff Bezos, Philosophy Soundbites
+- "If you can't explain it simply, you don't understand it well enough." — Richard Feynman, Philosophy Soundbites
+- "The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman, Philosophy Soundbites
+- "In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." — Theodore Roosevelt, History/Culture Soundbites
+- "Do what you can, with what you have, where you are." — Theodore Roosevelt, History/Culture Soundbites
+- "If you see fraud and do not say fraud, you are a fraud." — Nassim Taleb, History/Culture Soundbites
+- "Simplicity is the ultimate sophistication." — Leonardo da Vinci, History/Culture Soundbites

@@ -1,0 +1,105 @@
+# Segment: Frameworks
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- The 7 Powers: Scale Economies, Network Economies, Counter-Positioning, Switching Costs, Branding, Cornered Resource, Process Power — each is a Benefit (improves cash flow) plus a Barrier (why rivals don't copy it). — 7 Powers
+- Statics vs Dynamics: Statics = what the Power is; Dynamics = how you get it, whose taproot is almost always invention (of product, model, or process), not incremental optimization. — 7 Powers
+- Power Progression: origination stage favors Counter-Positioning and Cornered Resource; takeoff stage is the rare window to establish Scale, Network, Switching Costs, Branding; stability stage only Process Power is still buildable. — 7 Powers
+- Four Actions Framework (ERRC grid): Eliminate, Reduce, Raise, Create — four questions to reconstruct buyer value and break the value/cost trade-off. — Blue Ocean Strategy
+- Strategy Canvas: plot the industry's competing factors (x-axis) against offering level (y-axis); a blue-ocean value curve looks different, not just higher. — Blue Ocean Strategy
+- Three traits of a great strategy: Focus (not spread thin), Divergence (curve departs from the pack), and a Compelling Tagline. — Blue Ocean Strategy
+- Six Paths Framework: look across alternative industries, strategic groups, buyer groups, complementary offerings, functional-vs-emotional appeal, and time/trends. — Blue Ocean Strategy
+- Three Tiers of Noncustomers: soon-to-be (ready to leave), refusing (chose against the market), and unexplored (never considered you). — Blue Ocean Strategy
+- Blue-ocean sequence: buyer utility → strategic price for the mass → cost (hit via ERRC) → adoption hurdles, in that order. — Blue Ocean Strategy
+- Day 1 vs. Day 2: Day 1 is endless beginning (vitality, speed); stay there via true customer obsession, resisting proxies, embracing external trends, and high-velocity decisions. — Amazon Letters to Shareholders
+- Two-Way Door Decisions: Type 1 are irreversible and deserve deliberation; Type 2 are reversible — move fast on them; the error is applying heavy Type 1 process to everything. — Amazon Letters to Shareholders
+- The Flywheel: lower prices drive traffic, which attracts sellers, which increases selection, which improves experience, which drives more traffic — each component accelerates the others. — Amazon Letters to Shareholders
+- Working Backwards from the customer need to the solution (even if it requires new skills), contrasted with dead-end "skills-forward" thinking. — Amazon Letters to Shareholders
+- Four elements of high standards: teachable (via exposure), domain-specific, require recognition of what good looks like, and require realistic scope. — Amazon Letters to Shareholders
+- Disagree and Commit: when there's no consensus, genuinely disagree yet sincerely commit to execute someone else's direction, to keep velocity high. — Amazon Letters to Shareholders
+- P/PC Balance: balance Production (golden eggs) against Production Capability (the goose) — over-focusing on results destroys the asset that produces them. — The 7 Habits of Highly Effective People
+- The Maturity Continuum: Dependence → Independence → Interdependence; independence is only the midpoint, not the goal. — The 7 Habits of Highly Effective People
+- The Emotional Bank Account: every relationship has a trust balance built by deposits (keeping promises, understanding, apologizing) and drained by withdrawals (broken promises, duplicity, pride). — The 7 Habits of Highly Effective People
+- Circle of Influence vs. Circle of Concern: focus energy on what you can affect, not what you merely worry about, and your influence expands. — The 7 Habits of Highly Effective People
+- Time Management Matrix (Urgent/Important): Q2 (not urgent + important — planning, prevention, relationships, skills) is THE ZONE where effectiveness lives. — The 7 Habits of Highly Effective People
+- Stewardship Delegation vs. gofer delegation: agree on five elements — desired results, guidelines, resources, accountability, and consequences — then let people own the how. — The 7 Habits of Highly Effective People
+- Ethos, Pathos, Logos: the persuasion sequence — credibility first, empathic connection second, logic last; most people jump straight to logos and wonder why nobody's buying. — The 7 Habits of Highly Effective People
+- The Court Model: every org has a "king" (decision-maker), courtiers (stakeholders), and a hierarchy of access — flatter indirectly, never outshine the master, every move is observed. — The 48 Laws of Power
+- The Janus Face: like the Roman god of doorways, always look both ways — one face studies history, the other anticipates future threats several moves ahead. — The 48 Laws of Power
+- Six Weapons of Influence: Reciprocation, Commitment & Consistency, Social Proof, Liking, Authority, Scarcity -- audit every pitch, page, and sequence against all six. — Influence
+- Rejection-Then-Retreat (Door-in-the-Face): open with a large request that gets refused, retreat to a smaller one; the retreat reads as a concession and triggers reciprocity. — Influence
+- Foot-in-the-Door: secure a tiny initial "yes" to shift self-image, dramatically raising compliance with a bigger later ask (76% vs 17% in the sign study). — Influence
+- The Contrast Principle: perception of a thing is shaped by what preceded it -- a $95 sweater seems cheap after a $495 suit; sequence offers to exploit it. — Influence
+- Authority Through Vulnerability: admit a small shortcoming first ("we're not the cheapest") to earn credibility, making major claims land harder. — Influence
+- The Lowball Commitment Trap: once someone decides, they generate their own new reasons to support the decision even after the original incentive is removed. — Influence
+- Level 5 Leadership: paradoxical blend of personal humility and fierce professional will -- ambition aimed at the institution, not the self; window for credit, mirror for blame. — Good to Great
+- The Stockdale Paradox: retain absolute faith you'll prevail in the end AND confront the most brutal facts of current reality simultaneously. — Good to Great
+- The Hedgehog Concept (three circles): the intersection of what you can be best in the world at, what drives your economic engine (profit per X), and what you're deeply passionate about. — Good to Great
+- The Flywheel vs the Doom Loop: greatness comes from cumulative pushes on a heavy flywheel until momentum kicks in; the Doom Loop lurches strategy to strategy chasing a miracle moment. — Good to Great
+- Confront the Brutal Facts: lead with questions, dialogue over coercion, autopsies without blame, and red-flag mechanisms so bad news reaches you fast. — Good to Great
+- Technology Adoption Life Cycle: Innovators, Early Adopters/Visionaries, Early Majority/Pragmatists, Late Majority/Conservatives, Laggards -- each buys for different reasons. — Crossing the Chasm
+- Bowling pin → bowling alley → tornado: win one niche completely, use it to knock down the adjacent segment, then ride pragmatist herd adoption to vertical demand. — Crossing the Chasm
+- RPV (Resources, Processes, Values): what an org can do is bounded by what it has, how it works, and what it prioritizes -- the margins it will accept -- and the last two become rigid constraints. — The Innovator's Dilemma
+- Basis-of-competition shift: once a product is "good enough," competition moves functionality → reliability → convenience → price, opening the door to disruptors. — The Innovator's Dilemma
+- **Jobs To Be Done** — customers "hire" a product to do a job that arises in their lives; get the job right and features, channel, and message follow — Innovator's Solution
+- **Law of Conservation of Attractive Profits** — when one thing commoditizes, something adjacent de-commoditizes; track where "not good enough" is, because that's where margin is — Innovator's Solution
+- **Low-end vs. New-market disruption** — enter where incumbents over-serve with a cheaper "good enough" offer, or compete against nonconsumption (people who lacked money/skill to use the old product) — Innovator's Solution
+- **Product/Market Fit (BPMF/APMF)** — before PMF nothing else matters; after PMF everything else starts to matter. Diagnostic: "Are customers pulling the product out of us, or are we pushing it onto them?" — pmarca
+- **The Onion Theory of Risk** — investors peel layers of risk (founder, market, competition, timing, financing, distribution, tech, product, hiring); systematically eliminate each until yes feels inevitable — pmarca
+- **The Moby Dick Theory of Big Companies** — you're Captain Ahab, they're Moby Dick; their behavior is inexplicable from the outside, so never depend on a whale deal — pmarca
+- **The Four Kinds of Luck** (James Austin) — Chance I (blind), II (from motion), III (from a prepared mind), IV (from your distinctive personal behavior that creates opportunities only you find) — pmarca
+- **Career as Portfolio Theory** — evaluate each opportunity against your lifetime portfolio of risk/return, not in isolation; young + low burn = optimize for learning and max risk — pmarca
+- **The Double/Triple/Quadruple Threat** (Scott Adams) — don't be best in the world at one thing; be top 25% in two or three, and the rare combination makes you valuable — pmarca
+- **Structured Procrastination** (John Perry) — never fight procrastination; maintain a task hierarchy so avoiding the top item drives completion of everything below it — pmarca
+- **The Sarick Effect** — leading with your idea's biggest flaws increases persuasion; it disarms skepticism and makes it harder for the audience to generate objections — Originals
+- **Vuja De** — seeing something familiar with completely fresh eyes; Warby Parker asked "why do glasses cost more than a smartphone?" after 60 combined years of wearing them — Originals
+- **The Balanced Risk Portfolio** — offset extreme risk in one domain with extreme caution in another (Knight sold shoes while accounting; Blakely sold fax machines while building Spanx) — Originals
+- **Mere Exposure Effect** — people like ideas more after 10-20 exposures in short bursts, spaced days apart; change agents undercommunicate vision by 10x — Originals
+- **Settlers vs. Pioneers** — being a fast settler lets you learn from pioneers' mistakes rather than making all your own; frame yourself as the one who does it better, not first — Originals
+- **Conceptual vs. Experimental Innovation** — conceptual innovators peak early then get trapped by their framework; experimental innovators work by trial and error and sustain originality longer — Originals
+- **The Three Phases of Mastery** — Apprenticeship (learn the rules, ~10,000 hours) → Creative-Active (experiment, break rules) → Mastery (operate by intuition, "see" the whole field) — Mastery
+- **Resistance Practice** — identify your weakest areas and practice those at double intensity; be your own worst critic (Bradley wore blinders while dribbling) — Mastery
+- **The Current (Speculation + Observation Loop)** — Darwin's method: observe an anomaly, speculate, test by further observation, speculate again — like a drill penetrating wood through rotation — Mastery
+- **The Mentor Dynamic** — mentors compress ten years into five via transfer of tacit knowledge; you must eventually surpass and leave them ("To the Master goes the knife") — Mastery
+- **The Iron Law of Oligarchy** (Michels) — every organization, however democratic, develops a self-serving oligarchical leadership; it's structural, not corruption; the org chart is fiction — Machiavellians
+- **Circulation of the Elites** (Pareto) — Foxes (clever, manipulative) gradually replace Lions (force-wielding, disciplined); a Fox-heavy elite loses the willingness to use force and gets overthrown — Machiavellians
+- **Formal Meaning vs. Real Meaning** — every declaration has a surface message and a real power/money/position function; always ask who benefits from the framing — Machiavellians
+- **Force and Fraud (Lion and Fox)** — all power rests on force (compel) plus fraud (persuade); force-only is brittle, fraud-only is weak; the greatest leaders combine both — Machiavellians
+- **The Political Formula** (Mosca) — every ruling class justifies power with a myth (divine right, meritocracy, shareholder value); it need not be true, only resonant and useful — Machiavellians
+- Zero to One vs. One to N — vertical progress (0→1) is doing something genuinely new; horizontal progress (1→n) is copying what works. Position yourself building 0-to-1, novel systems, not cookie-cutter playbooks. — Zero to One (Thiel)
+- The Monopoly Mindset — every great business is a monopoly on some dimension; the four characteristics are proprietary technology (10x better), network effects, economies of scale, and branding. — Zero to One (Thiel)
+- The Contrarian Question — "What important truth do very few people agree with you on?" A tool for finding overlooked opportunities: most believe X, but the truth is the opposite of X. — Zero to One (Thiel)
+- Definite vs. Indefinite Optimism — definite optimists have a concrete plan and execute it; indefinite optimists expect improvement but diversify and keep options open. Big goals require definite optimism. — Zero to One (Thiel)
+- The Power Law — a small number of things produce the vast majority of results (the best VC investment equals the rest of the fund combined); find the one channel/client/service that dominates and double down. — Zero to One (Thiel)
+- The Seven Questions Every Business Must Answer — Engineering, Timing, Monopoly, People, Distribution, Durability, Secret; use as a quarterly self-audit. — Zero to One (Thiel)
+- Start Small and Monopolize, Then Scale to Adjacent Markets — dominate a tiny niche first (PayPal→eBay PowerSellers, Facebook→Harvard, Amazon→books), then expand. — Zero to One (Thiel)
+- Positioning ladders in the mind — for each category the prospect holds a mental ladder with a few rungs; know which rung you're on, and if you can't be first, create a category you can be first in. — Positioning (Ries & Trout)
+- Leader / Follower / Reposition-the-competition — three positional strategies: the leader reinforces the original concept and covers challengers; the follower finds the open hole; sometimes you make room by shifting how prospects see an entrenched rival. — Positioning (Ries & Trout)
+- Productize Yourself (mnemonic) — Is this authentic to me? Am I productizing it (scaling it)? Am I scaling with labor, capital, code, or media? — Naval (nav.al/productize-yourself)
+- The Four Kinds of Luck — (1) blind luck/fate; (2) luck from hustling and motion; (3) luck from preparation (spotting it when others can't); (4) luck from unique character (luck seeks you out). "Build your character in a way that luck becomes deterministic." — Naval (nav.al/money-luck)
+- Specific knowledge + accountability + leverage — the three-part formula for getting rich: knowledge you can't be trained for, taking risk under your own name, and multipliers (capital, labor, code, media). — Naval (How to Get Rich)
+- The Trust Stack — trust builds in layers: (1) Competence, (2) Reliability, (3) Intimacy, (4) Low self-orientation; most salespeople nail 1–2 but fail on 3–4, and that's why enterprise deals die. — Frameworks & Analogies
+- The Three Types of Work — work that creates value, captures value, or destroys value; most people spend 80% on type three (meetings about meetings, reformatting slides); the leverage play is eliminating type three. — Frameworks & Analogies
+- The 10x vs. 10% Framework — don't make something 10% better (competing over the same pie); make it 10x better (baking a new one). — Frameworks & Analogies
+- The Speed Premium — speed compounds: a 2-week shipper gets feedback before a 4-week shipper launches; after a year that's 26 iterations vs. 13, an insurmountable gap. — Frameworks & Analogies (Patrick Collison)
+- The Ratio Shock — argue with two numbers where the gap IS the argument (8 days of munitions vs. 800 needed; $2M interceptors vs. $20K drones); "You never have to say 'this is bad.' The numbers say it for you." — Frameworks & Analogies (All-In)
+- The Concede-Then-Redirect — validate the concern, then pivot to your ground: "I hear you, I'm reasonable, AND here's why I'm right." Never dismiss — absorb and redirect. — Frameworks & Analogies (All-In)
+- The Hostile Question Playbook — Validate → Pivot → Reframe to your ground → Humanize; four sentences take you from "war is bad" to "we prevent war" without sounding defensive. — Frameworks & Analogies (All-In, Trey)
+- The Reframe (Judo Move) — never accept the frame of the question; restate who's actually taking the risky moral position ("Abstention is not morally neutral"). — Frameworks & Analogies (All-In)
+- The Value Equation: Value = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time Delay × Effort & Sacrifice); maximize the numerator, shrink the denominator — especially time delay, the most slept-on lever. — Hormozi/DOAC
+- The Building/Blocks Framework: the height of the tower you intend to build dictates the foundation you must lay; founders fail wanting the speed of a small build with the height of a large one, so they plateau and must rebuild the foundation. — Hormozi/DOAC
+- The Retention/Stacking Model (Company A vs. B): a leaky business must sell exponentially more each year to appear to grow, while a sticky one stacks customers — solve retention first, then distribution becomes a rocket. — Hormozi/DOAC
+- Reality Is the Moat (credibility/risk continuum): content is entertainment (be consumed) or education (change behavior); the higher the risk of acting on your advice, the more the audience demands credibility of source — substitute proof of effort for proof of outcome when starting. — Hormozi/DOAC
+- Hard & Scarce (defensibility test): a moat comes from things hard to do AND scarce; if a competitor can copy it in a weekend it's not a moat (note: hard ≠ valuable). — Hormozi/DOAC
+- Behaviorism / Operant Conditioning (grandpa-and-the-pill): don't persuade — arrange the conditions so the desired action is the easiest, nicest option; first ask "why aren't they?" (what are the incentives?). — Hormozi/DOAC
+- The Persuasion Grid (++ / +− / −+ / −−): do the thing → more good; don't → more bad; do → less bad; don't → less good — ping-pong between the four cells. — Hormozi/DOAC
+- Push vs. Pivot rule: if a fundamental assumption the business was built on has been proven untrue by actual activity, pivot; if the theses hold and it's just slower/harder, push — separate local vs. global failure. — Hormozi/DOAC
+- The Four Vectors of Mental Toughness: (1) Fortitude — how much bad you absorb before behavior changes; (2) Tolerance/depth — once crossed, how low you go; (3) Resilience — how long to return to baseline; (4) Adaptability — better, same, or worse afterward. — Hormozi/DOAC
+- Slow Then Fast (compounding curve): growth looks flat then vertical; most quit in the flat part interpreting slow as inadequacy — once you've witnessed the delayed payoff once, "you have that religion." — Hormozi/DOAC
+- The Starting-a-Business Minimum: (1) form an entity, (2) open a bank account, (3) get the ability to process money, (4) ask a stranger to do something for money — do all four and you've beaten 95% of people. — Hormozi/DOAC
+- The Unscalable-First (Tesla Roadster) model: start with the most absurdly valuable, high-touch, high-price, low-scale offer to get better customers and richer data, then descend to the masses (Roadster → Model S → mass market). — Hormozi/DOAC
+- Van Westendorp price-sensitivity analysis: four questions (too expensive to consider / too cheap to be credible / edge-of-consideration / a bargain), sliced by customer segment to price precisely. — Hormozi/DOAC
+- The Innovator's Dilemma referenced as the incentive/disruption lens behind operant conditioning. — Hormozi/DOAC
+- Regret Minimization Framework: "I knew that when I was 80, I was not going to regret having tried this. I was going to regret not having tried." — Jeff Bezos, Philosophy Soundbites
+- Fear-setting: "We don't fear the unknown. We fear what we project onto the unknown. Define the worst case. You'll realize you can handle it." — Tim Ferriss, Philosophy Soundbites
+- "Pain plus reflection equals progress. Most people avoid the pain. The ones who embrace it and reflect on it are the ones who grow fastest." — Ray Dalio, Philosophy Soundbites
+- Latticework of mental models: "You've got to have models in your head. And you've got to array your experience — both vicarious and direct — on this latticework of models." — Charlie Munger, Philosophy Soundbites

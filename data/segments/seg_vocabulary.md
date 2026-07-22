@@ -1,0 +1,43 @@
+# Segment: Vocabulary
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- **Power** (Helmer) — a condition that creates durable differential returns: margins persistently above your cost of capital that competitors cannot arbitrage away. — 7 Powers
+- **Hysteresis** — the barrier behind Process Power: an advantage that can only be built slowly through long organizational practice, never bought or reverse-engineered. — 7 Powers
+- **Collateral damage** — the barrier behind Counter-Positioning: the incumbent rationally declines to copy a newcomer because doing so would cannibalize its own cash cow. — 7 Powers
+- **Counter-Positioning** — a newcomer adopts a superior business model the incumbent can't copy without damaging its existing business. — 7 Powers
+- **Value Innovation** — pursuing differentiation and low cost at the same time, so buyer value rises while your cost falls. — Blue Ocean Strategy
+- **Red ocean / Blue ocean** — known, contested space where rivals fight over shrinking share vs. uncontested space you create where competition is irrelevant. — Blue Ocean Strategy
+- **Formlessness** — staying adaptable and fluid like water; taking a fixed shape opens you to attack (Law 48). — The 48 Laws of Power
+- **Thumbscrew** — a person's exploitable weakness: an insecurity, uncontrollable emotion, or secret pleasure that gives you leverage (Law 33). — The 48 Laws of Power
+- **Chasm** — the dangerous gap between visionary and pragmatist buyers where most promising tech products stall and die. — Crossing the Chasm
+- **Beachhead** — one narrow segment with acute present pain, chosen to dominate first before expanding. — Crossing the Chasm
+- **Whole product** — the complete turnkey solution (services, integrations, support) a pragmatist actually buys, versus the bare core technology. — Crossing the Chasm
+- **Value network** — the web of suppliers, customers, and cost structures tuned to your current product that cannot perceive value in a disruptive one. — The Innovator's Dilemma
+- **Click, whirr** — the automatic behavior sequence a single trigger feature sets off in humans, like a turkey responding to "cheep-cheep." — Influence
+- **Human engineering** — Carnegie's term for the personality/leadership skill that drives ~85% of financial success. — How to Win Friends and Influence People
+- **Packard's Law** — a company should limit its growth to its ability to attract enough of the right people. — Good to Great
+- **Nonconsumption** — the market of people who lack the money or skill to use the existing product at all; the highest-leverage disruption target because no incumbent defends it — Innovator's Solution
+- **Negative Capability** — the ability to remain in uncertainty, mystery, and doubt without grabbing for premature answers — Mastery
+- **Vuja de** — the opposite of déjà vu: seeing something familiar as if for the first time — Originals
+- **Residues** — the constant, non-logical human drives (group loyalty, self-preservation, conformity) beneath any belief — Machiavellians
+- **Derivations** — the shifting verbal justifications people invent to rationalize their residues; debunk one and another appears — Machiavellians
+- **Bonapartism** — rule in which a leader claims to embody the people's will, making any democratic objection impossible — Machiavellians
+- **Evolutionary Hijack** — when something evolved for one use gets repurposed for another (feathers for warmth → flight) — Mastery
+- **Strategic incompetence** — deliberately screwing up a task the first time so you're never asked to do it again, conserving energy for what you're good at — pmarca
+- **Specific knowledge** — knowledge you cannot be trained for; if society can train you, it can train (and replace) someone else. Found by pursuing genuine curiosity; feels like play to you, looks like work to others. — Naval
+- **Permissionless leverage** — leverage that needs no one's approval (code and media), vs. permissioned leverage (capital and labor) that someone has to grant you. — Naval
+- **FWMTS ("Forgot What Made Them Successful")** — when companies drift from the sharp idea that won them the mind in the first place. — Positioning (Ries & Trout)
+- **Line-extension trap** — diluting a brand's single owned idea by stretching its name across many products. — Positioning (Ries & Trout)
+- **The "everybody" trap** — trying to appeal to all prospects and all uses, which positions you nowhere. — Positioning (Ries & Trout)
+- **Last mover advantage** — being the last significant entrant who makes the definitive move and generates monopoly profits for years, which beats being first. — Zero to One (Thiel)
+- **Definite optimist** — someone who has a concrete plan and executes it, vs. an indefinite optimist who merely expects things to improve. — Zero to One (Thiel)
+- **Verifiers** — the emerging human role in an AI stack: "A lot of the old function of people… moves to verifying the stack." — Naval (nav.al/hardware)
+- **Entropy (of bureaucracy)** — the tendency of any institution toward sclerosis; "It's not a political statement. It just is what bureaucracy does." — Frameworks & Analogies (All-In)
+- **Token-maxing** — obsessively optimizing AI/token usage as a vanity metric while ignoring whether it actually grows revenue. — Hormozi/DOAC
+- **Options-maxing** — fetishizing keeping all options open, never committing, so the best parts of life (which lie past a chosen door) never arrive. — Hormozi/DOAC
+- **Double-Gaussian** — a pricing demand curve with two peaks because different customer segments value the same offer very differently. — Hormozi/DOAC
+- **Cost-plus** — a contracting model where price = cost + fixed margin, so deleting cost deletes profit, removing any incentive to get cheaper. — Sean Sankar, Business Soundbites
+- **Sclerosis** — the hardening/stiffening a bureaucracy drifts toward by default; "the entropy of the bureaucracy is always towards some sort of sclerosis." — Sean Sankar, Business Soundbites
+- **Deterrence** — security bought not by the stockpile but by the capacity to generate and regenerate it. — Trey Stephens, Business Soundbites
+- **Permissionless leverage** — code and media, the leverage of the new rich, that you can deploy without anyone's approval. — Naval Ravikant, Philosophy Soundbites
+- **Specific knowledge** — knowledge found by pursuing genuine curiosity that can't be trained; if society can train you for it, it can replace you. — Naval Ravikant, Philosophy Soundbites

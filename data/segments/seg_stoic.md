@@ -1,0 +1,56 @@
+# Segment: Stoic
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- "Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1." (2016) — Amazon Letters to Shareholders
+- "Seek instant gratification — or the elusive promise of it — and chances are you'll find a crowd there ahead of you." (2008) — Amazon Letters to Shareholders
+- "Anytime we think the problem is 'out there,' that thought is the problem." — The 7 Habits of Highly Effective People
+- "You can't talk your way out of problems you behave yourself into." — The 7 Habits of Highly Effective People
+- Can you cram on a farm — skip planting in spring, play all summer, then cram in the fall for the harvest? The Law of the Harvest governs character and relationships too. — The 7 Habits of Highly Effective People
+- You are not your feelings, your moods, or your conditions; between what happens to you and how you respond lives your entire character. — The 7 Habits of Highly Effective People
+- Principles are lighthouses — you don't break them; you break yourself against them. — The 7 Habits of Highly Effective People
+- "You must never confuse faith that you will prevail in the end -- which you can never afford to lose -- with the discipline to confront the most brutal facts of your current reality, whatever they might be." — Good to Great
+- "What separates people is not the presence or absence of difficulty, but how they deal with the inevitable difficulties of life." — Good to Great
+- "The optimists... would say 'We're going to be out by Christmas.' And Christmas would come and go... And they died of a broken heart." (Stockdale) — Good to Great
+- "Facts are better than dreams." (Churchill) — Good to Great
+- "When you have disciplined people, you don't need hierarchy. When you have disciplined thought, you don't need bureaucracy. When you have disciplined action, you don't need excessive controls." — Good to Great
+- "Any fool can criticize, condemn and complain -- and most fools do. But it takes character and self-control to be understanding and forgiving." — How to Win Friends and Influence People
+- "There is no expedient to which a man will not resort to avoid the real labor of thinking." (Reynolds) — Influence
+- "The time that leads to mastery is dependent on the intensity of our focus." — Mastery
+- "Mastery is not a function of genius or talent. It is a function of time and intense focus applied to a particular field of knowledge." — Mastery
+- Boredom and frustration are signs you are on the right track — the initial tedium of skill acquisition "toughens our minds, much like physical exercise." The boredom is the gate, not the wall — Mastery
+- "Fear forces you to prepare more rigorously and see potential problems more quickly." — Lewis Pugh, Arctic swimmer — Originals
+- "You can't steal second and keep one foot on first base." — Robert Quillen — Originals
+- "In a startup, absolutely nothing happens unless you make it happen." — pmarca
+- "You will flip rapidly from a day in which you are euphorically convinced you are going to own the world, to a day in which doom seems only weeks away and you feel completely ruined, and back again. Over and over and over." — pmarca
+- "Money talks, hype walks — when you're hitting your numbers, everyone thinks you're a genius... When you're not hitting your numbers, everyone thinks you're a moron." — pmarca
+- "You can't control fortune. You can build infrastructure before the flood." (Machiavelli's Fortune-as-river) — Machiavellians
+- "Chance favors only the prepared mind." — Pasteur, via Greene — Mastery
+- Sometimes the breakthrough requires getting knocked down — the Zen master Hakuin cracked his koan only after being beaten to the ground with a stick — Mastery
+- "A rational person can find peace by cultivating indifference to things outside of their control." — Naval (2017-10-15)
+- "The modern mind is overstimulated and the modern body is understimulated and overfed. Meditation, exercise, and fasting restore an ancient balance." — Naval
+- "The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon." — Naval (How to Get Rich)
+- "Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work." — Naval (How to Get Rich)
+- "There are no get rich quick schemes. That's just someone else getting rich off you." — Naval (How to Get Rich)
+- "Apply specific knowledge, with leverage, and eventually you will get what you deserve." — Naval (How to Get Rich)
+- The Stoic Entrepreneur Framework — Marcus Aurelius ran the Roman Empire through plague, wars, and betrayal; his journal entries aren't about strategy but about managing his own mind. Every entrepreneur should read Meditations — the original founder's journal. — Frameworks & Analogies
+- "Brilliant thinking is rare, but courage is in even shorter supply than genius." — Zero to One (Thiel)
+- "In business, equilibrium means stasis, and stasis means death." — Zero to One (Thiel)
+- "The future belongs to the fast, the focused, and the ones who did the boring work when nobody was watching." — Frameworks & Analogies
+- "My emotional discomfort is not an adequate reason to change what I'm doing." — Hormozi/DOAC
+- "If I determine that I can have a bad day and still do good work, that is a good day." — Hormozi/DOAC
+- "As long as you don't quit, you win. You just have to not stop." — Hormozi/DOAC
+- On feelings as weather: by law of large numbers ~36 days a year will be bottom-10% "for no reason" — "if you don't like your life today, maybe don't break up with your wife. Give it a day." — Hormozi/DOAC
+- "The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius, Philosophy Soundbites
+- "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius, Philosophy Soundbites
+- "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius, Philosophy Soundbites
+- "We suffer more often in imagination than in reality." — Seneca, Philosophy Soundbites
+- "Difficulties strengthen the mind, as labor does the body." — Seneca, Philosophy Soundbites
+- "It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult." — Seneca, Philosophy Soundbites
+- "It's not what happens to you, but how you react to it that matters." — Epictetus, Philosophy Soundbites
+- "Make the best use of what is in your power, and take the rest as it happens." — Epictetus, Philosophy Soundbites
+- "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill, History/Culture Soundbites
+- "If you're going through hell, keep going." — Winston Churchill, History/Culture Soundbites
+- "You will never reach your destination if you stop and throw stones at every dog that barks." — Winston Churchill, History/Culture Soundbites
+- "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." — Samuel Beckett, History/Culture Soundbites
+- "I can't go on. I'll go on." — Samuel Beckett, History/Culture Soundbites
+- "Nearly all men can stand adversity, but if you want to test a man's character, give him power." — Abraham Lincoln, History/Culture Soundbites

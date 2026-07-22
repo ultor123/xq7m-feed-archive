@@ -1,0 +1,71 @@
+# Segment: Analogies
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- "The difference between baseball and business... is that baseball has a truncated outcome distribution... In business, every once in a while, when you step up to the plate, you can score 1,000 runs." (2015) — Amazon Letters to Shareholders
+- "In the short term, the stock market is a voting machine; in the long term, it is a weighing machine." (Benjamin Graham, via Bezos 2000) — Amazon Letters to Shareholders
+- "Place your iron hand inside a velvet glove." (Napoleon) — the metaphor for firm-but-gracious power (also the recurring "iron hand in the velvet glove" theme). — The 48 Laws of Power
+- The best protection is to be as formless as water — by taking a fixed shape you open yourself to attack (Law 48). — The 48 Laws of Power
+- The Chicago Map: navigating Chicago with a map that's actually Detroit — working harder just gets you to the wrong place faster; the problem is the map, not the effort. — The 7 Habits of Highly Effective People
+- The Goose and the Golden Egg: kill the goose to get all the eggs at once and you end up with nothing — every time you sacrifice long-term capacity for short-term results, you're killing the goose. — The 7 Habits of Highly Effective People
+- The Optometrist: an eye doctor hands you his own glasses saying "these have worked great for me for 10 years" — what we do every time we advise before understanding. — The 7 Habits of Highly Effective People
+- "The human tongue is a beast that few can master. It strains constantly to break out of its cage, and if it is not tamed, it will run wild and cause you grief." (Greene, Law 4) — The 48 Laws of Power
+- "Do not underestimate the power of Tafari. He creeps like a mouse but he has jaws like a lion." (Balcha of Sidamo) — on quiet operators who outmaneuver loud ones. — The 48 Laws of Power
+- The Christmas tree nailed to hardwood floors: tenants nailed their tree directly to the floor instead of using a stand — the difference between owners and renters, and how many investors just "rent" the stocks they own (2003). — Amazon Letters to Shareholders
+- Seeds and trees: Amazon's culture nurtures tiny new businesses patiently into big ones (2005/2006). — Amazon Letters to Shareholders
+- The handstand: most people think they can master it in two weeks — it actually takes six months of daily practice; unrealistic scope beliefs kill high standards. — Amazon Letters to Shareholders
+- The fishing analogy: "I am very fond of strawberries and cream, but fish prefer worms. So when I went fishing, I didn't think about what I wanted. I thought about what they wanted." — How to Win Friends and Influence People
+- The Sun vs. the Wind (Aesop): the wind blows harder and the man clutches his coat; the sun shines gently and he takes it off willingly -- gentleness beats force. — How to Win Friends and Influence People
+- The calf in the barn: Emerson and son push, but the Irish maid puts her finger in the calf's mouth and it follows -- she thought about what the calf wanted. — How to Win Friends and Influence People
+- Replace "but" with "and": "but" negates everything before it, so "great quarter, AND if we apply that energy to retention..." keeps praise intact. — How to Win Friends and Influence People
+- The Flywheel: a 5,000-pound disk that barely moves on the first push but goes unstoppable after a thousand turns; asking "what was the one big push?" is nonsensical. — Good to Great
+- The Egg to Chicken: the media reports overnight transformation, but from the chicken's view cracking the shell was just one more step after invisible incubation. — Good to Great
+- Rinsing the cottage cheese: Ironman champ Dave Scott rinsed fat off his cottage cheese -- the small compounding disciplines that separate good from great. — Good to Great
+- The Window and the Mirror: Level 5 leaders look out the window to give credit and in the mirror to take blame; Level 4 leaders do the reverse. — Good to Great
+- The Hedgehog and the Fox: "The fox knows many things, but the hedgehog knows one big thing" -- simplicity beats complexity. — Good to Great
+- The show horse vs. the plow horse: Circuit City's Alan Wurtzel called himself a plow horse -- and beat GE by 6x. — Good to Great
+- The D-Day analogy: concentrate overwhelming force on one narrow point of attack rather than spreading across the whole front. — Crossing the Chasm
+- The turkey and the polecat: a mother turkey mothers her mortal enemy if it plays "cheep-cheep," and attacks it when the sound stops -- we all respond to trigger sounds. — Influence
+- "You're Captain Ahab, and the big company is Moby Dick." — pmarca
+- "Graduating with a technical degree is like heading out into the real world armed with an assault rifle instead of a dull knife." — pmarca
+- "Micromanagement is like fine wine. A little at the right times will really enhance things; too much all the time and you'll end up in rehab." — Ben Horowitz, via pmarca
+- "In a great market... the market pulls product out of the startup." — pmarca
+- "We live in an Internet Explorer world." — most people accept life's defaults, like the reps who never downloaded a better browser — Originals
+- The tapping study: tap out a song's rhythm and you predict listeners guess it 50% of the time; actual rate is 2.5% — the curse of pitching original ideas, you wrote the song but they hear Morse code — Originals
+- "If you're gonna kiss a lot of frogs, you have to know that most of them aren't princes." — Dean Kamen — Originals
+- "This is Hamlet" — The Lion King was saved when a producer reframed the African lion-succession story as Hamlet, and suddenly everyone got it — Originals
+- The Bicycle vs. the Ship — the Wrights won by thinking of a plane as a bicycle (unstable, rider-controlled) not a ship (stable, self-correcting); most people over-index on stability, the leverage is in maneuverability — Mastery
+- The Proustian Spider — "a spider sitting on its web, feeling the slightest vibration"; the goal of mastery is to sense what others cannot — Mastery
+- The Ant Colony — Proust studied French high society "with the ruthless objectivity of an entomologist"; frame for studying a market without sentimentality — Mastery
+- The pork butcher (Sorel on arbitration) — going into a shop, ordering a ham below the marked price, then asking for arbitration; ritual negotiation whose outcome is set by power, not principle — Machiavellians
+- Machiavelli's Fortune as "a rapid and impetuous river" — you can't control it, but you can build banks and fences while it's calm — Machiavellians
+- The Plumbing Analogy — "Nobody goes to a dinner party and talks about plumbing. But the moment the toilet breaks, it's the only thing anyone talks about. That's what we build." — Frameworks & Analogies
+- The Chef vs. Cook — "A cook follows recipes. A chef understands ingredients. When the recipe fails, the cook is stuck. The chef invents a new dish. Most companies are run by cooks." — Frameworks & Analogies (Tim Urban)
+- The Iceberg — "Everyone sees the demo, the pitch deck, the closed deal. That's 10% above the water. Below the surface is 6 months of data enrichment… We build the 90%." — Frameworks & Analogies
+- The Orchestra — "A great company isn't a solo act — it's an orchestra… world-class musicians in every seat, but without a conductor and a score, it's just noise. We write the score." — Frameworks & Analogies
+- The Map Is Not The Territory — "Your CRM is not your market. Your dashboard is not your business. Every model, every report, every forecast is a map — and maps are always wrong." — Frameworks & Analogies (Korzybski/Taleb)
+- Lincoln's Axe — "'Give me six hours to chop down a tree and I'll spend four sharpening the axe.' That's what The Kiln does. We sharpen the axe." — Frameworks & Analogies
+- The Hitchhiker's Guide B Ship — humanity sends away the salespeople and consultants (B Ship) first and celebrates, but the B Ship is the one that actually lands on Earth; distribution matters more than anyone admits. — Zero to One (Thiel)
+- Gates and Schmidt — Microsoft and Google framed as Romeo and Juliet: two great families of alpha nerds sure to clash on account of their sameness, while Apple came along and overtook them both. — Zero to One (Thiel)
+- "Give me a lever long enough, and a place to stand, and I will move the earth." — Naval quoting Archimedes (How to Get Rich)
+- "An army of robots is freely available — it's just packed in data centers for heat and space efficiency. Use it." — Naval (How to Get Rich)
+- "You aren't starting a company. You're laying bricks in the foundation of a skyscraper." — Naval (2026-05-29)
+- The Compound Interest of Relationships — "Every genuine conversation compounds. The person you help today… becomes the person who introduces you to your biggest client in 3 years." — Frameworks & Analogies (Naval-applied)
+- The best deep-sea diver gets called when a treasure ship is found — how luck from unique character seeks you out. — Naval (nav.al/money-luck)
+- "You don't want to learn how to be fit from a fat person… and you don't want to learn how to be rich from somebody who makes their money by telling people how to be rich." — Naval (nav.al/rich-quick)
+- "You drive your brand-new Ferrari to a three-star Michelin restaurant and eat the best food in the world alone — or you pile into your beat-up Camry and go to Denny's with your five best friends. It's obvious it's the second one. But we live our life like the first." — Arthur Brooks via Hormozi/DOAC
+- Fighting a bear vs. slaying a dragon: "when you're starting out it's like fighting a bear with your bare hands; later it's slaying a dragon, but at least you have an army." — Hormozi/DOAC
+- The unicorn hire is just a horse + a horn + sparkle → hire a rhino (horn), a horse (horse), and fireflies (sparkle). — Hormozi/DOAC
+- The leaky bucket / hole in the back of the bus: a sticky business does nothing but grow; a leaky one craters the moment sales stop. — Hormozi/DOAC
+- The doors metaphor: success doesn't remove uncertainty, it multiplies optionality — every door reveals ten more with cryptic labels; you're no less confused than the beginner, just at a higher altitude. — Hormozi/DOAC
+- Internal states are like weather — sunny days, rainy days, rainy seasons — so mood is no reason to change what you're doing. — Hormozi/DOAC
+- The peach-tree / plant analogy for parenting: control water and sunlight (inputs), not the output, and you can't change whether it's a peach or apple tree (the seed). — Hormozi/DOAC (via Bartlett)
+- "It was always the factory, not the stockpile. It was the ability to generate and regenerate the stockpile." — Trey Stephens, Business Soundbites
+- Musk's factory point: the prototype is easy; the factory that builds the cars is 50x harder. — Hormozi/DOAC
+- "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." — Abraham Lincoln, History/Culture Soundbites
+- "The ultimate aim of martial arts is not having to use them." (the best infrastructure is invisible) — Miyamoto Musashi, History/Culture Soundbites
+- "A leader is best when people barely know he exists. When his work is done... they will say: we did it ourselves." — Lao Tzu, History/Culture Soundbites
+- "Wind extinguishes a candle and energizes fire. Likewise with randomness... you want to be the fire and wish for the wind." — Nassim Taleb, History/Culture Soundbites
+- "Give me a lever long enough and a place to stand, and I will move the earth. Code and media are permissionless leverage." — Naval Ravikant, Philosophy Soundbites
+- "Building a SaaS company is like cooking — you start with a recipe, realize you're missing half the ingredients, improvise wildly, and somehow end up in a Michelin-starred restaurant or a house fire. There's no in-between." — Humor Soundbites
+- Raising a seed round is basically the same as online dating — a 70% aspirational profile, awkward meetings, and someone says yes for reasons you don't fully understand. — Humor Soundbites
+- "Culture eats strategy for breakfast, but cashflow eats culture for dinner." — Humor Soundbites

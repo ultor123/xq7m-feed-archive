@@ -1,0 +1,63 @@
+# Segment: Humor
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+
+- "You can work long, hard, or smart, but at Amazon.com you can't choose two out of three." — a recruiting pitch that is really a warning (1997) — Amazon Letters to Shareholders
+- "Ouch." — the single opening word of the 2000 letter after Amazon stock dropped 80%, followed two sentences later by all the ways the company is stronger — Amazon Letters to Shareholders
+- "I'm pretty sure we're the first company to have figured out how to make winning a Golden Globe pay off in increased sales of power tools and baby wipes!" (2014) — Amazon Letters to Shareholders
+- Amazon's Mayday live tech-support button received 35 marriage proposals, 475 requests to talk to TV personality Amy, and 109 requests for help ordering pizza — "By a slim margin, Pizza Hut wins customer preference over Domino's." (2013) — Amazon Letters to Shareholders
+- "I don't have time to sharpen the saw — I'm too busy sawing!" — the exhausted man cutting a tree, i.e. most founders Monday to Friday — The 7 Habits of Highly Effective People
+- "'Shut up! We're making progress.'" — how busy producers respond to the leader who yells "Wrong jungle!" — The 7 Habits of Highly Effective People
+- Carnegie ended a letter to a famous author with "Dictated but not read" to seem important; the author wrote back: "Your bad manners are exceeded only by your bad manners." — How to Win Friends and Influence People
+- The farmwoman who, after 20 years, served hay at dinner: "how did you'd notice? I've been cooking for you men for the last twenty years and in all that time I ain't heard no word to let me know you wasn't just eating hay." — How to Win Friends and Influence People
+- Joe Pine to Frank Zappa: "I guess your long hair makes you a girl." Zappa: "I guess your wooden leg makes you a table." — Influence
+- Cialdini on the college daughter's letter: "Sharon may be failing chemistry, but she gets an A in psychology." — Influence
+- Ken Iverson of Nucor on cheap imported steel: "Aren't we lucky; steel is heavy, and they have to ship it all the way across the ocean, giving us a huge advantage!" — Good to Great
+- Al Dunlap comparing himself to Rambo; Collins: "Darwin Smith may have enjoyed the mindless Rambo movies as well, but I suspect he never walked out of a theater and said to his wife, 'You know, I really relate to this Rambo character.'" — Good to Great
+- "I'm from a very large family — nine parents." — Jim Gaffigan joke, illustrating how big families produce different parenting for each kid — Originals
+- Jerry Seinfeld on funerals: "If you have to go to a funeral, you're better off in the casket than doing the eulogy." — Originals
+- "I never had a job." — Jerry Seinfeld, on the comedian's path of choosing originality over stability — Originals
+- "Before you criticize people, walk a mile in their shoes. That way, when you criticize them, you're a mile away and you have their shoes." — Jack Handey, Deep Thoughts — Originals
+- The entirety of Andreessen's post on hiring a professional CEO: "Don't. If you don't have anyone on your founding team who is capable of being CEO, then sell your company — now." Most efficient blog post ever written — pmarca
+- "OK, You're Right, It IS a Bubble" — satire where Andreessen agrees with bubble critics: "Paid keyword ads? All BS... Pop goes the souffle." Mocks doomsayers by taking their logic to its absurd conclusion — pmarca
+- On his alma mater: "the University of Illinois, where I went to school, is mostly prowled by mutant cold-weather cows" vs. Stanford where VCs prowl for the next Jerry Yang — pmarca
+- Pareto's rating system for elites — rates a clever rascal "8, 9, or 10, according to the number of geese he has plucked." An academic writing like a bookie — Machiavellians
+- "The great bulk of the people in America neither buys nor reads any books at all — thereby avoiding a great quantity of nonsense." — Burnham — Machiavellians
+- Semmelweis was right that doctors were killing patients by not washing hands — and was destroyed professionally because he had zero social intelligence — Mastery
+- Goethe found his friend Schiller kept a drawer full of rotting apples at his desk; the stench was essential to his creative process. Einstein squeezed a rubber ball; Samuel Johnson required a purring cat and a slice of orange — Mastery
+- The British Restaurant in Palo Alto — Thiel's terrible-startup example: "No one else is doing it" is true, but maybe that's because nobody wants British food; absence of competition can be a warning, not an invitation. — Zero to One (Thiel)
+- Jay-Z meets Hackers meets Jaws — the delusional pitch: a movie where Jay-Z stars in a cross between Hackers and Jaws, joining elite hackers to catch the shark that killed his friend; technically never been done, and maybe that's a good thing. — Zero to One (Thiel)
+- During the PayPal–X.com war, one PayPal engineer designed a bomb to blow up the competitor's office; when he presented the schematic, "calmer heads prevailed and the proposal was attributed to extreme sleep deprivation." — Zero to One (Thiel)
+- The Hipster or Unabomber Test — side-by-side sketches making the point that both have given up on the idea that hard problems remain to be solved; if everything worth doing is done, you may as well feign an allergy to achievement and become a barista. — Zero to One (Thiel)
+- PayPal hired James Doohan (Scotty from Star Trek) as spokesman: "I've been beaming people up my whole career, but this is the first time I've ever been able to beam money." It flopped — they were all nerds who thought the Chief Engineer had more authority than Captain Kirk. — Zero to One (Thiel)
+- Larry Ellison sent truckloads of ice cream sandwiches to rival Siebel Systems HQ to poach staff; the wrappers read: "Summer is near. Oracle is here. To brighten your day and your career." — Zero to One (Thiel)
+- "Labor leverage will impress your parents, but don't waste your life chasing it." — Naval (How to Get Rich)
+- "The water is just a fig leaf. Really, they hate AI." — Naval corpus (2026-05-20)
+- "You're basically running a small communist society inside a larger capitalist society." (on healthcare) — Naval corpus (Blake Scholl, nav.al/regulatory)
+- "I moved to Portugal for the weather and the tax incentives, which is basically the Irish version of following your dreams." — Humor Soundbites
+- "I went to MIT, which sounds impressive until you realize I'm still Googling 'how to center a div' at 2am." — Humor Soundbites
+- "People ask me what The Kiln does and I say 'we help companies find people who want to talk to them' and they say 'so... marketing?' and I die a little inside." — Humor Soundbites
+- "I'm 27, I run a company, and I still call my mam when the washing machine makes a weird noise. That's the duality of entrepreneurship." — Humor Soundbites
+- "Being Irish in tech is great because everyone assumes you're either going to be very charming or very drunk, and either way they take the meeting." — Humor Soundbites
+- "A startup is just a group of people convinced they're about to change the world, who can't figure out how to fix the office printer." — Humor Soundbites
+- "The three stages of a startup: 1) This is going to change everything. 2) Oh God, what have we done. 3) I can't believe that worked." — Humor Soundbites
+- "We pivoted. That's startup speak for 'the first idea was terrible but we can't admit that in the press release.'" — Humor Soundbites
+- "A seed round is just paying for the privilege of finding out your idea doesn't work. A Series A is paying to find out it works but not the way you thought." — Humor Soundbites
+- "VCs want founders who are 'uniquely positioned to solve this problem.' Translation: have you already solved it and just need our money to do it louder?" — Humor Soundbites
+- "Most VCs are just well-dressed followers with a spreadsheet. They invest in what other VCs are investing in and call it 'pattern matching.'" — Chamath, Humor Soundbites
+- "San Francisco is the only city where you can be a billionaire and still complain about the rent." — Jason Calacanis, Humor Soundbites
+- "Tech Twitter is just people who made money telling people who haven't made money that they're thinking about making money wrong." — Shaan Puri, Humor Soundbites
+- "Everyone wants to be a thought leader until they have to actually think." — Humor Soundbites
+- "Most business advice is just survivorship bias wearing a Patagonia vest." — Humor Soundbites
+- "A 'growth hack' is just what we call marketing when we're too embarrassed to admit we're doing marketing." — Humor Soundbites
+- "You know what's more dangerous than AI? A middle manager with a ChatGPT subscription and a reorganization plan." — Humor Soundbites
+- "The best investment advice I ever got was 'invest in things you understand.' The worst advice I ever got was also that, because I understood nothing." — Humor Soundbites
+- "Yeah, we nearly went bankrupt in Q2. Grand, though. Sorted it." — Irish Understatement, Humor Soundbites
+- "We're the plumbing behind the GTM machine. Nobody wants to talk about plumbing at a dinner party, but everyone notices when it doesn't work." — Humor Soundbites
+- "everyone's either saying AI will save the world or destroy it. The truth is it's mostly being used to write slightly better cold emails. And honestly? That might save the world more than anyone realizes." — Humor Soundbites
+- "It'd be like accusing Excel of being a surveillance tool." — Sean Sankar, Humor Soundbites
+- "I'm literally watching the guy, while I'm doing three miles over the speed limit, take heroin needles out of his arm next to an elementary school. And I'm like, totally fine." — Trey Stephens (on an SF autonomous speeding ticket), Humor Soundbites
+- The unicorn drawing bit: he live-draws a unicorn to explain hiring — "This is going to be so bad. Here we go... we'll give it a little hoof, maybe a little tail... and we need some sparkle 'cause it's a unicorn, special." — Hormozi/DOAC
+- Exit-process panic: "You're just holding your breath for six months going please just stay, everyone stay fine, no one leave, no big accounts go away, please just go through." and when billables dip: "Uh, no, it's a momentary blip. It was expected. Did I not send you the updated forecast?" — Hormozi/DOAC
+- The apathy confession: "I don't struggle with anxiety. I struggle with apathy... Why do I even bother? We already have enough money. Who cares?" — Hormozi/DOAC
+- On his own first content: "I had a video reacting to my own first content and it's horrendous. It's horrible." — Hormozi/DOAC
+- The "if there was a divorce in the business" line: "If there was a divorce in the business, I think the vast majority of people would [go with her]... I'm serious. People are loyal to Leila." — Hormozi/DOAC

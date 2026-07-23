@@ -1,46 +1,58 @@
 {
 "humor": [
 "252e1f21fb21",
-"68cca8963220"
+"68cca8963220",
+"69bdb9423dce"
 ],
 "business": [
 "1758d4939e50",
-"1d37a19210a9"
+"1d37a19210a9",
+"ec83448b63ab"
 ],
 "philosophy": [
 "6228a1f59761",
+"b21b583f41ce",
 "e21dab646fb8"
 ],
 "frameworks": [
 "4cd13fd870fc",
-"701c1b888e08"
+"701c1b888e08",
+"a233ccd7398f"
 ],
 "vocabulary": [
+"165bfb7fca74",
 "25eaa14185d8",
+"3638ce4622cb",
 "5f3e0e6351b7",
 "8b8a508b579f",
+"adc6489eac0f",
 "d4b9e464b541",
 "df78059d5d35",
 "f8ab56bb90fc"
 ],
 "stoic": [
 "2ea349c257c1",
-"52eab0418c16"
+"52eab0418c16",
+"7185bd893717"
 ],
 "contrarian": [
 "5df0229a624d",
+"b1996a0a0ff6",
 "d6e4f1cbe908"
 ],
 "analogies": [
 "5e9747d96dce",
-"6d83552ffa89"
+"6d83552ffa89",
+"8aaca932f6de"
 ],
 "stories": [
 "3eadb5ed433c",
+"4ac14e7c5ef1",
 "7db95b7b22a4"
 ],
 "rules": [
 "24094ec7582f",
+"ea9d7ad61f23",
 "fea311fd3516"
 ]
 }

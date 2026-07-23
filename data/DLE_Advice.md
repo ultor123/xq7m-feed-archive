@@ -4378,3 +4378,75 @@ The pitch deck doesn't fix the broken delivery. Only the delivery fixes the deli
 **Insight:** Most GTM reporting lives at the mean — revenue per rep, average reply rate, mean deal size. Means hide the distribution. A low standard deviation on deal size tells you the ICP is tight and the positioning is working. A high one tells you you're catching random business — some enormous, some tiny — which means the sales motion is inconsistent and the pipeline is far less predictable than the average implies. Track the standard deviation. The mean tells you where you've been. The standard deviation tells you how much to trust that.
 
 **Today's exercise:** Take the last ten data points from any live metric — booked meetings, reply rates, deal sizes. Calculate the mean. For each data point: subtract the mean, square the result. Sum all ten, divide by ten, take the square root. That's your σ. Now ask: is this small enough that you'd confidently make a resource decision based on the average? Or is it so large the average is basically fiction?
+---
+
+## 2026-07-23
+
+### 1. The Funny One
+> "You're negative two drinks from that interaction. Net subtractive." — Charlie Songhurst (Stripe)
+
+Deploy this the next time someone describes a conference, a dinner, or a call that left them measurably worse off for having attended.
+
+### 2. Business Insight
+**Hormozi/DOAC:** Name a crazy price. Then ask: what would I have to do for it to be worth that?
+
+Most agencies price by anxiety. Current rate, multiplied by whatever feels safe to say out loud. Hormozi's move is to name a number that feels embarrassing — ten times your current rate — then reverse-engineer the offer that earns it. What deliverables? What guarantees? What access? Suddenly the gap between what you charge and what you could charge looks like a product problem, not a market problem.
+
+The Kiln is at $20k/mo. Add a zero: $200k/year. What would The Kiln have to deliver for five clients to happily pay that? Guaranteed pipeline to a threshold? A full embedded GTM team? Attribution reporting that proves ROI directly to the board? The exercise doesn't require selling at that price today. It requires building toward it. You only need five.
+
+### 3. Deep Line
+> "You didn't wake up, you weren't born with that. You earned that somehow." — Shaan Puri
+
+Competence reads like personality from the outside. The reframe: it was constructed, which means it can be extended.
+
+### 4. Thought Principle: The Three-Sentence Exec Email
+Via Shaan's account of Elon: What is the problem? What's your analysis of the root cause? What's your proposed solution?
+
+Three questions. That's the whole template. Not "hi, hope you're well, just looping back on our conversation from last Thursday about the potential opportunity to explore potential synergies" — three sentences with three answers. Problem, cause, solution. If you can't fill in all three, you're not ready to send the email.
+
+The Kiln application: every internal escalation, every client update, every proposal that isn't a deck — run it through the filter. If an SDR flags that a sequence isn't converting, they don't get to surface the problem without a root cause and a proposed fix. Problem identification without analysis is just complaining with better scheduling.
+
+### 5. New Words & Terms
+**The think harder button** — Shaan's label for Elon's long processing silence. You present something. Elon goes quiet for thirty seconds. It's not blankness — it's compute. Most people mistake silence for confusion; this is the opposite. Usage: "He wasn't blanking on the question. He hit the think harder button."
+
+**View source** — Marc Andreessen on the original self-teaching tool of the early web. You saw a webpage, you right-clicked, you saw exactly how it was built — the raw HTML sitting right there in plain text. The entire first generation of web developers learned by reading each other's code. No courses, no bootcamps. Just view source, copy, modify, understand. Usage: "The GTM equivalent of view source is reading a competitor's cold email sequence and reverse-engineering why it works."
+
+**Fun employed** — Shaan Puri's label for the state of being between jobs but insisting it's intentional. Not unemployed. *Fun* employed. Usage: "He left his VP role four months ago. He's currently fun employed, consulting for friends, and refusing to admit he's looking."
+
+### 6. Contrarian Take
+> "Mediocrity is always invisible until passion shows up and exposes it." — David Senra (summarizing Michael Ovitz; endorsed by Marc Andreessen)
+
+Most organisations run on competent-but-comfortable until someone who actually cares walks through the door — and suddenly the existing standard looks embarrassing by comparison. The Kiln's edge isn't just competence; it's the visible contrast. One team that genuinely gives a damn about your pipeline makes every vendor you've tolerated for two years look like a liability.
+
+### 7. Analogy
+Dave Scott was the dominant Ironman triathlete of the 1980s. He also rinsed his cottage cheese. Not a typo — he literally washed the fat off it before eating. His competitors thought it was eccentric. He thought it was the margin.
+
+Jim Collins used this in *Good to Great* to illustrate the compounding of small disciplines. One daft-looking habit, applied with total consistency, at the edge where almost-elite meets actually-elite.
+
+The Kiln equivalent: it's not the big strategic move that separates a $20k/mo agency from a $100k/mo one. It's the rinse. The follow-up email sent at 7am instead of left until Monday. The weekly client report that arrives before they ask for it. The sequence tweaked based on reply-rate data rather than left running on autopilot. None of these are glamorous. All of them are cottage cheese.
+
+### 8. Story
+Blake Scholl — CEO of Boom Supersonic, trying to get supersonic commercial flight approved — named a structural problem in how regulators make decisions. If a regulator approves something and it goes wrong, their career is over. Publicly, visibly, permanently. But if a regulator blocks a genuinely good thing — a technology that would have worked, a drug that would have saved lives, a plane that would have been fine — nobody notices. There is no accountability for the good thing that never happened.
+
+So the incentive is clear: block. Always block. Not from malice. From rational self-preservation inside a system where asymmetric consequences produce asymmetric caution.
+
+The Kiln lesson: procurement teams and buying committees operate on identical logic. The person who approved the vendor that failed gets blamed. The person who blocked the vendor that would have worked gets nothing — no blame, no credit. When a deal stalls in committee, it's often not about the product. It's about who carries the risk of the yes. The job is to find that person and de-risk the yes for them specifically.
+
+### 9. Rule of Thumb
+**"Going to weddings more than an hour away, going above Floor 50 — not for me." — Sam Parr**
+
+Sam's not talking about weddings or elevators. He's talking about having explicit pre-committed rules for what you won't do, so you don't have to negotiate with yourself every time the question comes up. The pre-committed no is faster and cheaper than the agonised case-by-case maybe. For The Kiln: know your Floor 50s. Clients below a certain revenue threshold, in a certain industry, requiring a certain reporting structure — pre-decide. The decision cost is paid once. The boundary holds forever.
+
+### 10. Stoic Closer
+> "The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon." — Naval
+
+The name you build is the leverage you carry — and leverage only exists when there's something real to lose.
+
+### 11. Daily Math: Normal Distribution
+**Concept:** The normal distribution is a bell curve. Most values cluster around the mean; fewer and fewer observations appear as you move toward the extremes. Two numbers describe it entirely: the mean (μ, where the peak sits) and the standard deviation (σ, how wide the bell is). About 68% of observations fall within one σ of the mean. 95% fall within two σ. 99.7% within three σ. That's the 68-95-99.7 rule — the only thing you need to memorise.
+
+**Business example:** You run an outbound sequence across 500 prospects. Mean reply rate is 4%, σ is 1%. The normal distribution tells you 68% of your sequence variants will land between 3% and 5%. A variant that hits 6% is two standard deviations out — genuinely unusual, worth studying. A variant that hits 7% is three standard deviations out — either your ICP targeting was spectacularly precise, or your sample size is too small to trust. Either way, don't call it the new baseline until you've investigated.
+
+**Insight:** The normal distribution is the lens that separates signal from noise in GTM. One monster week in outbound gets treated as proof of concept when it might just be a tail event. One terrible week triggers a full strategy review when it's two standard deviations down and statistically expected. The question to ask about any anomaly isn't "what does this mean?" — it's "how many standard deviations is this from normal, and is the sample size large enough for that to matter?"
+
+**Today's exercise:** Take the same ten data points from yesterday. Plot them mentally: do they cluster symmetrically around the mean, or do they pile up on one side with a long tail on the other? If symmetric, outliers are genuinely unusual — investigate them. If skewed right (a few huge numbers pulling the mean up), your median is more useful than your mean and your "typical" week is lower than the average implies. Name which distribution you're actually working with.

@@ -46,6 +46,7 @@ SEGMENTS = [
     ("analogies",  "Analogy",            1),
     ("stories",    "Story",              1),
     ("rules",      "Rule of Thumb",      1),
+    ("advertising","Ad Craft",           1),
 ]
 
 

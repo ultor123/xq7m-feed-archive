@@ -1,0 +1,485 @@
+# Segment: Advertising
+# One item pulled per episode. Editable — add/remove bullets freely. Format: `- text — Source`
+# Sourced from: Drayton Bird (Commonsense Direct & Digital Marketing), Robert Updegraff (Obvious Adams), Richard Shotton (The Choice Factory)
+
+## Obvious Adams — Robert Updegraff (1916)
+
+- The obvious thing to do is often to walk in and say it plainly — Obvious Adams
+- Have persistency enough in following out your ideas of what is obvious — Obvious Adams
+- Do the obvious directly, without any fuss or fireworks — Obvious Adams
+- When you find the answer, it will be simple — Obvious Adams
+- Picking out the obvious presupposes analysis, and analysis presupposes thinking — Obvious Adams
+- Thinking is the hardest work many people ever have to do, and they don't like to do any more of it than they can help — Obvious Adams
+- Men look for a royal road through some clever scheme and call it the obvious thing, but calling it doesn't make it so — Obvious Adams
+- Gather all the facts and analyze them before deciding what really is the obvious thing — Obvious Adams
+- Don't get carried away from the facts; look them squarely in the face, then analyze — that is half of the battle — Obvious Adams
+- Before deciding what ought to be done, find out what is the matter — Obvious Adams
+- If your work can be done by someone at two-thirds your salary, ask for something better and train up your replacement — Obvious Adams
+- When you want a chance at a job, study the subject in your own time until you can do it better than the man who has it — Obvious Adams
+- Eat, study, dream the product until you know it cold — Obvious Adams
+- Simple, homely copy that tells it straight will beat literary copy that only makes the mouth water — Obvious Adams
+- Do less advertising and more selling — Obvious Adams
+- Let people taste the cake — sampling beats poetry — Obvious Adams
+- Show the product in natural colors where it will make the mouth water — Obvious Adams
+- Package and color exist to appeal to the eye and the appetite, not to please the printer — Obvious Adams
+- If a store is hard to find, no amount of advertising will save it — the neighbor store reaps the benefit — Obvious Adams
+- Count the traffic on both sides of the street before you pay for the window — Obvious Adams
+- Ask yourself: to whom are you advertising — the makers, or the users? — Obvious Adams
+- Facts every insider takes for granted are often news to the buying public — Obvious Adams
+- Tell your story simply, month after month, and you will be years ahead of competitors before they think to speak — Obvious Adams
+- Advertising is not white magic; like everything else, it is just plain common sense — Obvious Adams
+- Show the hat, not the man — cut away everything that isn't the point — Obvious Adams
+- People will read a four-page advertisement set in small type if you make it as interesting and dramatic as any good story — Obvious Adams
+- Ads do not always have to shriek their message in two-inch type — Obvious Adams
+- Make mistakes now and then, but never the same one twice — Obvious Adams
+- Many small businessmen have business astigmatism — cured only by calling in a specialist who can give a true view of their own methods — Obvious Adams
+- Study the men earning a hundred thousand a year and you will find they are nearly all doers of the obvious — Obvious Adams
+- Spread your business over the dull hours to make more new business — Obvious Adams
+- Advertise the habit, not just the product — sell the library idea, not just the library — Obvious Adams
+- People will not ask; you must tell them the price, the fare, the how — Obvious Adams
+- This problem, when solved, will be simple — so simple that a whole generation may have looked at it without seeing it — Obvious Adams
+- If an idea is clever, ingenious, or complicated, suspect it — it probably is not obvious — Obvious Adams
+- Test any plan against human nature: if you cannot comfortably explain it to your aunt, your barber, and the man at the next desk, it is not obvious — Obvious Adams
+- The public's mind is simple, direct, and unsophisticated — plan for it that way — Obvious Adams
+- Put it on paper in words of one or two syllables, as though explaining it to a child; if you cannot, it is not obvious yet — Obvious Adams
+- Putting it on paper is a quick way of showing you what you have — or haven't — Obvious Adams
+- An obvious idea explodes in people's minds — they say, "Now why didn't we think of that before?" — Obvious Adams
+- If your idea needs lengthy explanation and hours of argument, either it is not obvious, or you have not thought it through — Obvious Adams
+- Check the timeliness — many ideas are obvious in themselves but obviously out of time — Obvious Adams
+- Keep a "cupboard of the future" for ideas that are right but not yet ripe — Obvious Adams
+- To be ready is to be timely, and to be timely is an obvious requirement — Obvious Adams
+- Beware of your propensity to convince yourself too easily that your ideas are good — Obvious Adams
+- Even an obvious idea still needs selling — others must have time to digest it mentally, which is their right — Obvious Adams
+- Encourage others to challenge your idea critically — if it is obvious it will stand up under their questions — Obvious Adams
+- Never mind how a thing has always been done, or how other people want to do it — ask, what is the simplest possible way? — Obvious Adams
+- Ask how a seven-year-old, uninhibited by the experience of generations, would tackle the problem — Obvious Adams
+- Accumulated experience is valuable, but it can also smother and thwart the obvious — Obvious Adams
+- List every part of your plan on paper and ask of each: is this element absolutely necessary? — Obvious Adams
+- Strip off every needless part; get down to the very bone; then ask what am I trying to accomplish, and why — Obvious Adams
+- Suppose the whole thing were completely reversed — nothing opens the mind wider to a new approach — Obvious Adams
+- The fact that a thing has been done a certain way for centuries likely means it is ripe for challenge — Obvious Adams
+- Instead of designing a boat that could fly, design a plane that could float — Obvious Adams
+- Take a vote — let the public choose, and the success of the product is insured in advance — Obvious Adams
+- Test with a cross-section of people before going too far; the public makes or breaks everything you attempt — Obvious Adams
+- Look for the obvious which no one else has bothered with — Obvious Adams
+- Take a bifocal look at everything: close-up for detail improvements, far off for entirely new ways of doing the same end — Obvious Adams
+- The world is full of unexpressed, unsensed needs — bring obviousness to bear and you will be richly rewarded — Obvious Adams
+- Once an unsensed need is filled, it is obvious the need was there all along — Obvious Adams
+- Reserve decision for a day or so even on an obvious idea — hidden flaws sometimes show up only after a night's sleep — Obvious Adams
+- There are no mountains in Holland — that is the whole secret; there is none — it is obvious — Obvious Adams
+
+
+## The Choice Factory — Richard Shotton (25 behavioural biases in advertising)
+
+- The fundamental attribution error: we blame personality when context is doing most of the driving, so target contexts as ruthlessly as you target audiences — Richard Shotton
+- Darley and Batson's Good Samaritan seminarians: only 10% of the rushed helped a slumped stranger vs 63% of the unhurried, while their stated values made no difference — Richard Shotton
+- 81% of people predicted the hurried caring man would stop; the exact opposite of what happens — we systematically underestimate context — Richard Shotton
+- CBS Outdoor's Total Recall: three minutes of poster exposure made recall 6x higher, detail recall 4x higher, and brand recall 14x higher than three seconds — Richard Shotton
+- Lumen eye-tracking: only 4% of display ads are viewed for more than one second, so buy on time-spent not cost-per-thousand — Richard Shotton
+- Rushing consumers process poorly — avoid communicating to people mid-hustle unless you're deliberately targeting distraction — Richard Shotton
+- Social proof: Cialdini's towel-reuse message lifted compliance from 35% to 44% simply by saying "most guests reuse" — Richard Shotton
+- Tailored social proof beats generic — "most guests in this room reused" pushed compliance to 49%, so localise the claim to the audience — Richard Shotton
+- Costa's "for coffee lovers" claim (not "most drinkers") lifted like-for-like sales 5.5% by flattering the audience's self-image — Richard Shotton
+- Apple's white iPod earbuds manufactured social proof by making every user visible before Apple was truly dominant — Richard Shotton
+- Magners rolled out cider over ice region-by-region so the "everyone's drinking it" illusion was hyper-local and self-fulfilling — Richard Shotton
+- Don't assume shoppers know you're the market leader — only 24% of Brits knew Carling was the top pub pint, so if you're number one, shout it — Richard Shotton
+- Whiskas's "8 out of 10 cats" and McDonald's "billions served" are the archetypal social-proof claims that work because they state popularity plainly — Richard Shotton
+- Consumers deny being influenced by others in surveys, so social-proof campaigns die in research despite crushing it in the market — Richard Shotton
+- Negative social proof: the Petrified Forest sign warning "many past visitors have stolen wood" more than doubled theft vs no sign at all — Richard Shotton
+- Never dramatise the scale of the bad behaviour you're trying to stop — flip the stat so the desired behaviour is the norm — Richard Shotton
+- The public wildly over-estimates social problems (they think 16% of teen girls give birth; real figure is 3%) — close the gap, don't widen it — Richard Shotton
+- If most people do the wrong thing, drop descriptive norms and use injunctive norms — publicise disapproval of the behaviour instead — Richard Shotton
+- The Von Restorff (isolation) effect: distinctive items get 30x the recall of surrounding ones — being different is the memory tax you can't afford to skip — Richard Shotton
+- Copernicus analysed 340 TV ads and found only 7% carried a differentiating brand message — the norm in advertising is homogeneity — Richard Shotton
+- Watch ads almost universally show 10:10 because the hands frame the logo — a lovely illustration of category mimicry going unchecked — Richard Shotton
+- Category mimicry is safety in numbers that leaves both mimics invisible — "when the world zigs, zag" — Richard Shotton
+- Comparethemarket ditched rational feature-comparison for the meerkat and jumped from 4th to 1st on consideration with quotes up 83% — Richard Shotton
+- Distinctiveness dies by committee — the more decision-makers involved, the greyer the output — Richard Shotton
+- Distinctive campaigns get killed by principal-agent risk — "no one gets fired for buying IBM" is why sameness wins internal approval — Richard Shotton
+- Habit accounts for ~45% of daily behaviour, so most of the time your brand competes against autopilot, not conscious choice — Richard Shotton
+- Habits are context-locked — target consumers during life events (moving, new job, baby, divorce) when the grip loosens and switching triples — Richard Shotton
+- Nine-enders (people aged 29, 39, 49…) are 48% more likely to run their first marathon and 18% more likely to have an affair — target them when they're reappraising — Richard Shotton
+- Sainsbury's "Try Something New Today" attacked "sleep shopping" — habit-breaking only works if you own the point of purchase and back it with heavy spend — Richard Shotton
+- Target category entrants (first-time grocery shoppers, new parents) disproportionately — habits harden fast and defection later is expensive — Richard Shotton
+- The pain of payment: MBAs bid double for basketball tickets when paying by card ($61) vs cash ($29) — plastic dulls the sting — Richard Shotton
+- Contactless users under-estimate their spend by 5%, cash users over-estimate by 9% — a 14-point gap that reshapes whether a shop feels expensive — Richard Shotton
+- Casinos use chips because plastic discs don't feel like money — anything that abstracts the price loosens the wallet — Richard Shotton
+- Cornell found removing the dollar sign from menus lifted sales 8% — the visible currency symbol reactivates pain-of-payment — Richard Shotton
+- Charm pricing (ending in 9) lifted Gumroad conversions from 2.3% to 3.5% — a 51% jump for a 1% price cut — Richard Shotton
+- The left-digit effect explains part of charm pricing: we read left-to-right and anchor on the first number, so £3.99 registers as "£3-something" — Richard Shotton
+- Anderson & Simester found $39 dresses outsold both $44 and $34 versions — a nine also signals "bargain" beyond the left-digit trick — Richard Shotton
+- Shorten the time frame on a deal — the same £1,668/year Mazda offer felt like a "great deal" 5x more often when framed daily vs annually — Richard Shotton
+- 2005 US car "employee discount" promotion beat bigger cash discounts because the story made the price cue credible — promotions need a plausible backstory — Richard Shotton
+- People lie systematically in surveys — OK Cupid users are two inches taller and four times more likely to earn $100k than the population — Richard Shotton
+- NATSAL's numbers prove it mathematically: British men claim 12 sexual partners, women 8 — impossible, so surveys are lies you have to decode — Richard Shotton
+- Adrian North's supermarket wine test: French accordion music drove 77% French wine sales, oompah drove 73% German — yet only 2% of buyers credited the music — Richard Shotton
+- Ask what "other people" would do to sidestep social-desirability bias — 60% will admit friends airbrush on social media even when they won't admit it themselves — Richard Shotton
+- Use cell methodology — split your sample and ask each cell a slight variant so no respondent knows the objective of the survey — Richard Shotton
+- Observe behaviour, don't ask about it — putting a New Look bag in a Badoo dating profile made men rate 20-25% less attractive; a survey would never have surfaced that — Richard Shotton
+- Google search is a modern confessional — parents Google "is my son gifted?" 2.5x more than "is my daughter gifted?" — mine what people won't say — Richard Shotton
+- answerthepublic.com is a free window into how consumers actually phrase problems in your category — most vitamin buyers search by benefit, not letter — Richard Shotton
+- No single data source is right — Katy Perry's Facebook fans are overwhelmingly female but her Spotify listeners are gender-balanced; triangulate — Richard Shotton
+- Mood matters: Bronner found relaxed readers noticed 56% of ads vs 36% for stressed readers — buy attention when people are happy — Richard Shotton
+- Consumers are 24% more receptive to content when upbeat (Yahoo diary study) — happiness signals absence of threat and lowers critical processing — Richard Shotton
+- People are 40% more likely to be in a good mood on Saturday than the daily average — weight your buys accordingly — Richard Shotton
+- Match ad energy to viewer mood — high-energy ads shown to sad viewers are 50% less effective; congruence beats intensity — Richard Shotton
+- Snickers targets "hungry moods" using DoubleClick signals — mood-based targeting is now operational, not theoretical — Richard Shotton
+- Price relativity: PG Tips looked "good value" to 31% when compared to Tesco own-label, and 65% when compared to Twinings — the comparison set is the message — Richard Shotton
+- Nespresso's genius was pricing by the pod, forcing comparison to a £2.50 Costa cup — the same coffee sold by the bag would have looked absurd at £34 — Richard Shotton
+- Red Bull's small can pushed it into a different price category — shrink the pack to justify the premium — Richard Shotton
+- Introduce a top-tier product you don't expect to sell — Tversky's Minolta experiment showed a $470 camera made the $240 model the popular middle choice — Richard Shotton
+- Video-conferencing failed by positioning as a cheap alternative to air travel — reframe as the CEO's premium phone call, not the poor man's flight — Richard Shotton
+- The primacy effect (Asch): flip the order of adjectives from positive-first to negative-first and the same person is rated as a "problem" instead of "capable" — Richard Shotton
+- Positive traits heard first colour every subsequent trait — pick the attribute easiest to own, not the one rated most important, because it will drag the rest — Richard Shotton
+- Invest disproportionately in launch — first impressions calcify and later communications get interpreted through them — Richard Shotton
+- Be single-minded — multi-message ads risk the primacy slot going to your weakest argument — Richard Shotton
+- Expectancy theory: Wansink's identical brownie was rated "OK" on a napkin, "good" on paper, "excellent" on china — and the china version fetched more than double the price — Richard Shotton
+- Better copywriting on a menu ("Succulent Italian Seafood Filet") lifted actual taste ratings 7% and appeal 13% — Richard Shotton
+- Beer served in the right branded glass tastes better, and the effect is larger for small brands where the serve dominates what the drinker knows — Richard Shotton
+- Watch out for the "green penalty" — labelling washing tablets as eco-friendly made consumers rate them 9-18% worse on effectiveness, appeal and purchase intent — Richard Shotton
+- Consumers assume trade-offs — every positioning attribute drags an implied negative, so pre-test what "sugar free" or "low alcohol" is silently costing you — Richard Shotton
+- Confirmation bias: identical policy attracted 14% strong support from Labour voters when labelled Labour and 3% when labelled Conservative — party trumps content 4-to-1 — Richard Shotton
+- Marketing triage: sort audiences into likely buyers, definite rejecters, and the persuadable middle — spend only on the third group — Richard Shotton
+- Avoid heavy buyers: they're already saturated, they'll see the ad anyway, and Byron Sharp shows they have no headroom — Richard Shotton
+- When you must reach rejecters, target them distracted — Festinger showed college students changed views on fraternities more when hearing the argument alongside a silent film — Richard Shotton
+- 35% of TV viewing happens with a second screen active — programmes like Made in Chelsea or daytime TV are ideal for shifting entrenched opinions — Richard Shotton
+- Cinema costs 5x TV per impression for its attentive audience — but for rejecters, cheaper distracted media may work better — Richard Shotton
+- Use oblique cues to sneak past rejection — British Airways' Flower Duet whispers "luxurious" without triggering counter-arguments — Richard Shotton
+- Overconfidence: 88% of drivers think they're safer than average and 90% of academics think they teach better than average — nobody exempts themselves — Richard Shotton
+- 83% of agency staff rate themselves above-average at their job — assume your next campaign will be mediocre, not exceptional, when setting budgets — Richard Shotton
+- Don't jettison a winning campaign because it's "gone stale" — Halifax's Howard and 118 118's runners were still outperforming when they were killed — Richard Shotton
+- Slovic's horseracing study: expert accuracy peaked at just 5 data points but confidence kept climbing with more variables — more data means more overconfidence, not more accuracy — Richard Shotton
+- Weaponise consumer overconfidence — 64% think they're more generous than peers, so publicising the average donation nudges people to exceed it — Richard Shotton
+- Wishful seeing: Bruner and Goodman found poor children over-estimated coin size by 37% and rich kids by 17% — we see what we value — Richard Shotton
+- Brand purpose is wishful seeing at industry scale — Stengel's data was circular (top 0.1% of brands performed like the top 0.1% of brands) and his post-publication picks underperformed the S&P — Richard Shotton
+- Any theory promising a universal formula for success is dishonest — competitive markets mean outcomes are relative, not intrinsic to any one recipe — Richard Shotton
+- Media context shapes belief — the same headline scored 1.9 out of 7 for credibility in the most respected magazine and 5.5 in the least — Richard Shotton
+- "THE CAT" illusion: the same shape reads as H or A depending on the letters surrounding it — visual proof that context rewrites content — Richard Shotton
+- Programmatic buying strips out context — the £2.7bn UK programmatic display market ignores that where the ad appears changes what the ad means — Richard Shotton
+- John Kay's waste theory: advertising works because it's visibly expensive — only brands confident enough to recoup the spend would burn the money on it — Richard Shotton
+- 89% of consumers know Real Madrid's shirt sponsorship costs £30m+ and rate TV/cinema ads at 5x YouTube's cost — perceived waste is legible and credibility-building — Richard Shotton
+- Curse of knowledge: Newton's tappers predicted 50% recognition rates for tapped-out songs; actual rate was 2.5% — you can't unhear your own tune — Richard Shotton
+- 4% of London posters are illegible from across the street and only the headline of another third is readable — evaluate copy from the consumer's context, not the boardroom — Richard Shotton
+- Marketers are maximisers; most consumers are satisficers — stop optimising for perfection and start reassuring against embarrassment — Richard Shotton
+- iPhone owners think half the population owns one; non-owners think a third — marketers project their world onto everyone else — Richard Shotton
+- Method planning: for a male incontinence brief, get planners to run to a toilet within two minutes on a text alert — cheap insight beats no insight — Richard Shotton
+- Goodhart's Law: when a measure becomes a target it stops being a good measure — Hanoi paid for rat tails and got tail-less rats — Richard Shotton
+- Short-term digital metrics have exploded from 7% to 33% of IPA Effectiveness entries — marketers look for the keys under the streetlight — Richard Shotton
+- Brand tracking using "ad recognisers vs non-recognisers" (the Rosser Reeves fallacy) systematically overstates ad impact because loyalists notice ads more — use control groups instead — Richard Shotton
+- Terry Leahy nearly delisted Tesco's gluten-free range on the numbers — talking to shoppers revealed they chose the whole supermarket around it — Richard Shotton
+- Alex Ferguson sold Jaap Stam because tackles were declining; the drop actually signalled improvement (better interception = fewer tackles needed) — data is evidence, not verdict — Richard Shotton
+- Pratfall effect (Aronson): a competent contestant who spilled coffee was rated more likeable than the same one who didn't — small flaws humanise strong performers — Richard Shotton
+- A cookie with a rough edge beat an identical smooth one 66% to 34% — visible imperfection reads as authenticity — Richard Shotton
+- VW's "Think Small" and "It's ugly but it gets you there" turned Beetle flaws into the biggest imported car campaign of the 20th century — Richard Shotton
+- Avis's "We're only number 2, we try harder" ran for 50 years and produced the company's first profit in a decade — admit the weakness, own the trade-off — Richard Shotton
+- Stella's "Reassuringly Expensive" and Guinness's "Good things come to those who wait" both dramatise a flaw to imply a virtue — Richard Shotton
+- Admitting weakness only works if the brand is otherwise strong — Aronson's clumsy contestant was less likeable when he'd already answered badly — Richard Shotton
+- Pratfall works harder on male audiences — Kay Deaux showed men respond more to admitted flaws than women do — Richard Shotton
+- Product reviews peak in purchase-lift at 4.2-4.5 out of 5, not 5.0 — perfect scores read as fake, so keep the bad reviews visible — Richard Shotton
+- Iain Banks put savage reviews on his book blurb and the outrage sold The Wasp Factory — negative press can authenticate a positioning — Richard Shotton
+- Winner's curse: the highest bidder in an auction has the most optimistic (i.e. inflated) valuation — programmatic buying institutionalises overpayment — Richard Shotton
+- Target on unusual signals to escape the winner's curse — non-default browser users (Chrome, Firefox) prefer challenger brands; Internet Explorer users prefer mainstream ones — Richard Shotton
+- Payday spending spikes 70% for around four days and windfalls get spent on discretionary items — reach lower-income consumers when they're spending like ABC1s — Richard Shotton
+- Bid-shave — if impressions are worth £5, bid £4.50, because the market's average valuation is more accurate than yours — Richard Shotton
+- Power of the group: identical ads are rated 21% funnier watched in groups of three than alone — humour is contagious — Richard Shotton
+- Emotional reactions intensify in groups — happy images make groups happier and sad images sadder (Shteynberg) — Richard Shotton
+- Buy funny or emotional copy in cinema (average group size 2.7) or in films, documentaries, news — genres roughly 2x more likely to be viewed in groups — Richard Shotton
+- Veblen goods: Ariely's identical placebo was rated effective by 85% at $2.50 vs 61% at 10c — price sets the expectation that becomes the perception — Richard Shotton
+- Doubling the shelf price of a perfume from £40 to £80 more than doubled the share of testers willing to buy — high price is an active brand ingredient — Richard Shotton
+- Overweight ad spend on your premium tier — Audi almost never advertises entry-level models on TV; the halo funds the rest of the range — Richard Shotton
+- Launch a decoy premium (McDonald's £4.69 Signature burger) to raise perceived quality across the whole portfolio — don't judge it on its own sales — Richard Shotton
+- Baba Shiv found students on discounted energy drinks answered 30% fewer maths questions right — low price kneecaps the placebo — Richard Shotton
+- Promotions are "bad cholesterol" — great for short-term sales, corrosive to long-term brand health, and 40%+ of UK groceries are now sold on promotion — Richard Shotton
+- Big Data isn't automatically representative — Boston's Street Bump app mapped potholes in affluent smartphone-owning neighbourhoods, not the actual worst potholes — Richard Shotton
+- Replicability crisis: only 36-47% of published psychology studies replicated in Nosek's project — never bet the campaign on a single experiment — Richard Shotton
+- Nominative determinism (dentists called Dennis) turned out to be a demographic artefact — plausible explanations dressed as evidence are still not evidence — Richard Shotton
+- Marketers don't need 95% certainty like academics do — if the upside is big and the downside is small, act on weaker signals and let winners scale — Richard Shotton
+- Variability: BIT's tax-payment social-proof message worked broadly but backfired 25-35% among the largest debtors, who see themselves as unique — Richard Shotton
+- Match the bias to the mindset — scarcity works for people in a mating/romantic mood; social proof works for people in a fearful mood (Griskevicus) — Richard Shotton
+- Run scarcity ads inside romantic content, social-proof ads inside horror or news — media context should reinforce the bias, not fight it — Richard Shotton
+- Cocktail party effect: personal relevance breaks through — but journalist eye-tracking showed only 1% of ads walked past are actually recalled — Richard Shotton
+- 36% call personalised banner ads "completely unacceptable" — the tech runs ahead of the norm; direct mail (long habituated) gets a pass — Richard Shotton
+- Localisation is the safe middle path — a Charing Cross-tailored poster beat the national version 14% on awareness, without triggering privacy backlash — Richard Shotton
+- A regionally tailored energy tariff was called "great value" by 10% of respondents vs 4% for the national version — specificity earns credibility — Richard Shotton
+- Bystander effect: 85% of lone students helped a faked epileptic fit, dropping to 31% when they were in groups of four — mass appeals dilute responsibility — Richard Shotton
+- Regional Give Blood ads ("stocks low in Basildon") beat national ("stocks low in the UK") by 10% cost-per-donation by defeating the bystander effect — Richard Shotton
+- Kitchener's "Your Country Needs You" worked because a mass-medium poster addressed one person — write ads to a single "Dear Charlie" then delete the salutation (Bob Levenson) — Richard Shotton
+- Beware brand scurvy — over-personalising without mass brand-building starves the brand of the common story that makes personalisation land — Richard Shotton
+- Scarcity: Worchel's cookies from a jar of two were rated tastier and worth 11% more than the same cookies from a jar of ten — Richard Shotton
+- Wansink got Campbell's soup shoppers to buy 5.3 cans instead of 3.3 by imposing a purchase limit — cap the offer to lift the average basket — Richard Shotton
+- Anchoring (Tversky & Kahneman): even a rigged wheel-of-fortune number of 65 vs 10 shifted subsequent estimates of African UN membership from 25% to 45% — Richard Shotton
+- Estate agents shown a $65,900 vs $83,900 asking price valued the same Tucson home $7,000 apart — trained pros anchor to the number in front of them — Richard Shotton
+- De Beers made "a month's salary for a diamond" and later "two months' salary" the anchor — US diamond sales rose from $23m to $2.1bn in 40 years — Richard Shotton
+- Ocado's on-page flash sales expire when you leave the page — engineered urgency creates abnormal interest in a half-price tin of beans — Richard Shotton
+- Loss aversion beats gain framing: telling customers they'd "lose £100 by not switching" energy provider beat "save £100" by 45% — Richard Shotton
+- Publicise why the item is scarce — Worchel's cookies rated highest when subjects were told they were nearly gone because of high demand — that stacks scarcity on top of social proof — Richard Shotton
+- Middle options win — on a tip screen, on a menu, in a product range — people fear looking cheap and fear looking profligate, so they cluster on safety — Richard Shotton
+- Nudge for the long term — a shower gel with a widened cap boosts sales briefly then trains customers to hate the brand — short-term wins can be long-term losses — Richard Shotton
+- Fake brands make cleaner experiments — invented names like "Black Sheep Vodka" isolate the variable you're testing without existing brand baggage — Richard Shotton
+- Google Surveys let you run a nationally-representative question for about 7p a person and get results in a day — no more excuses for research-free hunches — Richard Shotton
+- Consumers say what they think will sound good, not what will drive their behaviour — never take stated preference as data unless you've corroborated it — Richard Shotton
+- Test small, scale winners, kill losers — behavioural science's edge is that experiments are cheap now and failures cost you nothing but a plan — Richard Shotton
+
+
+## Commonsense Direct & Digital Marketing — Drayton Bird
+
+- Advertising is salesmanship in print — Drayton Bird
+- The only purpose of advertising is to sell; it has no other justification worth mentioning — Drayton Bird
+- Flair and talent are overrated: you need education — Drayton Bird
+- Measurables are your best guide — Drayton Bird
+- People who don't use response devices in their advertising are between 94% and 98% stupid — Drayton Bird
+- A coupon actually increases readership — put one in — Drayton Bird
+- The response device improves your image, it doesn't damage it — Drayton Bird
+- We learn little from success — mistakes force you to examine what went wrong — Drayton Bird
+- Know the rules, but don't follow them slavishly — Drayton Bird
+- The purpose of business is to make and keep a customer — Drayton Bird
+- Marketing is the process of identifying, anticipating and satisfying customer requirements profitably — Drayton Bird
+- Aim to eliminate the need for selling: know the customer so well the product sells itself — Drayton Bird
+- Think about long-term customers, not short-term profits — Drayton Bird
+- Direct marketing isn't a medium, method or channel of distribution — it's a way of marketing — Drayton Bird
+- Isolate individuals, build relationships, and test — the three Graces — Drayton Bird
+- Communication under many circumstances is itself added value — Drayton Bird
+- Give your customers a service better than they have any right to expect — Drayton Bird
+- Find out what people want and need, give it to them, and you'll get rich — Drayton Bird
+- The frequency of communication should match the closeness of the relationship — Drayton Bird
+- Locate a prospect, make that prospect a customer, then turn that customer into a friend — Drayton Bird
+- Your best customer is not the unknown prospect — it's the person who knows you — Drayton Bird
+- The first objective of marketing is to avoid making a loss — Drayton Bird
+- Real economies lie in the elimination of junk marketing — speaking to everybody when you only need to speak to somebody — Drayton Bird
+- Cheapest enquiries may not be cheapest sales; cheapest sales may not be your best customers — Drayton Bird
+- Sell the benefit (money), not the negative scary thought (hospital costs) — Drayton Bird
+- All prospects are by no means created equal — track them from the moment they enter your net — Drayton Bird
+- No serious car manufacturer ignores direct marketing — they just spend too much on flashy executions and not enough on persuasion — Drayton Bird
+- Never assume you know what will sell — even I get it wrong constantly — Drayton Bird
+- The one thing to focus on: making and keeping a customer — Drayton Bird
+- Every message you send out affects the picture customers have of you — orchestrate them together — Drayton Bird
+- Ask five questions before you communicate: Who, What, Where, When and Why — Drayton Bird
+- The Who is the most important — everything else follows from understanding people — Drayton Bird
+- People care about people, not impersonal companies — Drayton Bird
+- People make decisions for emotional reasons, not rational ones — Drayton Bird
+- Read your customer letters — you'll learn more than any focus group can teach you — Drayton Bird
+- Would you say that to someone you know? — the acid test of your copy — Drayton Bird
+- Sit in on sales pitches, go shopping in street markets, and listen to ordinary people — stay in touch — Drayton Bird
+- Word-picture lock: the headline and image must reflect each other and the product — Drayton Bird
+- Words and pictures working together are up to five times as effective as either alone — Drayton Bird
+- Describe the product precisely and briefly — don't assume people know what it is — Drayton Bird
+- Customers want to buy when they want to buy — not just when you want to sell — Drayton Bird
+- More frequent, relevant communications increase sales — the LL Bean rule — Drayton Bird
+- Give people reasons, excuses, occasions to buy — birthdays, anniversaries, budgets, seasons — Drayton Bird
+- Fight for as much time and money as possible in the early stages of a programme — Drayton Bird
+- That which is written without effort is generally read without interest — Drayton Bird
+- Do it on the cheap and it will cost you extremely dear in the end — Drayton Bird
+- Promise, large promise is the soul of an advertisement — Drayton Bird
+- Advertising works best when you promise people something they want — not when you're clever, original or shocking — Drayton Bird
+- Customers prefer relevant, not clever or entertaining — Drayton Bird
+- Come right down with the facts — boldly, firmly, unflinchingly — Drayton Bird
+- Leave out all ifs — don't say "we are convinced," say "the best" or say nothing — Drayton Bird
+- Honesty is not only the best policy — nowadays it is sufficiently rare to make you pleasantly conspicuous — Drayton Bird
+- Give a reason why — "Closing Down Sale" beats "Sale" every time — Drayton Bird
+- Ask "Is this a good sales technique?" every time you plan or review anything — Drayton Bird
+- One mediocre campaign run consistently for 20 years beats 20 brilliant campaigns run at yearly intervals — Drayton Bird
+- Every communication affects the image your public has of you — Drayton Bird
+- Your USP: the one feature you have that no one else can offer — promote it single-mindedly — Drayton Bird
+- Positioning is the synthesis of brand image and USP — Drayton Bird
+- What you do matters more than what you say — Drayton Bird
+- Be similar but not identical — offer everything competitors have plus a little more — Drayton Bird
+- Don't promise something you can't deliver — the more attractive the promise, the bigger the mistake — Drayton Bird
+- Talk about what you're doing — not what you think you do — Drayton Bird
+- Never overclaim; be believable — if it stretches credibility, results will collapse — Drayton Bird
+- Direct marketing seeks action; general advertising just tries to influence thoughts and feelings — Drayton Bird
+- Any plan is better than no plan — even a bad plan you can adapt beats guessing — Drayton Bird
+- Emotion beats reason — dramatise the emotional benefit — Drayton Bird
+- Customers are human beings — not statistics — Drayton Bird
+- People rarely spend as much time thinking about your ads as you do — indeed they are almost entirely indifferent — Drayton Bird
+- If you don't make it extremely clear what you're selling from the start, you're on a hiding to nothing — Drayton Bird
+- Being clever is usually cowardice — you don't have the guts to say what the product is — Drayton Bird
+- Include a testimonial — one letter from a satisfied customer beats a wagonload of adjectives from a copywriter — Drayton Bird
+- Why should anyone take the word of an anonymous copywriter? Prove it with testimonials — Drayton Bird
+- The list is more important than the offer, offer beats timing, timing beats creative — in that order — Drayton Bird
+- A change of list can produce a 6x swing in results; a change of offer, 3x; timing, 2x; creative, 1.35x — Drayton Bird
+- Your own customer list is roughly three times as effective as any outside list — Drayton Bird
+- The customers you want are like the customers you have — Drayton Bird
+- Recency, frequency and monetary value — the oldest list rule, still the most powerful — Drayton Bird
+- Recent buyers always outperform lapsed ones — mail hot-line names first — Drayton Bird
+- Look at duplication between two lists: 25% overlap = 86% chance of success; under 10% = 3% chance — Drayton Bird
+- Lists are people — never forget who's on the other end — Drayton Bird
+- People behave as they are accustomed — buyers keep responding to the offer that recruited them — Drayton Bird
+- A questionnaire beats a mailing — you sell and learn at the same time — Drayton Bird
+- The best way to reduce mailing costs is to eliminate names less likely to respond — Drayton Bird
+- Member-get-Member is a licence to print money — your best customer is your best salesperson — Drayton Bird
+- Always seed your list with trap names before renting it out — Drayton Bird
+- No incentive, no matter how valuable, will work if your website fails to give people what they want — Drayton Bird
+- Get people to your site, keep them there, look like the ideal option, get them to respond, get permission to talk — Drayton Bird
+- People are impatient online — signpost things clearly, they won't hunt — Drayton Bird
+- The internet is just accelerated direct marketing — same principles, faster feedback — Drayton Bird
+- Ask visitors for their email address on every page, every order, every enquiry — and offer something in return — Drayton Bird
+- Ten customers unfamiliar with your site should be able to use it without help — test that before launching — Drayton Bird
+- Marketers should run the website — not the technicians — Drayton Bird
+- Every page is the first page to someone — treat each page as its own ad — Drayton Bird
+- Long emails outpull short ones — if the content is interesting, length doesn't matter — Drayton Bird
+- Focus on the subject line as you would a headline — it's the first thing people see — Drayton Bird
+- Never sign an email as "postmaster" or "info" — send it from a real human being — Drayton Bird
+- Make it easy to unsubscribe — why build ill-will pestering people who won't listen? — Drayton Bird
+- Amazon: the perfect balance between easy to find and constantly tempting — Drayton Bird
+- Master your subject before you write a word — steep yourself in knowledge — Drayton Bird
+- Anyone can be a genius if they work as hard as I do — Drayton Bird
+- Once you've saturated your brain with facts, let your subconscious take over — go for a walk — Drayton Bird
+- Ask sounding boards, but never lead with "I've just had a great idea, what do you think?" — Drayton Bird
+- The best question to ask about your work: "Have I missed anything out?" — Drayton Bird
+- Have a well-furnished mind — read anything, watch anything, be curious — Drayton Bird
+- AIDCA — Attention, Interest, Desire, Conviction, Action — memorise it — Drayton Bird
+- Circumstances alter cases — good creative work adapts to the moment — Drayton Bird
+- The same appeals work everywhere — nations are united more by their similarities than divided by their differences — Drayton Bird
+- Business people are consumers when they get home — they don't grow a second head on the way to the office — Drayton Bird
+- Media vary; principles don't — start with what worked in one medium and adapt it — Drayton Bird
+- Eight out of ten advertisements are never read past the headline — Drayton Bird
+- Headlines that promise benefits beat news; news beats curiosity; curiosity headlines rarely work alone — Drayton Bird
+- Long headlines outpull short ones — wit is wasted on busy prospects — Drayton Bird
+- Persuasion is our goal, not drama or pyrotechnics — Drayton Bird
+- Words are more essential than pictures — a picture rarely expresses a buying proposition alone — Drayton Bird
+- Look in your body copy for buried headlines — writers warm up like old car engines — Drayton Bird
+- No man buys from a clown — humour rarely works unless it doesn't overshadow the message — Drayton Bird
+- Good copy is a greased chute — every sentence must make you want to read the next one — Drayton Bird
+- The nod factor: how many times can you get the reader to agree while reading? — Drayton Bird
+- Don't be literary — be straightforward, as if you're sitting across a table talking — Drayton Bird
+- Interrogate the product — drop it, take it apart, try the service, live with it — Drayton Bird
+- Sell the buying proposition — the exhilarating sensation — not the attribute — 0 to 60 in seven seconds — Drayton Bird
+- Eschew superlatives — talking loudly doesn't make people listen; it just annoys them — Drayton Bird
+- Be specific — 73 knitting patterns for 49p a week beats "lots of lovely knitting ideas at a low price" — Drayton Bird
+- Write in the present tense — "is" beats "will" or "can" every time — Drayton Bird
+- Make it sound easy — don't say the buyer must learn to type; say the course has them typing in 30 days — Drayton Bird
+- Restate benefits before closing — this is make-your-mind-up time — Drayton Bird
+- People buy for emotional reasons, then rationalise later — appeal to the heart first — Drayton Bird
+- Advertising is what you do when you can't be there in person — so demonstrate — Drayton Bird
+- The envelope is the hot-pants on the hooker — get them inside — Drayton Bird
+- Try to impart urgency on the envelope — "Offer closes in 14 days" — "Dated documents inside" — Drayton Bird
+- Personalisation works because people love to see their names — the sweeter thing than seeing your name in print is being addressed by it — Drayton Bird
+- The YES/NO/MAYBE technique never fails to increase response — force people off the fence — Drayton Bird
+- More pieces in a mailing = more chances to make a sale — they must say no eight times, not once — Drayton Bird
+- People start where they please in a mailing — more start with the PS than anything else — Drayton Bird
+- Use typewriter fonts (like Courier) in letters — they look personal, not printed — Drayton Bird
+- Every element must be consistent — don't confuse the reader with three ideas that contradict — Drayton Bird
+- On the phone, the two biggest sins are treating people like morons and not letting them reply — Drayton Bird
+- Never rely on Linda — good telephone results depend on a professional script, not one bright secretary — Drayton Bird
+- In catalogues the cover is your prime selling spot — items sell 3x more there than inside — Drayton Bird
+- Every catalogue entry should be a mini-ad with its own headline — Drayton Bird
+- Photographs are more credible than illustrations — they can increase response by over 50% — Drayton Bird
+- Before-and-after pictures are exceptionally persuasive — people believe what they want to believe — Drayton Bird
+- Positive reward pictures beat negative problem pictures — most people prefer rewards to threats — Drayton Bird
+- Don't use illustrations that do nothing — every visual must demonstrate something — Drayton Bird
+- Show the faces of testimonial-givers, and their signatures — it adds credibility — Drayton Bird
+- Enthusiasm and pride are the two secret ingredients of great copy — Drayton Bird
+- The obvious is always overlooked — do the checks at the end — Drayton Bird
+- Sacred cows and internal politics ruin good work — get all constraints on the table in the brief — Drayton Bird
+- Beware sirens: "spread our good name," "develop awareness," "build prestige" — get back to sales technique — Drayton Bird
+- Read your copy aloud — does it sound like a human? Give it to someone not too bright — do they get it? — Drayton Bird
+- Serif type in caps and lower case is easiest to read — reversing out copy can halve response — Drayton Bird
+- Sans-serif on an A4 page can reduce comprehension from 67% to 12% — Drayton Bird
+- The eye is lazy — put the headline below the picture; response rises 27% to 105% — Drayton Bird
+- Huge headings are stupid — you don't have arms 10 feet long — Drayton Bird
+- Cartoons attract the most attention of any illustrative technique — Drayton Bird
+- Break up your copy with subheads, changes of width, and a dropped initial capital — Drayton Bird
+- Make coupons easy to cut — the origami school of coupon design never flourished — Drayton Bird
+- Give the coupon prominence — even a dotted line around an ad lifts response — Drayton Bird
+- Short sentences beat long — 8 words easiest, 16 average, 32 hard to read — Drayton Bird
+- One thought per paragraph — make the first paragraph short, even a single sentence — Drayton Bird
+- Count how often you use "you" — it should occur at least 2-3 times as often as "I" or "we" — Drayton Bird
+- Use short Anglo-Saxon words — say "now" not "at this point in time" — Drayton Bird
+- Over-write, then cut — it is easier to trim than to expand — Drayton Bird
+- Ask a specific sum in charity ads — "£10 saves 10 children" beats "give generously" — Drayton Bird
+- Charity headlines need three parts: problem, solution the reader supplies, something that makes it feel easy — Drayton Bird
+- People give from their hearts, not their heads — feature an individual person looking at the reader — Drayton Bird
+- In broadcast, seek a single simple central idea — there's only so much room in the box — Drayton Bird
+- TV is a demonstration medium — never forget it — Drayton Bird
+- Entertainment must derive from the sell — don't let the execution overshadow the product — Drayton Bird
+- Sales messages take 15 seconds just to explain how to reply — allow for it — Drayton Bird
+- Never sell too literally at storyboard stage — you'll be crucified when the finished commercial differs — Drayton Bird
+- Consumers are thirsty for useful information — detailed facts convince more than overclaim — Drayton Bird
+- Test, don't assume — after 30 years I still guess split-run results wrong as often as right — Drayton Bird
+- Willingness to test is the definition of a perfect client — Drayton Bird
+- Testing is your first duty — it tells you what works; research tells you why — Drayton Bird
+- Only test meaningful factors — swapping "New" for "Now" teaches nothing — Drayton Bird
+- Test one, or test all — never change two things at once, or you'll never know what caused the result — Drayton Bird
+- Little changes, little differences — big breakthroughs come from radical tests — Drayton Bird
+- Always test a new list with your existing proven package, and new copy against your banker — Drayton Bird
+- Look for big differences in test results — small ones are statistical noise — Drayton Bird
+- The best month is January, then February; the worst is December — Drayton Bird
+- Tuesday is the best day of the week for direct response in most markets — Drayton Bird
+- Sample size must be large enough — a test of 100 pieces is a parody of statistics — Drayton Bird
+- Repeat any test with small numbers — one test is like a single penalty kick to decide the World Cup — Drayton Bird
+- Every test result cannibalises the others — three winners added together don't stack up neatly — Drayton Bird
+- Keep testing when you're doing well — knowledge from testing is what saves you when results slump — Drayton Bird
+- Ring the customers who didn't reply and ask them why — humility is a fine quality in copywriters — Drayton Bird
+- Test your incentive, your price, your offer, your positioning — those move the numbers most — Drayton Bird
+- Sweepstake respondents will respond to sweepstakes again — recruit them accordingly — Drayton Bird
+- Never give something for nothing — always attach an incentive to an action — Drayton Bird
+- The fear of loss is a greater motivator than the hope of gain — use deadlines and closing dates — Drayton Bird
+- Price is creative — high can outsell low, and vice versa, so test three or four — Drayton Bird
+- "Buy one, get one FREE" beats "Half price" or "50% off" or "Save 50%" — same maths, different response — Drayton Bird
+- Keep records like your life depends on them — they are your treasury map — Drayton Bird
+- Watch costs, but focus far more on results — you'll never remember a saving that led to a flop — Drayton Bird
+- The best form of negotiation is the person who asks for the least or offers the least — Drayton Bird
+- If you don't ask, you don't get — put in outrageous offers, most will say no, but some will accept — Drayton Bird
+- Give a reason for a sale — a "Closing Down Sale" is more convincing than a mere "Sale" — Drayton Bird
+- Always justify an incentive or gift — otherwise readers assume you're taking it out of product quality — Drayton Bird
+- Time incentives always increase response — reply within seven days, price rises next month — Drayton Bird
+- The quicker you sell an extra product to a new customer, the better you'll do long term — Drayton Bird
+- Complaints are opportunities — a satisfied complainer is more loyal than one who never complained — Drayton Bird
+- Never mail an incentive without a "why now" — the offer must be attached to an action — Drayton Bird
+- Speak to everybody only when you must; usually you only need to speak to somebody — Drayton Bird
+- A £1 spent on your staff is worth £10 on the trade and £100 on the ultimate customer — Drayton Bird
+- Never mail an existing customer with the offer they've just bought — but mail them the natural next item — Drayton Bird
+- Sell what you know and stick to it — china buyers won't buy garden seeds from a china company — Drayton Bird
+- Order a test quantity — never buy in bulk before you know whether the product moves — Drayton Bird
+- Under £20 you need 200% gross margin minimum; below £10 you need much more — Drayton Bird
+- Get several samples of any product before you sell it — see if it stands up to a drop on the floor — Drayton Bird
+- Always have an alternative supplier — one let-down and your business dies — Drayton Bird
+- Ask the customer what they want; don't invest in hunches — Drayton Bird
+- Insurance is the ideal direct product — no warehousing, pieces of paper, and continuity built in — Drayton Bird
+- Cheapest to test: a bounce-back insert in fulfilment packages to hot recent buyers — Drayton Bird
+- Never test coupon vs no-coupon without matching space — the ad without a coupon has more room to sell — Drayton Bird
+- Look at each test result carefully — the same conclusion can be right for one product and disastrous for another — Drayton Bird
+- Don't be a pioneer — the best place to put your market stall is where all the others are — Drayton Bird
+- Rule of three: one insertion is a trial, two confirms, three means it worked — Drayton Bird
+- Half a page pulls 68% of a full page, a quarter-page 49%, a double-page spread only 141% — big is not proportional — Drayton Bird
+- Beware repetition — an ad repeated a second time immediately does worse, not better — Drayton Bird
+- Position matters more than most people think — front page beats back, right beats left, near letters/TV listings beats the rest — Drayton Bird
+- Right hand pages beat left hand pages — and gutter positions do worst of all — Drayton Bird
+- Face responses are highest in the morning — 9.30am to noon gets twice the calls of any other daypart — Drayton Bird
+- Off-peak TV works because you're not competing with £50,000 packaged-goods extravaganzas — Drayton Bird
+- The telephone gets 5-6 times as many sales as a mailing selling the same thing — Drayton Bird
+- A "thank you" call to recent customers increases repeat purchases by 13% over the next six months — Drayton Bird
+- Never leave the delivery of the work to the last minute — no time to review means no chance to fix — Drayton Bird
+- Give the agency a written brief, not a verbal one — verbal briefs are written on the wind — Drayton Bird
+- Vague briefs result in vague work — Drayton Bird
+- If you pay peanuts you get monkeys — cheap agency work always costs more in the end — Drayton Bird
+- Never entertain a client to say please — only to say thank you — Drayton Bird
+- Speculative presentations are a pernicious waste of time — beauty parades don't reveal thinking — Drayton Bird
+- The chief creative sin is boasting about the firm instead of talking about the customer — Drayton Bird
+- Direct marketing needs champions with power — without one senior sponsor, nothing gets done — Drayton Bird
+- The most important piece of advice for any client: spend two days at your agency to understand the process — Drayton Bird
+- Take the trouble to congratulate the creative team — nothing buys more commitment for less money — Drayton Bird
+- Admit mistakes — kicking your agency for what you approved just shifts guilt, it doesn't fix anything — Drayton Bird
+- Never award or gain accounts through bribery — what comes through corruption goes the same way — Drayton Bird
+- Get to know the creative people, not just the account handlers — they come up with the ideas — Drayton Bird
+- Give clear targets, and share results with your agency — without them they're struggling in the dark — Drayton Bird
+- If your agency always agrees with you, either you're a genius or they're sycophants — Drayton Bird
+- Give your customers a way to complain — 90% of those who complain and get a good reply stay with you — Drayton Bird
+- 95% of advertising messages are either unnoticed or forgotten within 24 hours — good direct mail is recalled weeks later — Drayton Bird
+- Test whether people should reply by post, phone or web — offering a choice can lower response, not raise it — Drayton Bird
+- On a website every graphical element must add value — cut anything that doesn't — Drayton Bird
+- Time-limited offers work: adding "offer expires in 7 days" can significantly lift response — Drayton Bird
+- The mail order business is where false theories melt like snowflakes in the sun — go there for your education — Drayton Bird
+- To find a prince, you have to kiss an awful lot of frogs — Drayton Bird
+- Nobody sane wakes up in the morning wanting to read direct mail — make it worth their while — Drayton Bird
+- Buying the cheapest may be the costliest decision you ever take — Drayton Bird
+- What may work for someone else with their product may not work for you — always test — Drayton Bird
+- People will tell you they like what they think they ought to like — but they buy what they really like — Drayton Bird
+- Never ask customers what they think of an ad — ask if they understand it and if the product sounds worth the price — Drayton Bird
+- Only God is perfect — every ad, every mailing, every plan will have holes in it — plan for them — Drayton Bird
+- Search the world and steal the best — there is no honour among thieves when it comes to ideas — Drayton Bird
+- Marketing is as much art as science — every principle does not always hold true, but you minimise risk — Drayton Bird
+- The average sales visit costs hundreds of dollars — use mail and phone to qualify before you send the salesperson — Drayton Bird
+- The message is the marketing — in the mail order business, that's all there is — Drayton Bird
+- Don't waste money speaking to everybody when you only need to speak to somebody — Drayton Bird
+- People rarely change; human behaviour changes very little over the years, if at all — Drayton Bird

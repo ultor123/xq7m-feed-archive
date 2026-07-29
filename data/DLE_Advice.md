@@ -4792,3 +4792,67 @@ Named after the casino, which should tell you something: the house doesn't know 
 **Insight:** Most business plans show one line going up and to the right. That's not a plan, that's a wish. Monte Carlo forces you to confront the variance. A business where P10 is still break-even and P90 is excellent is a fundamentally different bet from one where P10 is bankruptcy and P90 is excellent. Same expected value. Completely different risk profile. The simulation doesn't change the future — it changes which future you're prepared for.
 
 **Today's exercise:** Take The Kiln's current MRR. Estimate three inputs as ranges — monthly churn (say three to eight percent), new MRR per month (say five to twenty thousand euro), and a twelve-month horizon. In a spreadsheet, run one hundred scenarios drawing randomly from those ranges using RAND(). Do it five times, look at the spread. That's your Monte Carlo. The insight isn't the number that comes out — it's realising how wide the cone of possible futures actually is, and deciding whether that width is acceptable before you need to find out for real.
+---
+
+## 2026-07-29
+
+### 1. The Funny One
+> "you put your cup of coffee down, and then 10 seconds later, the cup holder retracts back into the PC, spills your coffee all over the place. You're like, 'How the f*** do I keep the cup holder out'... 'Sir, that's the CD-ROM drive.'" — Marc Andreessen (Founders/Senra)
+
+Deploy this whenever someone confidently misuses a tool built for something completely different — the technology is blameless, the mental model is completely broken.
+
+### 2. Business Insight
+**Marc Andreessen (Lex Fridman):** "most of the money I think probably will be in whatever your AI financial advisor or your AI doctor or your AI lawyer."
+
+The insight isn't that AI replaces professionals. It's that the trust layer is where the money pools. Right now GTM is a trust problem dressed up as an execution problem. Clients don't hire agencies because agencies are the only ones who can do the work — they hire them because they trust someone to do the work right. For The Kiln: whoever builds the first genuinely trusted AI GTM advisor — one that sits in your CRM, reads your pipeline, and tells you where the leak is — will capture fees currently going to consultants, rev ops hires, and fractional CMOs. That's the layer to build toward, not away from.
+
+### 3. Deep Line
+> "He works six years, seven years, eight years, and then 50% of the value is gonna be how good you are at this M&A thing at the end." — Shaan Puri
+
+Most founders optimise obsessively for building and completely ignore the exit. Five years of great work, half the money left on the table in the final six months.
+
+### 4. Thought Principle: Latticework of Mental Models
+Charlie Munger's point is that knowledge isn't a library — it's a scaffold. Individual facts are nearly useless on their own. Hung on a model, the same fact becomes a lever; hung on the wrong model, it becomes a liability. You need twenty or thirty good models across disciplines — probability, incentives, inversion, compounding, mean reversion — and you array every experience, direct and vicarious, across them. For The Kiln: every client engagement is pattern-matching across that lattice. Is this a pricing problem (incentives model), a sequencing problem (compounding model), or a market-fit problem (distribution model)? Name the right model first. The diagnosis comes fast after that.
+
+### 5. New Words & Terms
+**Kingmaker move** — creating an award, event, or list to insert yourself at the centre of a market without earning your way in through traditional means. Usage: "Running the 'Top 50 GTM Teams in Europe' list is a kingmaker move — The Kiln becomes the authority just by being the one holding the clipboard."
+
+**Thumb on the scale** — tilting a competitive situation through asymmetric influence rather than merit, often invisibly. Usage: "Google surfacing its own products above rivals isn't just smart product strategy — it's a thumb on the scale, and the difference between those two descriptions is about a few billion in antitrust fines." (Shaan Puri)
+
+**Lump of labor fallacy** — the mistaken belief that there's a fixed amount of work in the economy, so new workers or technologies simply take jobs from existing ones. Usage: "Every time someone says AI will eliminate all the marketing jobs, they're committing the lump of labor fallacy — new tools create new categories of work rather than just deleting the old ones." (Marc Andreessen, Lex Fridman)
+
+### 6. Contrarian Take
+> "I learned that you actually have more power when you shut up." — Andy Warhol (The 48 Laws of Power, Law 4)
+
+Silence in a sales conversation isn't dead air — it's pressure. The person who speaks first after a number is named usually loses. Once you've made the case, stop making it and let the room do the work.
+
+### 7. Analogy
+Marc Andreessen describes a Von Neumann machine — the architecture every modern computer runs on — as "a hyper-literal, you can almost say hyper-autistic math savant in a box." (Stripe/Songhurst)
+
+That's a better description of modern AI than anything in a think-piece. It's not wise. It's not creative in any meaningful sense. It is a thing that will execute instructions with terrifying precision and zero judgment about whether those instructions make sense. The Kiln application: this is why prompt engineering is still a real job. The thing in the box is frighteningly capable and completely amoral about the quality of the goal you give it. Garbage in, extremely confidently executed garbage out. Your GTM automation is only as good as whoever wrote the brief.
+
+### 8. Story
+In the mid-1980s, IBM was approximately 80% of the entire technology industry's market cap. One company. Then the IBM PC happened — and IBM, being IBM, decided to build it with open standards and off-the-shelf parts. They thought they were being practical. What they actually did was hand a blueprint to the entire world.
+
+Four hundred clone makers showed up. Most were vaporised — an extinction-level event for most of them. The survivors — Compaq first, then Dell — didn't win by being the most creative. They won by being the most systematic. Michael Dell started in his dorm room. He wasn't a wildcatter betting on an unproven idea. He looked at what IBM had already standardised, found the cost inefficiency in the distribution model, and removed it. No retail markup. Build-to-order. The architecture was already decided for him. He just had to execute it better than everyone else.
+
+IBM standardised the industry and in doing so destroyed its own dominance. The companies that won weren't the ones with the best ideas — they were the ones who looked at the newly standardised landscape and found the clearest path through it. For The Kiln: GTM is getting standardised right now. HubSpot, Clay, Apollo — these are the IBM PC. The agencies that win won't be the ones inventing new tools. They'll be the ones who run the standardised stack better than anyone else and price accordingly.
+
+### 9. Rule of Thumb
+**Go to the engineer, not the org chart** — when something's broken, skip the manager, skip the project lead, and find the person actually doing the work. They know; the layers above them know what they've been told. On any new Kiln client engagement, spend the first week with the SDRs and the ops person, not the VP of Sales. The real problem is always one level below where the brief was written.
+
+### 10. Stoic Closer
+> "If I determine that I can have a bad day and still do good work, that is a good day." — Hormozi (DOAC)
+
+Output is the vote, not mood.
+
+### 11. Daily Math: Markov Chains
+**Concept:** A Markov chain is a system where your next state depends only on your current state — not on how you got there. It doesn't care about history. Only where you are now.
+
+Named after a Russian mathematician who originally used it to analyse poetry. You're going to use it to analyse your pipeline, which is less romantic but pays better.
+
+**Business example:** Think of every deal in The Kiln's pipeline as sitting in a state: Prospect, Qualified, Proposal Sent, Negotiation, Closed Won, Closed Lost. From each state, there's a probability of moving to any other state. Qualified leads close at 40%. Proposals that reach negotiation close at 70%. Of the deals that go cold after proposal, 20% revive within ninety days. Those aren't vibes — they're transition probabilities. Map them and you have a Markov chain of your own sales motion.
+
+**Insight:** The Markov property — only current state matters — cuts through noise. You don't need to know whether a prospect came via cold email, referral, or a conference. You just need to know they're now Qualified. Same transition probabilities apply. This simplification is also the limitation: sometimes history does matter (referred leads close faster, say). But as a first-order model, Markov chains let you forecast pipeline with nothing more than a transition matrix and a count of where today's deals sit. One stage with a leaky transition probability quietly tanks everything downstream. Most pipeline reviews miss this entirely because they're looking at totals, not flows.
+
+**Today's exercise:** List the five or six states a deal moves through in The Kiln's sales process. For each, estimate the probability it moves forward versus goes cold — rough is fine, 60/40, 70/30. Then pick the one stage you're most uncertain about and ask: if I improved that transition probability by ten percentage points, what happens to overall close rate? That answer tells you where to spend next quarter's energy — not the stage that feels painful, but the stage where improvement compounds furthest downstream.

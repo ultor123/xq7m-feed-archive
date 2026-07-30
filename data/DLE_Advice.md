@@ -4856,3 +4856,88 @@ Named after a Russian mathematician who originally used it to analyse poetry. Yo
 **Insight:** The Markov property — only current state matters — cuts through noise. You don't need to know whether a prospect came via cold email, referral, or a conference. You just need to know they're now Qualified. Same transition probabilities apply. This simplification is also the limitation: sometimes history does matter (referred leads close faster, say). But as a first-order model, Markov chains let you forecast pipeline with nothing more than a transition matrix and a count of where today's deals sit. One stage with a leaky transition probability quietly tanks everything downstream. Most pipeline reviews miss this entirely because they're looking at totals, not flows.
 
 **Today's exercise:** List the five or six states a deal moves through in The Kiln's sales process. For each, estimate the probability it moves forward versus goes cold — rough is fine, 60/40, 70/30. Then pick the one stage you're most uncertain about and ask: if I improved that transition probability by ten percentage points, what happens to overall close rate? That answer tells you where to spend next quarter's energy — not the stage that feels painful, but the stage where improvement compounds furthest downstream.
+---
+
+Reading the recent episode to confirm math continuity before writing.
+
+## 2026-07-30
+
+### 1. The Funny One
+> "Summer is near. Oracle is here. To brighten your day and your career." — Oracle wrapper, Siebel Systems HQ (Zero to One)
+
+Larry Ellison, running one of the most feared sales organisations in enterprise software, decided the optimal talent acquisition strategy was: truckloads of ice cream sandwiches with a recruitment jingle on the wrapper. The man had the resources to do almost anything. He wrote a rhyming couplet for a frozen snack. Deploy when you want your competition to know you're recruiting their people and you want them to find it charming — they will, briefly, right before they quit.
+
+### 2. Business Insight
+**[Christensen, The Innovator's Solution]:** When a product isn't good enough yet, profit concentrates in the integration layer — the proprietary coupling that makes the parts work as a whole. Once it overshoots good enough, it commoditises and profit migrates to whoever controls the adjacent bottleneck.
+
+Early iPhone: Apple had to vertically integrate hardware, OS, and App Store because the smartphone wasn't yet reliable enough to survive loose coupling. Then Android standardised the hardware and profit moved to apps. The tight architecture was valuable until it wasn't.
+
+GTM software is in the same "not yet good enough" position for most mid-market companies. Clay doesn't talk to Apollo without configuration. Apollo doesn't talk to HubSpot without connectors. Nobody reports on what actually matters without someone who knows what matters. The Kiln's margin lives in making that stack behave as one system. The question worth asking now, before a single platform solves all of it natively: which layer becomes the next bottleneck after the current integration problem gets solved? That's where to position next.
+
+### 3. Deep Line
+> "bureaucracies avoid pain, and so you need to steer them into pain." — Charlie Songhurst (Stripe)
+
+Large organisations don't fail to act because they're stupid. They fail because every internal incentive routes around discomfort. Steering them toward pain means making the cost of the current path visible, specific, and dated — "your outbound is generating twelve qualified meetings a month and your target is forty; we can fix that now or revisit in Q2 when it's been twelve more months of the same."
+
+### 4. Thought Principle: Day 1 vs Day 2
+Bezos defined this in the Amazon shareholder letters. Day 1 is permanent vitality, speed, beginner's mind. Day 2 is stasis, then irrelevance, then painful decline, then death. His warning line: Day 2 is comfortable. That's the tell. You stay on Day 1 through four disciplines: obsess over actual customers rather than numbers that stand in for customers; resist letting the measurement replace the thing being measured; embrace external trends before they're obvious; and make high-velocity decisions on 70% information rather than waiting for 90%, because waiting for 90% always costs more in time than it saves in certainty.
+
+For The Kiln: Day 2 shows up the moment the weekly report becomes the product. When "we sent the sequences" replaces "did the sequences generate pipeline." When the process runs and nobody checks whether the process is producing the actual result. The client's revenue is the only non-proxy metric. Keep it the scoreboard.
+
+### 5. New Words & Terms
+**Double-Gaussian** — a demand curve with two separate peaks because two customer segments value the same offer at wildly different price points. Pricing in the middle captures neither cleanly — too expensive for the value segment, not serious enough for the premium one. The Kiln version: some clients pay €3k/month for outbound infrastructure; a different group pays €15k for the full build. Pricing at €8k to seem reasonable is how you end up busy and underpaid.
+
+**Beachhead** — from *Crossing the Chasm*. One narrow segment with acute present pain, chosen specifically to dominate before expanding. You can't build word-of-mouth in a market too diffuse to gossip with itself. Pick the segment small enough to own completely, build undeniable proof, then expand. The Kiln's beachhead: Series A SaaS companies scaling outbound for the first time — specific enough to build a reputation, large enough to build a business.
+
+**Collateral damage** — from *7 Powers*. The reason incumbents rationally don't copy disruptors: doing so would cannibalise their own existing cash cow. Not stupidity, not slowness — rational self-preservation acting as strategic constraint. HubSpot won't build a proper Clay competitor because Clay's model undermines HubSpot's own data pricing. Knowing where an incumbent's collateral damage lives tells you which moves are genuinely safe — the ones where retaliation is structurally impossible.
+
+### 6. Contrarian Take
+> "The companies that win with AI won't be the ones that use it to cut costs. They'll be the ones that use it to do things that were previously impossible." — David Friedberg
+
+The cost-cutting story is a CFO narrative. It generates a line in the earnings call and a rounding error in margins. The structurally different story is The Kiln delivering what used to require a €400k internal ops team — for a €5k/month retainer. That's not a cheaper version of the old thing. That's a different product category. "Previously impossible" is where defensible positioning lives; you're not competing on price, you're competing on category.
+
+### 7. Analogy
+Most people think they can master a handstand in two weeks. The real timeline is six months of daily practice. Not because the mechanics are complicated — you can learn the technique in an afternoon. The problem is the nervous system. It has to rewire, and there is no shortcut for that rewiring. You cannot think harder and make it happen faster. You log the days and the days do the work.
+
+For The Kiln: clients want a working outbound motion in six weeks. The honest number is twelve. The first six are calibration — finding the message that lands, the segment that responds, the sequence that converts. The second six are compounding what you've found. The internal expectation has to be twelve even when the pitch sounds like six. Under-promising on timeline is the difference between a reference client and a refund request.
+
+### 8. Story
+Legacy Hollywood agencies held morning meetings at 9 a.m. and started calling clients at 10. Michael Ovitz at CAA held meetings at 7 and called by 8. That's the story people tell. The actual advantage was the second part: "we won't just call our clients, we'll call their clients." Paul Newman heard about a role three hours before his own agent phoned. By the time William Morris got to him, it wasn't a pitch — it was a debrief.
+
+The lesson is not "be an early riser." The lesson is that speed is a positioning tool, not a personality trait. Ovitz made it structural — a property of the organisation that ran regardless of who had a long night. For The Kiln: first to respond, first to propose, first to follow up after the meeting. Not because everyone's especially eager. Because the process requires it and the process doesn't sleep. The three-hour gap was the product. Build the gap into the system.
+
+### 9. Rule of Thumb
+**Don't change the plan every day** — Andreessen: if you're running an organisation, you can't change direction every week or you'll burn everyone out. Change needs to happen, but in measured intervals. The team needs the current plan stable long enough to generate actual signal. If you've changed the ICP or the core offer more than once in six weeks, you haven't pivoted. You've just been uncomfortable. The reflex to change the plan is almost always optimising for the feeling of progress rather than actual progress.
+
+### 10. Ad Craft
+**[Richard Shotton]:** Terry Leahy nearly delisted Tesco's entire gluten-free range. The numbers made it obvious — low volume, poor margin, easy cut. Then someone talked to the actual shoppers. The finding: gluten-free customers were choosing which supermarket to shop at based on whether it carried the range. One low-margin category was the reason an entire basket existed. Pulling it wouldn't save a margin — it would delete the customer.
+
+Aggregate data is a liar by design. It shows you totals; it hides decisions. Sales per category will never show you that one product is what brought someone through the door. For The Kiln: before cutting any service, audit what it's holding in place. The free onboarding call, the monthly check-in, the ad hoc Slack access — these look like cost centres. They might be why the retainer is still running. The metric you're measuring is never the whole picture.
+
+### 11. Stoic Closer
+> "It's this very interesting signal you have to decide whether you want to send as a leader, which is do you want people to bring you bad news?" — Marc Andreessen (via Stripe/Songhurst)
+
+If bad news gets punished or quietly buried, you've made an active choice to govern from fiction.
+
+### 12. Daily Math: Kelly Criterion
+**Concept:** The Kelly Criterion answers a question most people never think to ask: given a bet with a positive expected value, how much of your bankroll should you actually wager?
+
+The formula: **f\* = (bp − q) / b**
+
+Where f\* is the fraction to bet, b is the net odds (how much you win per unit risked — even money = 1, two-to-one = 2), p is the probability of winning, and q is the probability of losing (q = 1 − p).
+
+**Simple example:** A biased coin lands heads 55% of the time. Even-money bets.
+
+f\* = (1 × 0.55 − 0.45) / 1 = **0.10**
+
+Bet 10% of your bankroll each flip. Not 50%, not everything — 10%, even though you have the edge. Kelly is conservative on purpose: betting too much on a positive-EV opportunity will still bankrupt you if variance goes against you before the edge can compound. This isn't theoretical. Gamblers and traders have blown up on exactly this — right on the bet, wrong on the size.
+
+**Business example:** The Kiln is evaluating a part-time LinkedIn Ads specialist. If the hire works, it opens a new €8k/month service line within four months. If it doesn't, you've spent roughly €6k on a failed experiment. Honest probability of working: 60%. Net payoff multiple if it does: roughly 5x the investment. q = 0.40.
+
+f\* = (5 × 0.60 − 0.40) / 5 = 2.60 / 5 = **0.52**
+
+Commit 52% of your available experimentation budget — significant conviction, but not everything. And critically, the formula forced you to make p and b explicit. You got a number instead of a feeling.
+
+**Insight:** Most founders over-bet. They go all-in on a new hire, channel, or pivot because they're optimising for the outcome of this specific bet, not for long-run survival. Kelly optimises for long-run bankroll growth. The practical version most people use is Half-Kelly — bet half the calculated fraction, accept slightly lower returns, reduce volatility substantially. You give up some upside in exchange for staying in the game for the next opportunity. That trade is almost always worth making.
+
+**Today's exercise:** Pick one resource-allocation decision The Kiln is sitting on right now — new hire, new channel, new service line. Write down your honest p. Write down b. Run f\* = (bp − q) / b. If the formula returns 15% and you were planning to bet 80%, the formula is trying to tell you something.

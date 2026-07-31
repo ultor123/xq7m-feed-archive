@@ -4941,3 +4941,98 @@ Commit 52% of your available experimentation budget — significant conviction, 
 **Insight:** Most founders over-bet. They go all-in on a new hire, channel, or pivot because they're optimising for the outcome of this specific bet, not for long-run survival. Kelly optimises for long-run bankroll growth. The practical version most people use is Half-Kelly — bet half the calculated fraction, accept slightly lower returns, reduce volatility substantially. You give up some upside in exchange for staying in the game for the next opportunity. That trade is almost always worth making.
 
 **Today's exercise:** Pick one resource-allocation decision The Kiln is sitting on right now — new hire, new channel, new service line. Write down your honest p. Write down b. Run f\* = (bp − q) / b. If the formula returns 15% and you were planning to bet 80%, the formula is trying to tell you something.
+---
+
+## 2026-07-31
+
+### 1. The Funny One
+> "Had you rolled out that theory in even 1999, people would've thought you were smoking crack." — Marc Andreessen (Lex Fridman)
+
+Deploy this any time someone treats an obvious-in-hindsight insight as though it was always obvious — the courage of the original call is the whole point.
+
+### 2. Business Insight
+**John Collison (Stripe):** "there's a level of consumer adoption and familiarity that allows for mainstreaming... I think there weren't enough wallets for a lot of things to work."
+
+Every technology has a wallet problem. Some piece of prerequisite plumbing has to exist before the actual thing can function. Stablecoins didn't fail because the idea was bad. The rails weren't built. The wallets weren't there. The idea was just sitting in a room with no doors.
+
+For The Kiln: when a channel feels like it should be working and isn't, ask what the wallet is. LinkedIn DMs not converting? The target audience hasn't built a "receiving cold outreach from strangers" wallet yet. Cold email dying? Inbox trust is the missing infrastructure. You're not bad at GTM. The plumbing hasn't caught up. Stop blaming the channel before you've diagnosed the wallet.
+
+### 3. Deep Line
+> "true transparency, true free speech... is just a fundamental solvent basically dissolving all centralized institutional authority." — Marc Andreessen (Stripe/Songhurst)
+
+The internet doesn't destroy institutions — it dissolves the glue holding the pretense together. Once people can see the actual decision-making, or see that there isn't any, the authority evaporates. Every business built on information asymmetry is currently fighting a rear-guard action.
+
+### 4. Thought Principle: The Two Ways to Win
+Shaan Puri: "There's only two ways to win. You are the world class person doing the figuring out, or you're a world class recruiter to get the people who are gonna do the figuring out."
+
+That is the entire list. There is no third option. Everything else — strategy, capital, timing, brand — is downstream of one of those two. The fatal middle path is being decent at both: good enough at the work to distrust everyone else, good enough at hiring to think you're building a team, world-class at neither, and quietly baffled about why people with worse decks are winning.
+
+For The Kiln at €20k/month heading to €100k MRR: pick one. If you're the world-class figurer-outer, stay close to the work and hire operations around you. If you're the world-class recruiter, get your hands off the work and let better people own it. The only catastrophic call is hovering in the middle indefinitely.
+
+### 5. New Words & Terms
+**Bonapartism** — a form of rule where the leader claims to embody the popular will so completely that any democratic challenge becomes, by definition, an attack on the people themselves. You can't oppose the leader — you can only oppose the nation. Usage: "The exec had been running the roadmap through Bonapartism for two years. Questioning a product decision wasn't pushback on the strategy — it was a character attack."
+
+**The idiot index** — Elon Musk via Shaan Puri: the markup a finished part costs over the price of its raw materials. If a part costs €1,000 and the steel in it is €40, the idiot index is 25. You're paying an idiot tax because you haven't learned to make the thing yourself. Usage: "We ran the idiot index on our reporting stack. Turns out we were paying €800 a month for dashboards that were wrapping a €12 data query."
+
+**The x-ray machine** — John Collison's term for what the internet does to institutions: doesn't break them, just makes their insides visible. The institution looks fine from the outside. The x-ray is running on the next tab. Usage: "You can run the employer brand campaign all you like. Glassdoor is an x-ray machine and it's open 24 hours."
+
+### 6. Contrarian Take
+> Growth is not a Hedgehog Concept — not one good-to-great company obsessed over growth, yet they grew more; the problem becomes how not to grow too fast. — *Good to Great*
+
+This is right because growth as a goal is like happiness as a goal — pursue it directly and you get a simulacrum of it. Every founder staring at MRR graphs is probably neglecting the three underlying things that would actually cause MRR growth. At The Kiln, the Hedgehog Concept is something like: make client revenue increase in a way that is clearly attributable to us. Do that exceptionally well, and the growth question mostly answers itself without needing to be the question.
+
+### 7. Analogy
+Naval: "An army of robots is freely available — it's just packed in data centers for heat and space efficiency. Use it."
+
+This is just AI, stated without the hype. Not a tool. Not a copilot. An army. It lives in a data centre because it would melt your office ceiling, which is the only reason it's not standing next to your desk right now.
+
+For The Kiln: every piece of research, every first draft, every prospect qualification pass, every competitive teardown, every meeting summary — there's a robot available to do it. The business case for deploying it is not complicated. The only reason it's not deployed is that someone hasn't bothered. Not deploying it is the same as leaving your army in barracks and going door-to-door yourself, which is a choice, technically.
+
+### 8. Story
+Shaan Puri tells this one. The founders of Poppy — an apple cider vinegar brand — got onto Shark Tank and, before saying a single word about the business, handed every shark a shot glass of straight apple cider vinegar and made them drink it. Every face in the room curdled. Kevin O'Leary looked personally offended. "This is horrible." Then: "What if it could be great for you *and* actually taste good?"
+
+That's the pitch. That's all of it. No TAM slide. No CAGR on the functional beverage category. Just: feel the problem. You cannot argue with your own face.
+
+The lesson isn't "do a stunt." It's: the problem has to be experienced before the solution makes sense. Every Kiln pitch that opens with "our approach to GTM infrastructure is..." is starting in the wrong place. The first thirty seconds should be the apple cider vinegar. What is the thing that makes the prospect's face do what those sharks' faces did?
+
+### 9. Rule of Thumb
+**"The greatest tragedy of mankind comes from the inability of people to have thoughtful disagreement to find out what's true."** — Ray Dalio, *Originals*
+
+Most meetings that end in consensus ended in performance, not clarity. A room where everyone agrees and nobody is mildly uncomfortable probably didn't discover anything. For The Kiln: build "is this actually right?" into client strategy reviews — not as devil's advocacy theatre, but as a genuine operational question. The comfortable answer is usually the one everyone already knew before the meeting started.
+
+### 10. Ad Craft
+**Richard Shotton — the primacy effect (via Asch):** Same set of adjectives describing a person. Flip the order from positive-first to negative-first. Same words. The person goes from "capable professional" to "problem personality." Intelligent, industrious, impulsive, critical, stubborn, envious — capable. Envious, stubborn, critical, impulsive, industrious, intelligent — nightmare. Literally identical information, opposite verdict.
+
+The first piece of information sets the frame and everything after gets interpreted through it. Start with a strength, and the weaknesses look like quirks. Start with a weakness, and the strengths look like compensations. The order is the argument.
+
+For The Kiln: every proposal, every cold email, every case study page. Lead with the most credible, most undeniable thing first. Don't warm them up with context before revealing the good bit. The good bit is the warmup. The instinct to "set the scene" before your strongest proof point is costing you the frame. Put the best thing first. Everything else reads better in its light.
+
+### 11. Stoic Closer
+> "My emotional discomfort is not an adequate reason to change what I'm doing." — Hormozi/DOAC
+
+The urge to quit is data about your nervous system, not instructions for your calendar.
+
+### 12. Daily Math: Expected Value
+**Concept:** Expected Value is the probability-weighted average of all possible outcomes. It answers one question: if I ran this decision a thousand times, what would I get on average?
+
+The formula: **EV = Σ (probability × outcome)**
+
+The sigma just means add them all up.
+
+**Simple example:** You're offered a coin flip. Heads: win €150. Tails: lose €100. Feels risky. What does the math say?
+
+EV = (0.5 × €150) + (0.5 × −€100) = €75 − €50 = **+€25**
+
+On average, every flip makes you €25. The discomfort at the possible loss is not relevant data. The math says play this game all day.
+
+**Business example:** The Kiln is considering a cold outreach sequence to 200 enterprise prospects. Cost: €800 in time and tooling. Historical numbers: 3% of sequences convert to a discovery call, 20% of discovery calls convert to a client, average contract value €4,000.
+
+Expected clients: 200 × 0.03 × 0.20 = **1.2 clients**
+Expected revenue: 1.2 × €4,000 = **€4,800**
+EV of the campaign: €4,800 − €800 = **+€4,000**
+
+Run the campaign. Every time someone says "I'm not sure it'll work," the answer is: what are your numbers? If they don't have numbers, the hesitation isn't analysis. It's noise with a serious face.
+
+**Insight:** EV doesn't tell you what will happen. It tells you what should happen if you make this kind of decision repeatedly over time. One result is not informative — you can be right and lose, wrong and win, and neither event tells you whether the decision was good. The trap is making high-EV bets and then quitting after one loss. The other trap is making low-EV bets and staying in them because the first one happened to pay out.
+
+**Today's exercise:** Pick any commercial decision currently sitting on your desk — a campaign, an outreach list, a new service line, a hire. Write down every possible outcome, assign it a probability, multiply and sum. Calculate the EV. If it's positive, the question is no longer "should I do this?" It's "why haven't I started?"

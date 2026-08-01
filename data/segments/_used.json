@@ -1,5 +1,6 @@
 {
 "humor": [
+"21a79bbc45cf",
 "252e1f21fb21",
 "3f8e38de7ead",
 "5eb5781106a0",
@@ -17,6 +18,7 @@
 "1758d4939e50",
 "1aea05dd3f92",
 "1d37a19210a9",
+"5dbb5e7bf87a",
 "6474f6638ca7",
 "6e9ba707d38d",
 "87fc440c5ac2",
@@ -27,6 +29,7 @@
 ],
 "philosophy": [
 "0dbbd5eda49e",
+"12da5b2ceabc",
 "2f1c547e52dd",
 "304cbee36ac2",
 "3ac269c28e86",
@@ -48,6 +51,7 @@
 "a233ccd7398f",
 "a4c4f14d9170",
 "b4e06ef7fd11",
+"cefe68a132f6",
 "fc4ff669f1a9",
 "ffee1bc89bfb"
 ],
@@ -80,9 +84,12 @@
 "c03b632301f1",
 "cce7b2ba5aef",
 "d4b9e464b541",
+"da5e2601bfd1",
 "dbf98bec9dec",
 "df55c5c2f252",
 "df78059d5d35",
+"e821a5ba016c",
+"f394ab28a285",
 "f8ab56bb90fc",
 "f919c62a7215"
 ],
@@ -96,6 +103,7 @@
 "7b3fd287aaa2",
 "8844533eee53",
 "97668f12281a",
+"b78ce46b7650",
 "c62fba7b50b9",
 "f5bcf9132e41"
 ],
@@ -110,10 +118,12 @@
 "be0c3c8b8635",
 "d6e4f1cbe908",
 "dc1e338f2748",
-"de0cd3561e40"
+"de0cd3561e40",
+"ecf29fd7c8ae"
 ],
 "analogies": [
 "09b6af828d58",
+"31e579aac973",
 "473e66d78cf6",
 "56ed00c0bf2f",
 "5e9747d96dce",
@@ -130,6 +140,7 @@
 "167b3f3b2547",
 "3eadb5ed433c",
 "4ac14e7c5ef1",
+"4b2502702b0e",
 "73df6e2608df",
 "78fc40f71694",
 "7db95b7b22a4",
@@ -148,11 +159,13 @@
 "e5477cd34080",
 "ea9d7ad61f23",
 "ede4500490e7",
+"f92a07b2f217",
 "fa3d9aaee98d",
 "fea311fd3516"
 ],
 "advertising": [
 "17a8f0d50600",
+"80e579385f4c",
 "9ca3c1df167a",
 "b1dc775995c4",
 "e78319ee8236"

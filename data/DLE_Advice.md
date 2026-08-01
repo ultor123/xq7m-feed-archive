@@ -5036,3 +5036,108 @@ Run the campaign. Every time someone says "I'm not sure it'll work," the answer 
 **Insight:** EV doesn't tell you what will happen. It tells you what should happen if you make this kind of decision repeatedly over time. One result is not informative — you can be right and lose, wrong and win, and neither event tells you whether the decision was good. The trap is making high-EV bets and then quitting after one loss. The other trap is making low-EV bets and staying in them because the first one happened to pay out.
 
 **Today's exercise:** Pick any commercial decision currently sitting on your desk — a campaign, an outreach list, a new service line, a hire. Write down every possible outcome, assign it a probability, multiply and sum. Calculate the EV. If it's positive, the question is no longer "should I do this?" It's "why haven't I started?"
+---
+
+File written. Here's the full episode:
+
+---
+
+## 2026-08-01
+
+### 1. The Funny One
+> "Aren't you describing being a VC? ... it's a nine-through-four profession." — Charlie Songhurst (Stripe)
+
+Deploy this any time someone uses elaborate intellectual framing to describe having a very pleasant and leisurely day.
+
+### 2. Business Insight
+**Marc Andreessen (Stripe/Songhurst):** "The real opportunity cost... are you really going to spend the time dealing with [public markets] when you could be spending [it] meeting the next Mark Zuckerberg?"
+
+The argument is about where attention compounds fastest. Public markets are loud, legible, and full of analysts with identical spreadsheets. The next Zuckerberg is quiet, early, and weird. The asymmetry isn't in the assets — it's in who else is looking.
+
+For The Kiln: every hour spent managing a mediocre existing relationship is an hour not spent finding the next ideal client. Attention is the actual scarce resource. The question isn't "should I do this?" It's "what am I not doing because I'm doing this?"
+
+### 3. Deep Line
+> "Even if you're a dentist and you have a dental practice, you're gonna either be undifferentiated or differentiated. It's the game of stand out. Do you care about doing something that is beyond normal?" — Shaan Puri
+
+Nobody gets to opt out of the differentiation game by calling their work "technical" or "not really that kind of thing." The dentist is competing. The accountant is competing. The plumber is competing. The only question is whether you're playing consciously or just hoping nobody notices you're beige.
+
+### 4. Thought Principle: The Ratio Shock
+Two numbers. The gap between them is the argument. No editorial required.
+
+Eight days of munitions versus eight hundred needed. A two-million-dollar interceptor missile versus a twenty-thousand-dollar drone. The ratio does the work. You never have to say "this is bad." You put the numbers side by side and let the silence do the prosecuting.
+
+For The Kiln: "Our clients close in eleven days on average. Industry average is forty-seven." Full stop. Don't explain it. Don't contextualise it. Let the thirty-six-day gap sit there and breathe. The silence after a ratio shock is where the persuasion lives.
+
+### 5. New Words & Terms
+**Death of the middle / The barbell** — Two names for the same phenomenon. Industries polarise: ultra-budget and ultra-premium survive; the competent-but-forgettable middle gets hollowed out. "Death of the middle" is the obituary; "the barbell" is the strategy memo. In GTM, mid-tier agencies charging €8k/month for mediocre retainers are getting squeezed from both ends. Pick a side. — Marc Andreessen (Founders/Senra)
+
+**Fluid intelligence** — Raw cognitive horsepower: the capacity to solve novel problems you've never encountered before, without needing prior knowledge of them. Distinct from crystallised intelligence (what you already know). Marc Andreessen ties it directly to IQ. It's what lets someone walk into a new domain and figure it out fast — not because they've seen it, but because they can reason through anything. — Marc Andreessen (Lex Fridman)
+
+**Specific knowledge** — Knowledge you cannot be formally trained for. If a course can teach it, a course can teach your replacement. You find it by following genuine curiosity: it feels like play to you and looks like work to everyone watching. Naval's point is that the market pays premiums only for what it can't replicate on demand. Anything codifiable in a curriculum is eventually a commodity. — Naval
+
+### 6. Contrarian Take
+> "A significant percentage of jobs in the US literally are licensed or unionized, or civil service in a way where they literally cannot be replaced." — Marc Andreessen (Stripe/Songhurst)
+
+The "AI eats all jobs" thesis hits a wall called institutional friction, which isn't exciting enough for content but is real enough to matter. AI cannot fire a unionised electrician. It cannot replace a licensed pharmacist where the law requires a pharmacist on premises. Counterintuitively, a lot of the most exposed jobs are white-collar knowledge work, which has the fewest bureaucratic protections. For Ultan: the interesting GTM play is selling to sectors where jobs are protected but workflows are still pre-2015. Budget is there. Existential anxiety is low. That's a comfortable room to sell in.
+
+### 7. Analogy
+The Chicago Map: you're navigating Chicago with a map of Detroit. You study the map harder. You move faster. You optimise every turn. You arrive somewhere in Detroit, efficiently.
+
+The problem was never your effort. The problem was the map.
+
+For The Kiln: when a campaign isn't working and the instinct is to do more of it but better — stop. Check the map first. Wrong ICP? Wrong message? Wrong channel? Executing harder on a broken strategy doesn't get you Chicago. It gets you Detroit, faster, and slightly out of breath.
+
+### 8. Story
+Louis XI of France had a court astrologer. The king decided the astrologer had outlived his usefulness and ordered him thrown from a high window.
+
+As the guards grabbed him, the astrologer said — calmly, which takes some doing when you're being dragged toward a window — "I shall die just three days before Your Majesty."
+
+The signal to throw was never given. The astrologer was moved to comfortable quarters. He received gifts. The king's own physicians were instructed to keep him in excellent health. Louis XI could not afford to test the prediction.
+
+The move, from Law 11 of *The 48 Laws of Power*: make your survival contingent on theirs. It works because the powerful are privately, intensely superstitious about their own mortality. For Kiln pitch situations: if you can credibly make a client believe your departure damages their outcome, retention becomes automatic. You don't need a contract. You need to be load-bearing.
+
+### 9. Rule of Thumb
+**"Earn with your mind, not your time."** — Naval (2017)
+
+Time trades for money at a fixed, finite rate. Mind creates assets — systems, frameworks, processes, content — that earn without you in the room. For The Kiln: document every repeatable process. Every workflow living only in Ultan's head is leverage waiting to not exist.
+
+### 10. Ad Craft
+From *Obvious Adams*: ads do not always have to shriek their message in two-inch type.
+
+Most advertising assumes the audience is distracted, cynical, and needs to be shaken awake. So copy gets louder. ALL CAPS. Exclamation points. Big red boxes. And the audience, who is not actually stupid, tunes out — because it looks exactly like the last fifty things that screamed at them.
+
+The quiet ad gets read because it doesn't pattern-match to "ad." The understatement is the interruption, not the scream.
+
+For The Kiln: "Thought this might be relevant to you" in a cold email subject line outperforms "5 Proven Strategies to 10X Your Pipeline 🔥" because the first one looks like something a human wrote to one specific person. Confidence whispers. Desperation shouts. Your prospects can tell the difference from the first line.
+
+### 11. Stoic Closer
+> "Principles are lighthouses — you don't break them; you break yourself against them." — The 7 Habits of Highly Effective People
+
+The principle doesn't care about your circumstances. It just keeps the light on.
+
+### 12. Daily Math: Bayes' Theorem
+**Concept:** Bayes' Theorem is how you update a belief when new evidence arrives. Yesterday you knew what you knew. Today something happened. How much should you change your mind?
+
+The formula: **P(A|B) = [P(B|A) × P(A)] / P(B)**
+
+Strip the notation: you had a belief before (the prior). New evidence arrives. Bayes tells you exactly how much to move, based on how likely that evidence was to show up in each scenario.
+
+**The classic trap — the positive test problem:**
+
+A disease affects 1% of the population. The test is 95% accurate. You test positive. Most people say they're 95% likely to be sick. The actual number is about 16%.
+
+Here's why: out of 1,000 people, 10 have the disease. The test catches 9.5 of them. But 5% of the 990 healthy people also test positive — that's 49.5 false positives. Total positives: ~59. True positives: 9.5. That's 16%.
+
+The base rate — how rare the disease actually is — dominates. Ignore it, and one data point rewrites your entire worldview. That's not analysis. That's panic in a lab coat.
+
+**Business example:** The Kiln runs outbound. Historically, 35% of ideal-fit prospects who engage with the first touchpoint convert to a call. A perfect ICP match ignores email one. How worried should Ultan be?
+
+Prior: 35% chance of getting a call. New signal: no reply. Historical data: 55% of prospects who eventually booked a call didn't reply to email one; 80% of prospects who never converted also didn't reply to email one.
+
+P(close | no reply) = (0.55 × 0.35) / [(0.55 × 0.35) + (0.80 × 0.65)] = 0.1925 / 0.7125 ≈ **27%**
+
+Down from 35% to 27%. Not dead. Still worth the sequence. The silence moved the needle — but not to zero. Bayesian thinking stops you catastrophising on the first non-reply and stops you ignoring genuine signal when it actually arrives.
+
+**Insight:** The prior is everything. People over-update on new evidence because they have no prior to anchor it to. Strong Bayesian reasoners ask "what was I supposed to believe before this happened?" first. That question is the whole exercise.
+
+**Today's exercise:** Pick one belief about your pipeline — a prospect's likelihood to close, a channel's conversion rate, a hire's likely performance. Write the prior down as a number. Then identify the last piece of evidence that arrived. How much should it actually move the needle, versus how much you let it move you? The gap between those two is the calibration work.

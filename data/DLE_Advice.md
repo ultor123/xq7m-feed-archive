@@ -5353,3 +5353,91 @@ Last episode: you need enough trials to wash out the noise and see the true rate
 **Insight:** Most founders optimise for the mean and ignore the spread. But high variance is a compounding tax — you spend management attention, cash buffer, and mental energy absorbing the swings. Every big month up is followed by a reset. Every big month down is a near-death experience. Compress the deviation and the mean almost takes care of itself.
 
 **Today's exercise:** Pull the last six months of revenue. Calculate the mean. Roughly estimate the deviation: how far was the worst month from the mean, and the best? If the spread is more than 30% of the mean, identify which revenue type — project versus retainer, which client category, which service line — is driving the variance. That's the next strategic fix. Not more revenue. More predictable revenue. The shape of the line matters as much as the height of it.
+---
+
+## 2026-08-04
+
+### 1. The Funny One
+> "It's basically the Oscars for Internet nerds minus all of the prestige." — Shaan Puri, on the Webby Awards
+
+Deploy any time someone at an industry event is treating a niche award like it changes lives.
+
+### 2. Business Insight
+**Shaan Puri:** Small, specific, cheap-to-check heuristics beat four-round interview loops for talent sourcing. Not credentials. Not vibes. Repeatable filters that catch obvious misfits in the first five minutes.
+
+Most hiring is lazy in the wrong direction — hours of process and zero actual signal. A heuristic is a shortcut that's actually a shortcut. For a GTM hire at The Kiln, the list might be: Can they name a number from a past role — not a range, a number? Have they closed a deal without a brand behind them? What's the last thing they read about sales? Three questions. First five minutes. If they fumble all three, no second call. The filter saves you eight hours of interviews for a person you were going to decline anyway.
+
+### 3. Deep Line
+> "The very young and the very old share little responsibility and not caring what others think. I want to pull as much of that forward as I can." — Hormozi/DOAC
+
+Most people schedule their freedom for retirement. The move is to stop waiting for permission to stop caring — you can import the 80-year-old mindset now, while you still have the energy to do something with it.
+
+### 4. Thought Principle: The Solution Filter
+Marc Andreessen's rule: don't come to him with a problem unless you're also bringing a solution. Forces ownership, kills learned helplessness, stops people escalating decisions they should be making themselves. Good policy. Until it quietly teaches people to hide the problems they can't solve — and those are always the ones that compound.
+
+The trap Andreessen names himself: what if the problem is genuinely beyond the team? What if the right answer is "I don't know how to fix this and I don't think we can without you"?
+
+**Kiln application:** Run the filter for operational questions — team members should own their domain. Switch it off for strategic threats. If a client is churning for a reason nobody can articulate, you want to hear the problem even if no one's got the solution. The filter is a tool, not a religion.
+
+### 5. New Words & Terms
+**Cost-plus** — a contracting model where price equals cost plus a fixed margin, which means every euro you save in delivery deletes a euro of profit. No incentive to get more efficient. Common in government contracts and old-school professional services. The Kiln runs value-based pricing specifically to avoid this trap — efficiency compounds into margin, not into the client's pocket.
+
+**Empty calories** — Andreessen's term for synthetic training data: it hits the training-volume macro targets without adding real nutritional value, same as eating a bag of crisps instead of a meal. Useful shorthand for any input that looks like work but doesn't build the underlying thing — busywork dressed as progress.
+
+**Bourgeois capitalists** — Andreessen's category for the hands-on owner-operators: Ford, Carnegie, Rockefeller, Vanderbilt. Not passive financiers. Not aristocrats. People who built the thing with their hands and then scaled it commercially. The contrast is with capital deployed at a distance. Elon is his current exemplar of the type.
+
+### 6. Contrarian Take
+> "Elon's a Tesla guy, obviously. But... I actually think Elon's more like Edison than he is like Tesla." — Marc Andreessen
+
+Right because Tesla died broke and never scaled; Edison ran a commercial operation, owned the full stack, and dominated markets. Elon has Tesla's mythology and Edison's method — worth remembering when you're tempted to mistake the story someone tells about themselves for how they actually operate.
+
+### 7. Analogy
+From *The 7 Habits*: an optometrist hands you his own glasses and says "these have worked brilliantly for me for ten years." You try them on. Everything's blurry. He says keep at it. You squint harder. He says you're not trying hard enough.
+
+The glasses fit his eyes. Not yours. The optometrist isn't malicious — he genuinely believes they work, because they do, for him.
+
+This is what happens every time you prescribe before you diagnose. Every time you arrive at a client meeting with the deck already built and the solution already chosen. You're handing them your glasses.
+
+**Kiln deployment:** The temptation at the start of any engagement is to show up with a framework and watch the client squint. The discipline is the intake process — enough questions that you're building the prescription from scratch, not selling the lens you already own. Most agencies skip this because it's slower upfront. It's also why most agencies get churned at month three.
+
+### 8. Story
+In 1992, a man called Sanford Wallace sent the first commercial spam on the internet. Posted to Usenet. Andreessen describes the reaction: "It was like a thermonuclear explosion. 'Get this commercialized crap out of my newsfeed.'" The early inhabitants of the internet — academics, engineers, the original builders — were furious. Wallace got death threats. He got the nickname Spamford. He didn't care. He made money.
+
+Three decades later, spam is background radiation. Every distribution channel runs this exact arc: email, SEO, social ads, LinkedIn outreach, cold calling. Clean water first, then commercialization, then everyone complaining, then normalisation, then the next channel.
+
+**The lesson:** the outrage is loudest at the moment right before the behaviour becomes unremarkable. If you're in a channel where people are still complaining it's too commercial — you're still early. Spamford wasn't wrong that there was money in reaching people at scale. He was just visible enough to cause a diplomatic incident doing it.
+
+### 9. Rule of Thumb
+**CEOs must use their own product and watch average users struggle — not power users, not the demo account, the median customer doing the actual job.**
+
+It's genuinely surprising how many founders haven't sat with a real client going through their own onboarding in the last ninety days. The CEO gets protected from the product by customer success, polished walkthroughs, and internal demos. They see the product working. They don't see the product being confusing.
+
+**Kiln application:** Walk through the client onboarding for The Kiln as if you've never seen it before, once a quarter. Not to audit it. To feel what it's like to arrive new.
+
+### 10. Stoic Closer
+> "Difficulties strengthen the mind, as labor does the body." — Seneca
+
+Every hard client, every uncomfortable sales call, every month where the numbers are awkward — that's the training load, not the setback.
+
+### 11. Daily Math: Normal Distribution
+**Concept:** Yesterday's standard deviation told you how *spread out* your results are. Today's concept tells you the *shape* of that spread. Most real-world phenomena — heights, test scores, stable monthly revenue — cluster around the middle and taper off symmetrically at the extremes. That shape is the normal distribution. The bell curve. It emerges naturally from anything that's the sum of many small independent factors.
+
+**The one rule worth memorising:**
+
+In any normally distributed dataset, 68% of results fall within one standard deviation of the mean. 95% within two. 99.7% within three. That's the 68-95-99.7 rule. Everything else is detail.
+
+In plain terms: mean monthly revenue €20k, standard deviation €4k. Then 68% of months land between €16k and €24k. 95% between €12k and €28k. Only one month in three hundred should land outside €8k–€32k. If it does, something structural changed. That's not noise. That's signal.
+
+**Why it matters for The Kiln:**
+
+The normal distribution gives you a baseline model for "what does a normal month look like?" Once you know mean and standard deviation, you can set thresholds automatically. A month more than two standard deviations below mean isn't just a bad month — it's statistically weird. Something happened. Find out what. Most founders treat every bad month as random bad luck and every good month as proof the strategy is working. This framework tells you which is which.
+
+**Where the model breaks:**
+
+Early-stage revenue often isn't normally distributed. A small number of large months pulls the mean up while most months cluster lower. That's skewed — closer to log-normal or Pareto-flavoured. If your data looks lopsided rather than symmetric, it's telling you something about the structure of the business: a small number of clients or deals are doing most of the work. Note that. We'll get there in a few episodes.
+
+**Connection to the last three episodes:**
+
+Law of Large Numbers: gather enough trials to see the true pattern. Standard deviation: measure the pattern's spread. Normal distribution: understand the pattern's *shape*. These three are a stack. First you gather data, then you measure the noise, then you understand what a typical result actually looks like — and now you can see an outlier for what it is.
+
+**Today's exercise:** Take last month's revenue and the five months before it. Plot them roughly, even on paper. Does the distribution look roughly symmetric around the mean, or is it skewed — a couple of big months pulling the average up while most months cluster lower? If it's skewed, you're not running a normally distributed business. You're running a business dependent on a small number of large events. That's a risk profile, not a revenue profile. Name it before you plan around it.

@@ -6309,3 +6309,82 @@ Drayton Bird's observation sounds so basic it couldn't possibly be a competitive
 "When Ciarán took over as CRO at a Series B SaaS company last March, his team had a pipeline problem, a data problem, and no system underneath any of it. We fixed the system. Here's what happened next." Now there's someone in the room. Now you can see yourself in it.
 
 The Kiln doesn't sell infrastructure. It solves a specific person's specific problem in a way that makes their professional life better and their results defensible to their board. Lead with the person. Always lead with the person.
+---
+
+Let me check the repo structure and recent episodes to get the file format right.
+
+## 2026-08-13
+
+### 1. The Funny One
+> "we're just picking boogers when we were teens compared to them. And now we're picking boogers." — Shaan Puri
+
+Deploy whenever a 19-year-old's LinkedIn pops up in your feed and you need to feel appropriately small about your own output.
+
+### 2. Business Insight
+**Hormozi/DOAC:** Price from the market's wallet, not your own. What something costs you to deliver is irrelevant to what someone will pay for it. New founders undercharge because expertise feels easy — the decade of reps that made it easy is invisible to them, but it's exactly what the customer is buying. At The Kiln: if you built a GTM system in three weeks that a $50k/month consultant would take six months to fumble, your price is not "what it took you." Your price is what a broken pipeline costs them per quarter. Start there and work backwards.
+
+### 3. Deep Line
+> "it's sort of hallucination is what we call it when we don't like it. Creativity is what we call it when we do like it." — Marc Andreessen (Lex Fridman)
+
+The label is just the verdict. The underlying mechanism — a system generating outputs that weren't in its inputs, that surprise even its creator — is identical in both cases. Worth remembering before you decide whether an AI output is a bug or a feature.
+
+### 4. Thought Principle: Confront the Brutal Facts
+From *Good to Great*. The discipline isn't pessimism — it's epistemic hygiene. Lead with questions, not conclusions. Create dialogue over coercion. Run autopsies without blame. Build red-flag mechanisms so bad news reaches you fast rather than as a post-mortem six weeks after the damage is done. At The Kiln: the biggest risk isn't a deal going badly — it's a deal going badly without you knowing for three weeks because no one felt safe delivering the news up the chain that doesn't exist yet.
+
+### 5. New Words & Terms
+**Empty vessels** (Nick Sleep, via Shaan Puri) — companies that make the most noise via advertising while shunning durable substance underneath. The louder the brand, the less is there. Deploy when a competitor's awareness is inversely proportional to their actual results.
+
+**First article** (Jeff Bezos, Lex Fridman) — the first manufactured unit off a new production line; exists to stress-test the rate-manufacturing process, not just to ship a product. Any version one worth doing is a first article — it reveals where your system breaks before you need it to scale.
+
+**Packard's Law** (*Good to Great*) — a company should limit its growth rate to its ability to attract enough of the right people. Grow faster than your people pipeline and you manufacture problems at scale. The Kiln reaching $100k MRR is a Packard's Law problem before it's a revenue problem.
+
+### 6. Contrarian Take
+> "go work in an industry where the founders of that industry are still working." — Marc Andreessen (Founders/Senra)
+
+Every other industry hands you textbooks. This one hands you the authors — and some of them will answer a cold email. GTM infrastructure in 2026: the people who invented modern revenue operations are still building, still posting, still occasionally on podcasts. Proximity to living founders is one of the few career advantages that compounds and costs nothing to pursue.
+
+### 7. Analogy
+IBM had 12 layers of management. Each layer heard something uncomfortable and softened it — not maliciously, just to survive the meeting. "The numbers are bad" became "the numbers are below expectations" became "there are some short-term headwinds" by the time it hit the boardroom. Andreessen's line: the CEO had absolutely no idea what was happening. No clue whatsoever. That's not incompetence at the top. That's physics. Twelve rounds of motivated rounding is a compression algorithm for reality — it produces a clean, coherent, completely fictional picture. At The Kiln: there are no twelve layers. The person who spoke to the client is the person running the work. The distortion has nowhere to live. That's not a nice-to-have organisational feature. It's the product.
+
+### 8. Story
+Mati from ElevenLabs announced a fundraise on TBPN — a podcast, not a press release — instead of CNBC. Not a secondary announcement. The primary one. Charlie Songhurst and John Collison flagged it as a quiet marker: the founders who matter don't need legacy financial media's validation anymore. Their audience lives on X and short-form. CNBC is where you go for retail credibility. TBPN is where you go when you want the people who actually move capital to hear it first. The lesson: the channel you choose for your announcement tells everyone exactly who you think your real audience is. Most companies still choose the channel that impresses their parents.
+
+### 9. Rule of Thumb
+**"Familiarity doesn't breed contempt. It breeds comfort."** — Howard Tullman (*Originals*)
+
+A lukewarm response to your pitch isn't disagreement — it might just be unfamiliarity, which is a solvable problem. Consistent exposure to The Kiln in a prospect's world before the sales call starts is not nurturing. It's manufacturing comfort. By the time they take the meeting, the friction of a new vendor should already be mostly gone.
+
+### 10. Stoic Closer
+> "I don't believe in balance... I am much happier and more satisfied when I'm fully committed to something. So I'm very much in favor of all in of imbalance." — Marc Andreessen (Lex Fridman)
+
+Balance is what people recommend to you when they're not playing to win.
+
+### 11. Daily Math: Bayes' Theorem
+**The concept:**
+
+Bayes' Theorem is how you update what you believe when new evidence arrives. The formula: P(A|B) = [P(B|A) × P(A)] / P(B). Plain English: your updated belief in A, given you saw B, equals your prior belief in A adjusted by how much more likely B is if A is true than if A is false.
+
+The key word is *prior*. You start with a belief. Evidence doesn't replace it — it moves it. How far it moves depends on how diagnostic the evidence actually is. Highly diagnostic evidence makes it move a lot. Weak evidence makes it barely budge — even if it feels significant.
+
+**Business example:**
+
+A prospect books a 45-minute demo. Your historical demo-to-close rate is 30%. That's the prior. Then they show up with two colleagues. Does that change things?
+
+You check history: prospects who brought colleagues to a first demo closed at 55%. Prospects who came alone closed at 18%.
+
+Bayes says: update upward — but how far depends on how common colleague attendance is overall. If 80% of prospects bring colleagues, it's weak signal. If only 10% do, it's strong signal. The rarity of the evidence is part of what makes it meaningful.
+
+**The deeper insight:**
+
+Most bad pipeline forecasting is bad Bayesian updating. The rep sees a prospect enthusiastic in the meeting and marks them 80% likely to close. They've forgotten the base rate: enthusiastic prospects ghost too. Enthusiasm is weak signal because it appears in both won and lost deals at similar rates. Strong signal is evidence that's rare in your losses and common in your wins. That's what the data should surface — and almost nobody actually checks.
+
+**Today's exercise:**
+
+Pick one thing you currently treat as a meaningful pipeline signal — a prospect reply, a "let's get the team on a call," a specific question they ask. Check the last ten closed deals: how many showed it? Check the last ten lost deals: how many showed it? If the ratio is similar, it's noise and you've been updating on nothing. If closed deals show it 8/10 and lost deals show it 2/10 — that's a real Bayes factor. Build a short list of signals that actually discriminate. That list is more valuable than any CRM template.
+
+### 12. Ad Craft
+**Keep records like your life depends on them — they are your treasury map. — Drayton Bird**
+
+Every ad you ran. Every offer you tested. Every sequence that converted or died. Every subject line and every objection and every case study frame a prospect forwarded to their CFO. Write it down. Store it. Make it searchable. What worked for your audience once will work again — and the marketer who can't remember what they tested six months ago has to relearn everything from scratch, every single cycle.
+
+For The Kiln: that's every cold email that got a reply, every deck slide that made someone lean forward, every framing of the value prop that landed vs. the versions that didn't. Most agencies run on intuition and team mythology. The record-keepers build an unfair edge over time, and it compounds quietly, which is exactly why it persists.

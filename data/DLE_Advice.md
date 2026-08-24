@@ -7064,3 +7064,82 @@ Pick one real decision you're considering — a new hire, a new channel, a new s
 **Drayton Bird:** The best way to reduce mailing costs is to eliminate names less likely to respond.
 
 Not fix the copy. Not A/B test the subject line. Not redesign the email. Cut the list. If 20% of outbound contacts generate 80% of replies — which Pareto says they do — then the other 80% of names are primarily paying for themselves in cost and slowly destroying deliverability. At The Kiln: before optimising campaign mechanics, audit who's in the sequence. Tighten the ICP. Remove the names that were added because someone thought they might be interested. Response rate goes up, cost per meeting goes down, and the domain stops burning reputation on people who were never converting anyway. The list is the lever most people are too polite to pull.
+---
+
+## 2026-08-24
+
+### 1. The Funny One
+> "The ultimate day, the perfect day, was 12 hours of caffeine followed by four hours of alcohol." — Marc Andreessen (Founders/Senra)
+
+Deploy when someone asks how Silicon Valley actually works; also useful whenever a pitch deck claims the founders have exceptional work-life balance.
+
+### 2. Business Insight
+**7 Powers:** Sell power, not activity. The deliverable isn't "we ran twelve campaigns and had fourteen discovery calls." The deliverable is: you are now harder to replace.
+
+At The Kiln, that means framing every engagement around the switching costs and process dependencies we're building into the client's infrastructure — not the sequence count. Clients stay when leaving you means dismantling something. They churn when you're just another vendor on a spreadsheet next to three others with similar logos.
+
+### 3. Deep Line
+> "If you think about the good old days, they're mostly an illusion... life is better for almost everyone today than it was 50 years ago or a hundred years." — Jeff Bezos (Lex Fridman)
+
+Nostalgia is not data — it's selective editing, and the same mechanism runs in your business: the "simpler time before things got complicated" was just a different set of hard, one you've since forgotten the specifics of.
+
+### 4. Thought Principle: The Double Threat
+Marc Andreessen on Zuckerberg, via Founders/Senra: still the founder, still the innovator, "a fountain of ideas" — and simultaneously spending enormous time learning to run something at genuine scale. The learning curve was "vertical. And by the way, it's still vertical."
+
+Most founders plateau into one or the other. They stay scrappy and never build the machinery, or they hire operators and go quiet on the product side. The double threat keeps both running in parallel. At The Kiln: the goal is to remain the person generating the insight clients are actually paying for while building delivery infrastructure that doesn't require Ultan in every meeting. One without the other is either a freelancer or a middle manager — both fine, neither the thing.
+
+### 5. New Words & Terms
+**Colored coins** — Vitalik Buterin's original (unfortunate) name for what became stablecoins: a crypto token wrapped in a real-world asset. Usage: "The entire stablecoin ecosystem started from an idea called 'colored coins' that sounds like a primary school craft project."
+
+**Sclerosis** — the hardening a bureaucracy drifts toward by default; Sean Sankar, Business Soundbites: "the entropy of the bureaucracy is always towards some sort of sclerosis." Usage: "Three approval layers in and it's not process anymore, it's sclerosis."
+
+**Programmable money** — John Collison's framing of the core crypto promise: financial services that operate like software, composable and automatable. Usage: "The interesting question isn't the token price. It's what changes when money becomes programmable."
+
+### 6. Contrarian Take
+> "The men who spilt most blood were precisely those who had the greatest desire to let their equals enjoy the golden age." — The Machiavellians
+
+The people who just want what's best for everyone are the most dangerous in any room — pure intentions have no accountability structure, no feedback loop, and no personal cost for being wrong. At The Kiln, the best clients are self-interested in the specific and measurable sense: they want their pipeline number to go up, by this much, by this date. That's easier to serve than someone who wants to "transform the category."
+
+### 7. Analogy
+Hormozi's point from Diary of a CEO: the unicorn hire — the one person who sells brilliantly AND generates creative ideas AND brings the energy AND manages the ops — doesn't exist as a single organism. But you're not actually looking for a unicorn. A unicorn is just a horse with a horn and some sparkle. So hire a rhino for the horn, a horse for the horse, and fireflies for the sparkle. Three ordinary animals. Same creature, and every part is replaceable.
+
+For The Kiln: you don't need one person who does GTM strategy, writes the copy, and runs the sequences. You need a strategist, a copywriter, and an ops person. Cheaper to find, faster to onboard, and when the copywriter leaves you don't lose the whole thing — just the horn, and rhinos are findable.
+
+### 8. Story
+Hormozi's flyer story, Diary of a CEO. His mentor had twenty-two locations and a proven playbook: five thousand flyers per test market, then three thousand a day once confirmed — roughly one hundred and fifty thousand a month. Hormozi put out three hundred flyers, got one call, and was ready to declare the channel broken. He was at one-fifth of the minimum test threshold and thought he'd run the experiment. The mentor's response was not subtle.
+
+The lesson isn't about flyers. It's that the volume of people one hundred steps ahead of you is often literally one hundred times your own output — not because they're working harder, but because they know what the actual test requires. The channel isn't broken. You haven't run the test.
+
+At The Kiln: before calling a sequence dead, verify the volume threshold was actually hit. Most outbound sequences get killed at fifty contacts. The mentor would've said that's not a campaign, that's a draft with a favicon.
+
+### 9. Rule of Thumb
+**"'You've worn me down' is an awful decision-making process. Go for quick escalation instead — it's better."** — Amazon Letters to Shareholders (2016)
+
+The right call doesn't emerge when someone stops arguing because they're tired — it emerges when someone produces the better argument. Get it to the right decision-maker fast rather than letting whoever has the highest endurance win the room. At The Kiln this applies to scope creep directly: if a client pushes long enough and you fold, you've trained them that pushing works, and they will use that training.
+
+### 10. Stoic Closer
+> "I can look back and say, wow, that was hard, but it was worth it." — Marc Andreessen (Lex Fridman)
+
+The measure isn't whether it was easy. It's whether the hard was in service of something real.
+
+### 11. Daily Math: Expected Value
+**The concept:**
+
+Expected Value is the average outcome you'd get if you ran a decision a thousand times. The most fundamental calculation in all of decision-making, and almost nobody does it consciously. Formula: EV = (probability of outcome A × value of A) + (probability of outcome B × value of B) + so on for every outcome. You weight each possible result by how likely it is, then sum. The number is what you should expect per repetition, on average. It doesn't tell you what happens this time. It tells you which direction to bias at scale.
+
+**Business example:**
+
+The Kiln is deciding whether to pitch a prospect who seems probably not ready. Call it 20% chance they sign a €5k/month contract. 80% chance the pitch burns two hours and produces nothing. EV = (0.2 × €5,000) + (0.8 × €0) = €1,000 per pitch attempt. Two hours of work for €1,000 EV is €500/hour effective rate. Above your floor? Below it? That's the actual question — and once you've made it explicit, two levers appear: improve the probability (better qualification before pitching) or improve the payoff (better positioning during the pitch). Those are genuinely different problems requiring genuinely different fixes. Most people collapse them into "should I send this or not" and decide by feel.
+
+**The deeper insight:**
+
+EV ignores variance, which matters enormously for decisions you only get to make once. A 50% chance of winning €2,000 or losing €1,000 is EV-positive at €500 — but if losing €1,000 breaks the business, the EV calculation is lying to you by omission. EV is a tool for repeated, survivable decisions where the law of large numbers eventually brings you to the average. For one-shot, high-stakes, irreversible decisions — which is most of the consequential ones in early company building — EV needs a ruin constraint alongside it. The rule: never take an EV-positive bet that eliminates your ability to take the next one. Stay in the game long enough for the expectation to materialise.
+
+**Today's exercise:**
+
+Pick one recurring sales or marketing decision you currently make by instinct — pitching a type of prospect, sending a type of content, running a type of outreach. Estimate the probability it produces a result, and what "a result" actually pays. Estimate the cost when it misses. Calculate the EV. Then ask: is the instinct-driven version close to the EV-optimised version, or wildly off? The gap between intuition and expected value is almost always where the inefficiency is hiding.
+
+### 12. Ad Craft
+**Drayton Bird:** Direct marketing needs champions with power — without one senior sponsor, nothing gets done.
+
+Write the best sequence in the history of outbound. If the person who received it has to bring it to their boss, and their boss brings it to procurement, and procurement pings legal — nothing happens, and it's not because the subject line was weak. The chain of approval is the campaign killer, not the copy. At The Kiln: qualify for authority early, not after three follow-ups. "Who else is involved in this decision?" asked on the first call saves three weeks of chasing someone who genuinely liked it but couldn't move it. The senior sponsor isn't a nice-to-have in the closing stage. They're the campaign. If they're not in the room, you don't have a campaign yet.

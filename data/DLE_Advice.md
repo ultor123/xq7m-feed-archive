@@ -8015,3 +8015,94 @@ This is not a compliment to effort for its own sake. Copy that is easy to write 
 The effort isn't word-smithing. It's specificity. The work of writing well is finding the exact thing — the one detail, the one tension, the one outcome — that makes this prospect, this company, this problem, feel like you wrote this sentence after sitting in their office for a week. That requires research, which is slow. It requires drafting, which is slower. And it requires cutting, which is slowest because you have to admit the first three paragraphs were throat-clearing.
 
 For The Kiln: the outbound emails that get replies get written once for a narrow segment after real research, not templated for everyone in the industry. The thirty minutes you spend on the right opening line is the difference between a reply and a delete. The effort shows — and the prospect can feel when it didn't happen.
+---
+
+Reading the selected material now and writing the episode.
+
+## 2026-09-06
+
+### 1. The Funny One
+> "Labor leverage will impress your parents, but don't waste your life chasing it." — Naval (*How to Get Rich*)
+
+Deploy it the moment someone equates headcount with progress.
+
+### 2. Business Insight
+**Tobi Lutke (Business Soundbites):** "Before asking for more headcount, show me what it looks like with AI doing everything it can. The ceiling for a small team with great tools has never been higher."
+
+Headcount used to be the only way to scale capacity. It is now the slow, expensive way. At The Kiln: before any new hire, the question is what an AI-augmented version of the current team looks like running at full stretch. Revenue per head is the number. Keep it embarrassingly high for as long as possible.
+
+### 3. Deep Line
+> "By the time people realize that they have enough money, they've lost their time and their health." — Naval
+
+The trap isn't greed — it's momentum. You keep optimising for the metric you learned to optimise for, and nobody sends you a notification when the game stopped being worth playing.
+
+### 4. Thought Principle: Friedman's Three Levers
+Via Marc Andreessen on Lex Fridman: there are exactly three ways to get someone to do something for someone else — love, money, and force. Force is governments and prisons. Love is family and mission. Money is everything else. That is the full list.
+
+For The Kiln: clients who stay because of contract lock-in — force, basically — churn the moment it lapses. Durable relationships run on love and money both. Any engagement where you're relying on one lever to compensate for weakness in the other two is a retention problem in disguise.
+
+### 5. New Words & Terms
+**Speaking out of both sides of their mouth** — saying contradictory things to different audiences to avoid committing to a position. Usage: "They told investors ARR was the primary metric and told the sales team it was pipeline velocity — classic speaking out of both sides of their mouth." — Shaan Puri. Useful for naming what is happening when someone's story keeps shifting depending on who's in the room.
+
+**MilliElon** — a proposed unit for measuring a founder's ambition as a fraction of Elon Musk. One milliElon = 0.1% of Elon. Usage: "Most Series A pitches are operating at about three milliElons of audacity." — Marc Andreessen (Founders/Senra). Turns vague ambition claims into something you can actually evaluate.
+
+**Beachhead** — one narrow segment with acute present pain, chosen to dominate first before expanding. Not a niche you're stuck in; a bridgehead you launch from. Usage: "Our beachhead is SaaS companies between €2M–€10M ARR who've never had a dedicated GTM function." — *Crossing the Chasm*. The whole point is that you win here completely before touching the next segment.
+
+### 6. Contrarian Take
+> "All I want to know is where I'm going to die, so I'll never go there. Invert, always invert." — Charlie Munger, Philosophy Soundbites
+
+Most strategy is additive: what do I need to do to win? Munger's version is subtractive: what do I need to avoid to not lose? For The Kiln: the list of client profiles, engagement structures, and pricing models that have reliably destroyed agencies is shorter, and more reliable, than any success formula.
+
+### 7. Analogy
+The Proustian Spider, from *Mastery* by Robert Greene: a spider sits at the centre of its web and feels every vibration — a trapped fly three feet away, a shift in air pressure from an approaching hand. It doesn't move to gather information. The web does the sensing. The spider's job is just to have built the right web and to be awake.
+
+For The Kiln: systematic market presence — the right communities, the right conversations, the writing that pulls prospects in — means you feel category shifts before they're obvious. When a new channel starts working or a client pain point is about to get acute, you're already there. The spider doesn't sprint to the fly. It was already where the fly was going. The mundane version of this is: post consistently and show up to the boring industry calls. That's the web.
+
+### 8. Story
+Palmer Luckey was homeschooled, built VR headsets in a trailer, and his first meaningful job was using that technology to help veterans with PTSD process trauma — not exactly the Silicon Valley origin story. He sold Oculus to Facebook at 21 for roughly $2–3 billion, which is the kind of sentence that should feel more dramatic than it does.
+
+Then he looked around and noticed something that bothered him. The smartest people he knew were working on advertising and addictive entertainment. Defense was treated as taboo — morally suspect, not what serious founders did. The actual security infrastructure of the country was running on legacy contracts and ancient procurement processes while the talent went to make recommendation algorithms 4% more engaging.
+
+He started Anduril. First slide of the pitch deck: "We are gonna save the American taxpayer hundreds of billions of dollars a year, and we are going to make hundreds of billions of dollars."
+
+No hedging. No "we believe" or "we aim to." Flat declarative. The whole story in one sentence.
+
+The lesson: the spaces where talent has left because they're unsexy are often where the real leverage is sitting unattended. And when you find yours — say it that plainly. The clearest pitch wins.
+
+### 9. Rule of Thumb
+**Pessimism sounds rigorous; optimism sounds naive — and neither is evidence.**
+
+Teresa Amabile in *Originals*: "Prophets of doom and gloom appear wise and insightful, while positive statements are seen as having a naive Pollyanna quality." Apply it this way: when a client or investor sounds more credible because they're more negative, stop and ask whether they've shown you the actual math. Scepticism performed in a room is not analysis, and the person raising their eyebrow is not automatically the smart one.
+
+### 10. Stoic Closer
+> "What separates people is not the presence or absence of difficulty, but how they deal with the inevitable difficulties of life." — *Good to Great*
+
+Nobody's running an easier race than you — they're just further along the same one.
+
+### 11. Daily Math: Kelly Criterion
+**Concept:** The Kelly Criterion is a formula for sizing bets. It answers a question most people get completely wrong: given a positive-expected-value opportunity, how much of your bankroll should you commit to it?
+
+The formula: **Kelly fraction = (b × p − q) / b**
+
+Where **b** = net odds (if you bet €1 and win €1 back profit, b = 1), **p** = probability of winning, **q** = probability of losing (1 − p).
+
+Example: a coin that lands heads 60% of the time, even money bet. b = 1, p = 0.6, q = 0.4.
+
+Kelly = (1 × 0.6 − 0.4) / 1 = **0.20**
+
+Bet 20% of your bankroll. Not 5%, not 50%. Exactly 20%. Bet more than Kelly and you grow slower — or go bust. Bet less and you leave compounding on the table. The formula is simultaneously more aggressive than most people's instinct and more conservative.
+
+**The deeper insight:** Kelly doesn't maximise a single bet. It maximises the *geometric* growth of your bankroll over many bets. Betting too large, even with a genuine edge, introduces variance that can wipe you out before the edge has time to compound. There is an optimal size, and bigger isn't it. This is the thing gamblers and VCs both get wrong in opposite directions — one bets too much on each hand, the other too little on the things they already believe in.
+
+**Business example:** The Kiln doesn't place literal bets, but the logic applies directly to resource allocation. New outbound channel: say there's a 55% chance it generates meaningful pipeline in 90 days, and if it works it adds €15k/mo; if it fails, you've spent two weeks of founder time. Kelly says: run a structured test at roughly 20% commitment — not all-in, not ignored. Most founders bet 0% (ignore the channel entirely) or 100% (rebuild the whole strategy around it). Neither is right. Kelly is the middle path with math behind it.
+
+Practical note: most sophisticated investors use half-Kelly or quarter-Kelly, because the formula assumes you know your edge precisely — and you almost never do. When in doubt, shrink your estimate of p before sizing.
+
+**Today's exercise:** Pick one initiative The Kiln is currently deciding on — new content channel, a partnership, a new service line. Estimate p (probability it works within 90 days) and b (payoff as a multiple of cost if it does). Run the Kelly formula. What fraction does it suggest? Is that more or less than you were planning to commit? The gap between those two numbers tells you whether you're overconfident or leaving upside untouched.
+
+### 12. Ad Craft: Cartoons Convert
+**Drayton Bird:** "Cartoons attract the most attention of any illustrative technique."
+
+Counterintuitive if your B2B instinct runs toward clean white space and stock photos of people shaking hands across a table in front of a glass wall. But attention is pre-rational. A cartoon catches the eye before the viewer decides whether they care. It signals "this will be quick and interesting" — exactly the promise you need to make to someone scrolling past at speed with no particular intention to stop.
+
+For The Kiln: test a simple illustrated cartoon panel against polished photography in the next LinkedIn or display creative. The cartoon doesn't need to be beautiful — it needs to be distinct and immediately readable. The aesthetic gap between "agency creative" and "someone drew this to explain a point" is where attention lives.

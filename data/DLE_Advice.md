@@ -8106,3 +8106,76 @@ Practical note: most sophisticated investors use half-Kelly or quarter-Kelly, be
 Counterintuitive if your B2B instinct runs toward clean white space and stock photos of people shaking hands across a table in front of a glass wall. But attention is pre-rational. A cartoon catches the eye before the viewer decides whether they care. It signals "this will be quick and interesting" — exactly the promise you need to make to someone scrolling past at speed with no particular intention to stop.
 
 For The Kiln: test a simple illustrated cartoon panel against polished photography in the next LinkedIn or display creative. The cartoon doesn't need to be beautiful — it needs to be distinct and immediately readable. The aesthetic gap between "agency creative" and "someone drew this to explain a point" is where attention lives.
+---
+
+Let me check the repo structure quickly so I can save the file in the right place after writing it.
+
+## 2026-09-07
+
+### 1. The Funny One
+> "You're like the Forrest Gump of the tech industry just going into different spaces" — Shaan Puri
+
+Deploy when a client raises an eyebrow at your range across verticals: own the wander, don't apologise for it.
+
+### 2. Business Insight
+**[Amazon Letters to Shareholders, 2016 — Jeff Bezos]:** Most decisions should be made on 70% of the information you wish you had. Wait for 90% and you're not being careful — you're being slow. There's a difference.
+
+The Kiln version: you don't need to know exactly which outbound sequence will perform before you run it. You need three solid data points on ICP response rate, a rough hypothesis on timing, one reference customer. That's 70%. Ship the sequence. The other 30% arrives as replies.
+
+### 3. Deep Line
+> "Only agree to new commitments when both your head and your heart say yes." — pmarca
+
+The head-only yes is how you end up on a call wondering why you agreed to it. The heart-only yes is how you end up doing favours for people you like instead of clients who pay.
+
+### 4. Thought Principle: P/PC Balance
+Covey's P/PC Balance: Production is the golden eggs. Production Capability is the goose. Most operators optimise so hard for eggs that they kill the goose and then wonder why the eggs stopped.
+
+For The Kiln at €20k MRR and climbing: the goose is Ultan's thinking time, the team's capacity to do good work, and the relationships that generate inbound. The moment you start burning those to hit a monthly number, you've started eating the goose for dinner. You'll hit the number this month and miss the next three.
+
+### 5. New Words & Terms
+**Net subtractive** — Charlie Songhurst (Stripe) describing a bartender who leaves the table with fewer drinks than he brought. Use it for any person, process, or meeting that reliably produces less than it consumes. "That weekly status call is net subtractive — everyone leaves knowing less than they could've figured out from a Slack message."
+
+**Deterrence** — Trey Stephens (Business Soundbites): security bought not by the stockpile itself but by the demonstrated capacity to generate and regenerate it. A company with strong deterrence isn't the one with the most cash — it's the one that can clearly produce more when needed. A repeatable sales motion is deterrence. A strong hiring brand is deterrence.
+
+**"World class figure it outer"** — Shaan Puri's taxonomy for the hire that actually matters. Not "head of growth," not "VP sales" — a person so good at navigating ambiguity that the title is almost beside the point. When recruiting, ask: does this person figure it out, or do they only perform inside a system someone else built?
+
+### 6. Contrarian Take
+> "The dot-com boom... the internet stuff didn't matter, it was a Telco bubble... it was almost entirely a Telco crash... the credit bubble was 100% on the telecom companies." — Charlie Songhurst / Marc Andreessen
+
+The received history of 2000 is: the internet was fake, the valuations were fake, the whole thing was a delusion. The more accurate history: Telcos borrowed enormous amounts to build infrastructure for a demand curve they invented, blew up, and took everything in the same postcode with them. The internet businesses were real — they just had the misfortune of sharing a zip code with a debt crisis. Useful rule for any market crash: find the actual credit exposure before you decide what "failed." The story that gets told is rarely the story that was true.
+
+### 7. Analogy
+From *How to Win Friends and Influence People*: replace "but" with "and." "But" is a wrecking ball — "great quarter, but we need to fix retention" means: ignore everything I just said, here comes the real message. "Great quarter, and if we apply that same energy to retention" means: the praise was genuine, and there's a next level available.
+
+For The Kiln in QBRs and campaign debriefs: hunt every "but" and swap it. The client who feels their wins were actually acknowledged will engage with the problems. The client who senses the praise was throat-clearing before bad news will get defensive and start looking for a reason to churn.
+
+### 8. Story
+When David Packard — co-founder of HP — first wrote the company's acquisition rules, they were seven pages. By the time someone dug them out years later, they'd become 2,000 pages. Same underlying principles. 285 times more paper.
+
+That's not malice — that's bureaucratic entropy. Each amendment was individually reasonable. Each exception to the exception made local sense. Nobody sat down to write 2,000 pages of acquisition rules; they accumulated one clarification at a time until the document was illegible to the humans it was meant to guide. The Kiln lesson: every internal process you write is day-one Packard rules. Check them at six months. If they've doubled in length, the process is eating itself. Trim before it becomes load-bearing complexity that nobody can touch.
+
+### 9. Rule of Thumb
+**Law 4 (The 48 Laws of Power): Always say less than necessary.** The person who talks most in a negotiation is usually giving away the most — filling silence with concessions, justifications, and tells they didn't mean to share. State your position and stop. Whoever speaks next reveals something.
+
+### 10. Stoic Closer
+> "The optimists... would say 'We're going to be out by Christmas.' And Christmas would come and go... And they died of a broken heart." — *Good to Great* (on Admiral Stockdale)
+
+False timelines aren't optimism — they're a debt that comes due.
+
+### 11. Daily Math: Expected Value
+**Concept:** Expected Value (EV) is what you get when you multiply every possible outcome by its probability and sum the results. It's the single number that answers: on average, what is this worth?
+
+**Formula:** EV = (probability of A × value of A) + (probability of B × value of B) + ...
+
+**Simple example:** You're offered a coin flip. Heads: win €200. Tails: lose €100. EV = (0.5 × 200) + (0.5 × −100) = 100 − 50 = **€50**. Take it every time.
+
+**The deeper insight:** EV doesn't tell you what happens on any single flip — it tells you what happens on average across many flips. This is where people go wrong. They judge decisions by outcomes ("I took the flip and lost — bad decision") instead of by the quality of the thinking at the time. Outcome bias is assuming a bad result means a bad decision. It doesn't. A good decision can produce a bad outcome. What matters is whether the expected value was positive when you pulled the trigger. Most people running startups are outcome-biased on both sides: they take credit for lucky wins and blame themselves for unlucky losses, and end up learning nothing.
+
+**Business example:** The Kiln is deciding whether to spend two weeks building a case study sequence into a new vertical. Rough estimate: 30% chance it generates two new clients at €5k/mo each — €10k/mo new revenue. 70% chance it generates nothing in 90 days. EV = (0.3 × €10,000) + (0.7 × €0) = **€3,000/mo expected** from two weeks of work. Whether to do it depends on your cost of those two weeks — but most of the time, €3k/mo expected return clears the bar easily. Most founders don't run this math. They run vibes.
+
+**Today's exercise:** Pick one decision The Kiln is currently sitting on. List the two or three most likely outcomes. Assign a rough probability to each (they should sum to 100%). Assign a monetary or time value to each. Multiply and add. Is the EV positive? If yes and you're still stalling — ask yourself what the actual blocker is, because it isn't the math.
+
+### 12. Ad Craft: Say "Now," Not "At This Point In Time"
+**Drayton Bird:** Use short Anglo-Saxon words. "Now" not "at this point in time." "Use" not "utilise." "Start" not "commence."
+
+The longer word doesn't signal sophistication — it signals a writer who is nervous and trying to sound credible. The short word lands. It doesn't slow the eye down while the brain catches up. For The Kiln's proposals, LinkedIn copy, and outbound sequences: do one pass after drafting where you hunt every Latinate word and replace it with the short Anglo-Saxon version. Facilitate → run. Leverage → use. Implement → do. The copy will read faster, and the reader who finishes the page is the only reader who can become a client.

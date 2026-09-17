@@ -8952,3 +8952,78 @@ The only column in the spreadsheet you actually control.
 Richard Shotton: tailored social proof beats generic — in a hotel study, the sign "most guests in this room reused their towels" pushed compliance to 49%, significantly above the generic "please reuse towels" messaging. The local specificity was the mechanism. Not social proof in the abstract. Social proof from this room, this audience, this context.
 
 For The Kiln: "Companies like yours are already doing X" is a different sentence than "GTM agencies trust us." The first lands because the reader hears their own category. A cold email to a PLG SaaS founder that opens with "most PLG companies at Series A spend 60% of their outbound budget on the wrong ICP" is operating on this principle — it localises the claim before the pitch begins. Every time you write social proof, ask: is this the right room, or is this the generic hotel corridor? If it's the corridor, rewrite it.
+---
+
+I can see the structure. The last episode (2026-09-16) covered Monte Carlo, so today is Markov Chains. Now I'll write and save the episode.
+<function_calls>
+<invoke name="mcp__filesystem__write_file">
+<parameter name="path">/home/runner/work/xq7m-feed-archive/xq7m-feed-archive/episodes/2026-09-17.md</parameter>
+<parameter name="content">## 2026-09-17
+
+### 1. The Funny One
+> "We pivoted. That's startup speak for 'the first idea was terrible but we can't admit that in the press release.'" — Humor Soundbites
+
+Deploy when someone in the room uses the word "pivot" without irony.
+
+### 2. Business Insight
+**Marc Andreessen (Lex Fridman):** "This is the new gold rush... this is the big bang for this whole new area of science and technology. And so therefore you're gonna have every smart 14-year-old on the planet building open source."
+
+The structural fact about AI right now is that the barrier to building is approaching zero. The 14-year-old in Lagos and the one in Limerick have the same compiler. What that means for GTM is that the product layer is commoditising in real time — which makes the go-to-market layer more valuable, not less. Anybody can build the thing. Very few people can get the thing to the right people at the right moment for the right price. The Kiln is in the right business at the right time.
+
+### 3. Deep Line
+> "We've sent robotic probes to all the planets. We know that this is the good one." — Jeff Bezos (Lex Fridman)
+
+We've done the survey. The comparison group is in. Earth isn't a consolation prize — it's the result.
+
+### 4. Thought Principle: Preferential Attachment (The Matthew Principle)
+Marc Andreessen (Stripe/Songhurst): "He who has a lot will get more and he who doesn't [loses]... when a company gets momentum... the next resource that you need is preferentially willing to attach to your thing."
+
+Momentum is magnetic. The first 10 clients are a grind because you have no gravity. The 20th client comes easier because the 15th client is already visible. The 30th comes easier still. This is the structural case for The Kiln doing whatever it takes to build a visible reference stack fast — case studies, logos on the site, named results — because each one makes the next conversation warmer before it starts. You're not just selling. You're building gravity.
+
+### 5. New Words & Terms
+**Whole product** — The complete turnkey solution (services, integrations, support) that a pragmatist actually buys, versus the bare core technology. Usage: "They didn't just want the playbook — they wanted the whole product: hiring spec, onboarding sequence, first 90-day KPIs, and someone to call when it breaks."
+
+**The blue dollar** — The black-market parallel exchange rate in Argentina, running roughly 2x the official rate because people are that desperate to hold actual dollars. Usage: "When your currency is the blue dollar, trust in the system has already left the building."
+
+**Token-maxing** — Obsessively optimising AI token usage as a vanity metric while ignoring whether any of it grows revenue. Usage: "Spent three hours token-maxing the prompt. The conversion rate didn't move. Classic."
+
+### 6. Contrarian Take
+> "The models were terrible, the models were useless... None of them ever came true... if they're reliably wrong, they're actually anti-useful. They're actually damaging." — Marc Andreessen (Lex Fridman)
+
+A model that's reliably wrong is worse than no model, because it gives false confidence and delays the honest look at what's actually happening. At The Kiln: if a pipeline forecast has been wrong three quarters running in the same direction, stop adjusting the inputs — question whether the model structure is broken.
+
+### 7. Analogy
+Pmarca: "Graduating with a technical degree is like heading out into the real world armed with an assault rifle instead of a dull knife."
+
+The mapping is plain: everyone else is stabbing at problems with whatever they have. You're operating at a different order of magnitude. What counts as the "technical degree" shifts by decade — in the 90s it was CS, in the 2020s it's fluency with AI tooling plus GTM systems thinking. The Kiln is in the business of handing clients the rifle. Most of the market is still sharpening the knife, and calling the sharpening "strategy."
+
+### 8. Story
+Alex Hormozi sold Gym Launch for $46 million. He almost didn't do it. Not because the deal was bad. Because he was afraid of what one person — someone who wasn't even close to him — would think. That the $46M wasn't legit. He caught himself mid-spiral and asked: "Am I going to let him control me?"
+
+He took the $46 million.
+
+The lesson: the imaginary jury is always sitting. The faces in it are usually people who have no real stake in your life. The question "what will they think?" is worth asking once, to check if it's a real signal. If the answer is "someone I barely know," dismiss the jury and move on. Forty-six million dollars is a lot to leave on the table for someone else's hypothetical opinion.
+
+### 9. Rule of Thumb
+**Neither side should be protected** — On startups vs incumbents in AI, Marc Andreessen: "neither one ought to be subsidized or protected from the other... that's just very clearly the idealized world." Apply this to any build-vs-buy decision for clients: don't protect either option from scrutiny before the analysis runs. If the in-house build wins on the merits, great. If the vendor wins, also great. The bad move is deciding before the comparison starts.
+
+### 10. Stoic Closer
+> "Honest question, is the loss of self respect worth the gain of influence and money?" — Shaan Puri
+
+Everything has a price tag. The interesting question is whether you've read it.
+
+### 11. Daily Math: Markov Chains
+**Concept:** A Markov chain is a system where the next state depends only on the current state — not on how you got there. The past doesn't matter. Only where you are now determines where you go next. Named after Russian mathematician Andrei Markov, 1906. It models everything from Google's PageRank to customer churn to weather. The core object is a transition matrix: given I'm in State A, what's the probability I move to State B, stay in A, or fall to State C?
+
+**Business example:** Take a three-state pipeline: Prospect → Qualified → Closed (or Dead). A Markov model says: given a deal is currently Qualified, there's a 30% chance it closes next month, a 50% chance it stays Qualified (still in conversation), and a 20% chance it goes cold. Run that forward month by month and you get a distribution of outcomes without guessing what individual deals will do. Crucially, the model doesn't care whether a deal was referred or cold outbound — only the current state matters for predicting the next move. That's the Markov property.
+
+**The insight:** Most pipeline tracking is stage-agnostic. You count deals, multiply by average close rate, and call it a forecast. A Markov chain forces you to think about transition rates between states, not just conversion at the end. That changes the diagnosis entirely. If your Qualified-to-Closed rate is fine but your Prospect-to-Qualified rate is low, you don't have a closing problem — you have a qualification problem. Fixing the wrong stage is how you spend three months doing the wrong thing with great energy and full confidence.
+
+**For The Kiln:** Map the pipeline as states — Cold Outreach → Response → Discovery Call → Proposal Sent → Closed. Assign a rough probability to moving forward, staying stuck, or falling dead at each transition. Even numbers based on feel (not a big dataset) will surface where the chain breaks. If 70% of deals die between Discovery and Proposal, that's where the work is — not in the outreach sequence everyone keeps tweaking because it's the most visible part.
+
+**Today's exercise:** Draw your pipeline as a state diagram. Label each arrow with a rough transition probability. Then ask: if 100 prospects entered the top of the chain today, how many would close in 90 days at these rates? Calculate it by hand. If the answer is low, that's not demoralising — it's diagnostic. Now you know which transition to fix first. If all your numbers look fine and the output still doesn't match reality, one of your estimates is lying to you.
+
+### 12. Ad Craft: Making and Keeping a Customer
+**Drayton Bird:** The one thing to focus on is making and keeping a customer.
+
+Strip everything else away and this is what remains. Not brand, not reach, not impressions, not content calendars. Making one. Keeping them. Every GTM motion The Kiln builds for a client should pass this test: does this make a customer, or does this keep one? If it does neither, it's decoration. The metrics that matter are acquisition and retention — everything else is a leading indicator to one of those two, or it's noise dressed up as strategy. When a client asks where to focus, the answer starts here and works outward.

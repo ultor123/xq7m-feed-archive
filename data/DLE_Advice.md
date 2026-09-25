@@ -9571,3 +9571,84 @@ A 95% confidence interval answers that. It gives you a range — say, 13% to 31%
 You message your best mate every day. You message the business contact you met once at a conference — hopefully never, but if you must, once a quarter and with something actually useful attached. The mistake most GTM teams make is treating every name on a list as equally warmed. They don't differentiate between someone who's been a client for two years and someone who downloaded a PDF once. Same cadence, same frequency, same tone. That's not nurturing. That's harassment on a schedule.
 
 For The Kiln: segment by relationship depth, not just funnel stage. Past clients get high-frequency, conversational, peer-level comms. Cold prospects get sparse, high-value, low-ask. Everything in between gets matched accordingly. The frequency is the relationship signal — too fast and you look desperate; too slow and you look like you forgot they existed. Both are bad. Match the pace to the distance.
+---
+
+Let me check the repository structure to find where previous episodes are saved before writing today's.
+
+## 2026-09-25
+
+### 1. The Funny One
+> The Hipster or Unabomber Test — side-by-side sketches making the point that both have given up on the idea that hard problems remain to be solved. If everything worth doing is done, you may as well feign an allergy to achievement and become a barista.
+
+Deploy when someone tells you to "just be realistic" about what's possible in your industry.
+
+### 2. Business Insight
+**Alex Hormozi:** "Don't find customers for your products. Find products for your customers. The money is in the gap between what they want and what they have."
+
+Most agencies build a service and then go looking for someone to buy it. That's selling backwards — you've already decided what you're making, now you're forcing prospects into the shape of the box you built. Hormozi's version starts from the other end: sit with the customer long enough to understand the gap — what outcome do they want, what do they currently have — and build toward that gap specifically.
+
+For The Kiln: the pitch isn't "here's our outbound programme." It's "you want $100k MRR and you have three salespeople with no system and a list of 3,000 contacts nobody's touched in eight months. Here's what closes that gap." Product second. Gap first.
+
+### 3. Deep Line
+> "Your thoughts will tend to revolve around what you value most." — Mastery
+
+Where your attention goes when no one's watching is your actual priority list. The calendar is the propaganda version. The mental orbit is the truth.
+
+### 4. Thought Principle: Embedded Assumptions Audit
+Marc Andreessen: "you can go in first principles, and you can say, 'Okay, how did they arrive at that?' ... in industry after industry after industry, there's all these embedded assumptions that made sense in 1970 or 1930 or 1880 that just don't make sense anymore."
+
+Every industry runs on rules preserved purely by inertia. Nobody asks why. The audit is simple: take any accepted practice and ask who first decided this and what was true about the world when they did. Often the original reason has completely collapsed.
+
+For The Kiln: most sales processes still assume a buyer needs to be persuaded in a linear multi-touch sequence because that's what worked before buyers could research everything themselves in twenty minutes. That assumption is forty years old. GTM infrastructure built on it is selling against the grain.
+
+### 5. New Words & Terms
+**The global village** (McLuhan) — the whole world compressed into one place, with all a village's dysfunction intact. You know everyone, everyone knows you, gossip spreads instantly, no escaping the local drama. Applied to the internet: the town square is global but the petty politics are medieval.
+
+**Quick drying cement** (Jeff Bezos, Lex Fridman) — his metaphor for technical decisions that become very hard to change once made. Not impossible to undo, but expensive enough that nobody will. Most "temporary" architecture decisions are quick drying cement poured on a Tuesday.
+
+**Line-extension trap** (Ries & Trout, Positioning) — diluting a brand's single owned idea by stretching its name across many products. You own one word in the prospect's head. Start attaching it to seven different products and you own nothing. Arm & Hammer owns "baking soda." Arm & Hammer carpet deodorant, toothpaste, and cat litter are the trap.
+
+### 6. Contrarian Take
+> Procrastinators produced 28% more creative solutions; da Vinci worked on the Mona Lisa on and off for roughly sixteen years. — Originals
+
+It's right because the first idea is almost always the obvious one, and you need time for the obvious one to get boring before the interesting one shows up. Don't treat delay on a hard strategic question as failure — the answer that arrives after three days of apparent avoidance usually beats the one from the first ten minutes.
+
+### 7. Analogy
+Shaan Puri, on a friend making the case for Grand Theft Auto as a business: "He basically made this case like Warren Buffett describing a business with incredible moats."
+
+The mapping: GTA isn't a game you buy, it's a world you live in. New modes, new content, the same loyal players returning for years. Switching cost is your entire social graph and your in-game history — that's a moat in the Buffett sense: structural, compounding, hard to replicate, expensive to leave.
+
+For The Kiln: the question isn't "are we good at GTM?" It's "what makes it structurally expensive to leave us?" If the answer is nothing — if a client could swap you out on a Tuesday — you haven't built a product. You've built a service. The moat work matters.
+
+### 8. Story
+Alan Abelson wrote at Barron's from roughly 1975 to 2015 — forty years — and his column, across multiple iterations, basically said the same thing: the end is here, the market is overvalued, it's all a giant bubble. He was right eventually. He was always right eventually, in the way that predicting rain is eventually correct every time you say it. The problem is he had zero predictive ability. The market did things between his predictions that made the predictions useless.
+
+A Cassandra who calls the crash every year for forty years has a 100% hit rate on "I called it" and a 0% hit rate on "act on my advice." Being eventually right and being useful are completely different things. When evaluating any expert, the question isn't whether they've ever been correct — it's whether the timing and specificity of their calls would have helped you act.
+
+### 9. Rule of Thumb
+**Try the different seat before you remove someone from the bus** (Good to Great) — most people fired from roles were never the wrong person; they were in the wrong role. Fire last, reposition first. Save the performance conversation until you've genuinely tried the fit question.
+
+### 10. Stoic Closer
+> "It's painful for some people... it's not positive for everybody in the moment, but it has been overwhelmingly positive for 300 years." — Marc Andreessen (Lex Fridman)
+
+Progress doesn't ask for consent; it just shows up and starts rearranging the furniture.
+
+### 11. Daily Math: Regression to the Mean
+**Concept:** Confidence intervals told you how wide your uncertainty is around a sample. Today: what happens when you run the sample again. Regression to the mean says that extreme results — very high or very low — are partly luck, and the next measurement tends to be less extreme. Things drift back toward average.
+
+This is one of the most misunderstood forces in business. You have a terrible month. You panic, change everything, the next month is better. You conclude the changes worked. Maybe they did. But regression to the mean says: even if you'd done nothing, the next month probably would have improved anyway. Extreme bad tends to be followed by less bad — not because of what you did, but because that's how variation works.
+
+**Business example:** The Kiln runs outbound and has an unusually strong week — fifteen meetings booked in five days when the typical rate is four. Next week: six. Week after: five. Panic? Not warranted. That first week was almost certainly an outlier — a good batch of leads, fast decision-makers, good timing. The mean was always around four to five. The pullback was statistical, not a signal of decay.
+
+**The insight:** Sports coaches have known this without knowing the term for decades. Praise the player who had a great game — statistically they'll do slightly worse next game. Yell at the player who had a terrible game — statistically they'll do slightly better next game. Conclusion drawn: yelling works, praising backfires. Completely wrong conclusion from a completely real pattern. The regression was happening regardless of the coach.
+
+**For The Kiln:** Diagnose from trends, not individual data points. One bad week, one great week — not meaningful. Three consecutive weeks at the same level starts to matter. Five is a signal. The error is treating every regression to the mean as a response to an intervention, and every spike as repeatable performance. Neither is usually true.
+
+**Today's exercise:** Take any performance metric over the last twelve weeks. Find the highest single week and the lowest. Check what happened the week after each. If the high was followed by a drop and the low by a rise, you've just watched regression to the mean in your own data. Ask yourself honestly: did you change anything in between, or did it move on its own?
+
+### 12. Ad Craft
+**Drayton Bird:** Watch costs, but focus far more on results — you'll never remember a saving that led to a flop.
+
+The agency instinct is to cut costs on production: squeeze the photographer, find the cheaper copywriter. Then the campaign dies quietly and everyone blames the market. Meanwhile the €500 saved on the headshot sits pristine in the budget column, completely irrelevant to the failure. Bird's point is asymmetric: the upside of a great campaign dwarfs the upside of a cheaper campaign. The downside of a flop is identical regardless of how much you saved getting there.
+
+For The Kiln: don't cheap out on copy, on targeting data, on the list quality — these are the result-generating inputs. Cheap out on things that don't change results: fancy proposal decks, premium Zoom backgrounds, the second trip to the nice restaurant. Cost control is correct. Cost control applied to the wrong inputs is self-sabotage dressed as discipline.

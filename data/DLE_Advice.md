@@ -9652,3 +9652,88 @@ This is one of the most misunderstood forces in business. You have a terrible mo
 The agency instinct is to cut costs on production: squeeze the photographer, find the cheaper copywriter. Then the campaign dies quietly and everyone blames the market. Meanwhile the €500 saved on the headshot sits pristine in the budget column, completely irrelevant to the failure. Bird's point is asymmetric: the upside of a great campaign dwarfs the upside of a cheaper campaign. The downside of a flop is identical regardless of how much you saved getting there.
 
 For The Kiln: don't cheap out on copy, on targeting data, on the list quality — these are the result-generating inputs. Cheap out on things that don't change results: fancy proposal decks, premium Zoom backgrounds, the second trip to the nice restaurant. Cost control is correct. Cost control applied to the wrong inputs is self-sabotage dressed as discipline.
+---
+
+## 2026-09-26
+
+### 1. The Funny One
+> "You're just holding your breath for six months going please just stay, everyone stay fine, no one leave, no big accounts go away, please just go through." And when billables dip: "Uh, no, it's a momentary blip. It was expected. Did I not send you the updated forecast?" — Hormozi/DOAC
+
+Deploy when someone asks what running a services business actually feels like, versus what you tell investors.
+
+### 2. Business Insight
+**Marc Andreessen (Lex Fridman):** "We have 50,000 people, it's now harder to do new things than it was when we had 50 people... that's one of the reasons why there's always startups and why there's venture capital."
+
+This is the most honest thing anyone at a large company has ever said out loud. At fifty people, you pivot on a Tuesday because three people agreed at lunch. At fifty thousand, you need a working group, a subcommittee, a deck, a pre-read, a pre-pre-read meeting to align stakeholders before the main meeting where nothing gets decided. Innovation doesn't slow because smart people leave. It slows because coordination costs compound faster than headcount.
+
+For The Kiln: our advantage over every big GTM consultancy is exactly this. We can test a new outbound sequence today, see results Thursday, ship the iteration Friday. They're filing an internal RFC. Stay small on purpose until staying small stops working.
+
+### 3. Deep Line
+> "Do something you love. Most productivity tactics exist to free you to pursue core interests; if you're not spending most of your time on what you love, it's time for a change." — pmarca
+
+Every system you build — the CRM, the SOPs, the hiring process — is just scaffolding. If the building underneath is somewhere you'd rather not be, the scaffolding was a waste of materials.
+
+### 4. Thought Principle: Ground Truth Seeking
+> "He really genuinely wants to know ground truth, and he really genuinely does not want to know anything that's not ground truth... you would think that that's common... I've not found that to be common at all among people in business." — Marc Andreessen (Stripe/Songhurst)
+
+Most people in business don't want the truth. They want the truth that confirms the decision they've already made. They ask for data the way a drunk uses a lamppost: for support, not illumination. The rare person who genuinely wants to know they're wrong — even when it's expensive to know — is running circles around everyone else within five years.
+
+For The Kiln: when a client campaign isn't working, the question isn't "how do we reframe this so it looks like it's working?" The question is "what is actually happening and why?" The second question is harder. It's also the only one worth asking.
+
+### 5. New Words & Terms
+**Trajectory razor** — a person or moment that permanently redirects the course of someone's life. Not a mentor, not a lesson — a hinge. Usage: "Meeting that operator in Lisbon was my trajectory razor — six months later the agency existed."
+
+**The think harder button** — Shaan Puri's label for the long processing silence some people enter before answering a hard question. Likened to an AI entering extended reasoning mode. Usage: "He went quiet for forty seconds; I nearly filled the silence. Good thing I didn't — that was the think harder button, not checked out."
+
+**Preferential attachment (the Matthew principle)** — resources flow to those who already have them. Named after Matthew 25:29: to him who has, more will be given. In GTM: the company with fifty case studies gets the next case study. The company with zero gets a polite pass. The first proof point is worth more than all subsequent ones combined.
+
+### 6. Contrarian Take
+> Threats produce compliance but destroy commitment — lightly-reasoned persuasion creates lasting behavior, heavy pressure breeds churn. — Influence
+
+You can force someone to sign the contract. You cannot force them to renew it. Every piece of pressure you apply to close a deal is pressure you have to sustain forever, or they walk. Kiln's rule: only take clients who are choosing us, not clients we've cornered. The cornered ones are counting the days.
+
+### 7. Analogy
+John Collison, on forty to fifty percent year-over-year stablecoin growth: "You don't need that many years of 40% to 50% year-over-year growth before it really works."
+
+This is the chessboard rice problem. One grain on square one, two on square two, four on square three — by square sixty-four you've got more rice than exists on Earth. Nobody believes it. The numbers are too big to be emotionally real. Collison's point is that you don't need sixty-four squares. Ten or twelve years of forty percent growth turns a rounding error into a world-reshaping asset class.
+
+The Kiln version: compounding reputation works identically. One good case study. Two referrals. Four inbound leads. Eight warm introductions. You don't need fifty years of this. You need five. The impatience is the only real threat to the whole thing.
+
+### 8. Story
+Shaan Puri asked a twenty-one-year-old a simple question: who has the minds and hearts of young people right now?
+
+The kid didn't pause. Didn't deliberate. "Speed. Definitely Speed."
+
+Speed is a payments app. Not a social network, not a content platform — a payments app. Faster, simpler, no friction, built for the way that generation actually moves money. Not Venmo, not PayPal, not any of the incumbents who had fifteen years and every resource imaginable to get this right.
+
+The lesson: the next big thing is already obvious to the people living it. The error is assuming "the market" means people like you. It doesn't. Go ask someone ten years younger what they're actually using. Then resist the urge to explain why it won't scale.
+
+### 9. Rule of Thumb
+**"Appear weak when you are strong, and strong when you are weak."** — Sun Tzu
+
+In sales: never let a prospect see how much you need the deal. In negotiation: never reveal your actual floor. The moment you signal scarcity, they have your price. Keep the information asymmetry working for you.
+
+### 10. Stoic Closer
+> "Nearly all men can stand adversity, but if you want to test a man's character, give him power." — Abraham Lincoln
+
+Hardship reveals resilience. Power reveals everything else.
+
+### 11. Daily Math: Pareto Distribution
+**Concept:** Last episode we looked at regression to the mean — the pull toward average. Today is the opposite force: the Pareto distribution, which describes why some things don't regress to the mean at all, and instead accumulate at the extremes.
+
+The Pareto principle — eighty percent of outcomes from twenty percent of inputs — is the colloquial version. The underlying shape is a power law: a small number of entities capture a disproportionate share of the total. It's not bell-shaped. It's hockey-stick shaped. Most values cluster near zero; a tiny number of values are enormous.
+
+**Business example:** The Kiln runs outbound to fifty prospects in a month. Roughly ten reply meaningfully. Three convert to calls. One becomes a client worth eight grand ARR. The remaining forty-nine account for maybe two grand in small deals or nothing. That's Pareto in action: one account out of fifty drives eighty percent of the value. This is not an accident. It is not correctable by running better outbound. It's structural.
+
+**The insight:** In a power-law world, the correct strategy is not "improve average performance." It's "find and double down on the outliers." The average deal isn't your business. The outlier deal is your business. Everything else is noise that funds the search for the next outlier. This is why top VCs say every investment needs to be able to return the fund. Not ten investments returning three-ex — one investment returning a hundred-ex. The math works completely differently under a power law than under a normal distribution.
+
+**For The Kiln:** Not all clients are equal, and pretending they are is a resource allocation error. The client who drives outsized referrals, pays on time, gives you leverage to close others, expands scope, and keeps renewing — that client deserves ten times more attention than the client who is average on every dimension. Identify your Pareto clients. Protect them like they're the only ones you have, because in a meaningful sense they are.
+
+**Today's exercise:** Take your last twelve months of revenue. Rank every client by total value. Add up the top twenty percent and calculate their share of total. My guess is it's above seventy. That gap between what you'd expect — even distribution — and what you find — top twenty percent dominating — is the Pareto distribution, live in your own data. The exercise isn't complicated. It's just naming what's already there.
+
+### 12. Ad Craft
+**Drayton Bird:** Don't be literary — be straightforward, as if you're sitting across a table talking.
+
+The instinct when writing for a pitch or an ad is to reach for the impressive word. The one that signals you're educated, you've read things, you deserve to be taken seriously. Wrong instinct. The person on the other side doesn't need to be impressed by your vocabulary. They need to feel like you understand their problem. The gap between "leverage synergistic touchpoints across the funnel" and "get more of the right people to buy" is not a sophistication gap. It's a clarity gap. One of those sentences sounds like a consultant. The other one sounds like someone with an answer.
+
+For The Kiln: every proposal, every cold email, every landing page — write it like you're explaining it to someone smart at a pub in Lisbon who's never heard of GTM infrastructure. Not dumbed down. Just direct. If you wouldn't say it out loud, cut it.

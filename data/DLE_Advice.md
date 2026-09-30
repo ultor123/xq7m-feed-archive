@@ -10005,3 +10005,80 @@ Classic example: weather. Sunny today means a 70% chance of sun tomorrow and a 3
 Every agency website opens with a version of "we are a full-service, results-driven, passionate team of experts." The reader processes this and hears: we have no idea what keeps you up at night. The boast is about you. The customer is not thinking about you. They are thinking about their problem and the gap between where they are and where they need to be.
 
 For The Kiln: every piece of outreach, every proposal cover page, every case study headline starts with the client's problem, not our credentials. "We helped a Series B SaaS company go from zero outbound to eight qualified meetings per week in ninety days" beats "we're a GTM infrastructure agency with a proven methodology." Same underlying information. One sentence is about us. The other is about what happened to someone who looks exactly like them.
+---
+
+## 2026-09-30
+
+### 1. The Funny One
+> "Don't. If you don't have anyone on your founding team who is capable of being CEO, then sell your company — now." — Marc Andreessen, on hiring a professional CEO
+
+Deploy this energy when someone expects a 3,000-word framework and the honest answer is eleven words.
+
+### 2. Business Insight
+**Marc Benioff:** "Every CEO is a salesperson. If you can't sell your vision to employees, customers, and investors, you don't have a company — you have a hobby."
+
+The word "hobby" is doing all the work. Hobbies are fine. Nobody panics when their hobby has a bad quarter. The difference between a hobby and a company is whether other people have bought into your version of where this is going. For The Kiln: every conversation — with a client, a hire, a potential partner — is a sales conversation. The product is the vision. The proof is that you can say it out loud without checking your notes.
+
+### 3. Deep Line
+> "Keep your identity small. The more labels you have for yourself, the stupider you become on every topic that identity touches." — Paul Graham
+
+Every label you take on is a filter you can no longer see through clearly. Call yourself a "content marketer" and you'll recommend content when the client needs cold calls. Call yourself a "GTM founder" and notice how much faster you reach for the right tool.
+
+### 4. Thought Principle: The Brain Trust
+Pixar's brain trust is a room of senior creatives who watch a rough cut and give feedback — but the feedback is non-mandatory. The director has to listen and take it seriously. They don't have to implement any of it. That one rule is the whole architecture. Shaan Puri frames it as making one plus one equal three: the product gets better without the ego getting bruised, because the feedback carries no authority — only weight.
+
+For The Kiln: when reviewing a client's outbound strategy or a new campaign, build a version of this. Bring someone smart into the room, give them permission to say anything, then make it explicit upfront that you'll decide what to use. Feedback flows freely when the giver isn't responsible for the outcome.
+
+### 5. New Words & Terms
+**First article** — the first manufactured unit off a production line; it functions as the stress-test that proves and advances the rate-manufacturing technology. Jeff Bezos used this on Lex Fridman talking about Blue Origin. Usage: "Our first article was the pilot client — rough, but it forced us to build the whole system around real constraints."
+
+**The x-ray machine** — John Collison's (Stripe) term for the internet's ability to expose institutional failure. Anything mediocre gets found out now. The machine is always on. Usage: "You can't hide a bad product anymore. The x-ray machine caught it in about six weeks."
+
+**The Digital Silk Road** — China's strategy to lay AI and networking infrastructure globally, piggybacked onto its Belt and Road investment program. Marc Andreessen's framing from Lex Fridman. Usage: "If you're building infrastructure plays in Southeast Asia and not thinking about the Digital Silk Road, you're planning in the dark."
+
+### 6. Contrarian Take
+> "The web browser's the FU to the man... That's the free internet. Back the way it was in the nineties." — Marc Andreessen (Lex Fridman)
+
+The app stores, the algorithms, the walled gardens — they're all tolls. The open web is still there, unchanged, and most people have simply forgotten to use it. Run outreach, content, and sourcing outside platform-controlled environments wherever possible. The browser still obeys you.
+
+### 7. Analogy
+Andy Warhol, on mass markets: "The president drinks the same Coke as you and I." Charlie Songhurst quoted this to explain why commodity products can reach genuine scale — the product doesn't differentiate by buyer. The president's Coke isn't better. The janitor's Coke isn't worse. Same can, same taste, same price.
+
+For The Kiln: GTM infrastructure that works for a €2M ARR company should work, with minor calibration, for a €20M ARR company. Build the plays to be president-grade and sell them at every level of the market. "Enterprise GTM" and "scrappy outbound" are the same Coke. Stop repricing the can based on who's holding it.
+
+### 8. Story
+James Adamson walked into George Eastman's office at Eastman Kodak to pitch theater seating. Eastman was known to be brief with salespeople. His Rochester office had just been finished with beautiful woodwork. Adamson noticed it, genuinely admired it, and asked Eastman about it. Eastman lit up. He spent two hours walking Adamson around the room, explaining every panel, every choice, the craftsmen he'd commissioned. At the end, Eastman said: "Now, what was it you wanted to see me about?" Adamson mentioned the seating. He walked out with a $90,000 order without having pitched a word.
+
+The lesson isn't "flatter people into buying." It's that everyone has a thing they're proud of that nobody asks about. Find it. Ask about it sincerely. The sale is a side effect of the conversation.
+
+### 9. Rule of Thumb
+**Let the other person feel that the idea is theirs.** — Carnegie
+
+You're not diminishing yourself by doing this. You're accelerating adoption. A person who believes the plan was their idea will defend it, fund it, and tell other people about it. Introduce the concept, let them connect the dots, confirm their conclusion. The credit is worth less than the commitment.
+
+### 10. Stoic Closer
+> "As long as you don't quit, you win. You just have to not stop." — Hormozi/DOAC
+
+The other variables are noise.
+
+### 11. Daily Math: Kelly Criterion
+**Concept:** Last time: Markov Chains — model systems where the next state depends only on the current state, not on history. Today: the Kelly Criterion. How to size bets when you have an edge, so you don't go broke before the edge pays out.
+
+The formula: bet a fraction of your bankroll equal to **f\* = (bp − q) / b**, where b is the net odds (what you win per unit risked), p is your probability of winning, and q is your probability of losing (1 − p). You have a 60% chance of winning an even-money bet. Kelly says bet 20% of your bankroll. Not 100%. Not 5%. Twenty percent.
+
+**Why not 100%?** Because even a positive-edge bet loses sometimes. If you bet everything and lose, there's no bankroll left to let the edge compound. Kelly is the mathematically optimal fraction that maximises long-run growth without risking ruin.
+
+**Business example:** You've validated a paid ad channel with a 2:1 ROAS. You have €10,000 in budget. The naive answer is "spend it all." Kelly says: figure out your win probability per campaign cohort, figure out your odds multiple, size the bet accordingly. Most businesses either starve a working channel or blow the budget on one campaign that underperforms. Kelly is the framework for neither.
+
+**The insight:** People with a genuine edge usually lose by over-betting it. They find something that works and double down so hard they can't survive the variance. Kelly is the mathematical proof that disciplined bet sizing is not timidity — it is how you stay in the game long enough for probability to work in your favour. Half-Kelly (betting 50% of what Kelly suggests) is the practical version: you leave some growth on the table, but your drawdowns are much smaller. Most serious investors use half-Kelly for exactly this reason.
+
+**For The Kiln:** Every new GTM channel is a bet with an estimated return. Kelly says allocate budget proportionally to edge, not enthusiasm. If cold email is converting at 3x the rate of LinkedIn outreach, your budget should reflect that ratio — but not go to 100% cold email, because channel concentration ruins you when the channel shifts. Diversify not by instinct but by edge and variance.
+
+**Today's exercise:** Pick two channels you're currently running or considering for a client. Estimate the probability each delivers a positive return in the next 90 days — be honest. Estimate the multiple: if it works, what does it return per euro in? Plug those numbers into the Kelly formula. Is your current budget allocation roughly Kelly-optimal? If not, which direction is it off — over-bet or under-bet?
+
+### 12. Ad Craft
+**Richard Shotton:** Run scarcity ads inside romantic content; run social-proof ads inside horror or news. The media context should reinforce the bias, not fight it.
+
+People watching a romance are primed for aspiration and desire — scarcity messaging ("only three left," "limited run") lands in that emotional register and amplifies the pull. People watching horror or scrolling news are already anxious, already scanning for what others are doing — social proof ("ten thousand customers trust us") reads as a safety signal. The bias was already loaded. The ad just fires it.
+
+For The Kiln: when running paid for clients, don't just pick demographic targeting. Pick the content adjacency. A tool being sold on scarcity should appear where the reader is already in a forward-leaning, I-want-that headspace. A product running on social proof should appear where the reader is uncertain and looking to the crowd for guidance. Most media buys optimise for reach. Shotton says: optimise for the emotional state your ad requires.

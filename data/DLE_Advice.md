@@ -10082,3 +10082,86 @@ The formula: bet a fraction of your bankroll equal to **f\* = (bp − q) / b**, 
 People watching a romance are primed for aspiration and desire — scarcity messaging ("only three left," "limited run") lands in that emotional register and amplifies the pull. People watching horror or scrolling news are already anxious, already scanning for what others are doing — social proof ("ten thousand customers trust us") reads as a safety signal. The bias was already loaded. The ad just fires it.
 
 For The Kiln: when running paid for clients, don't just pick demographic targeting. Pick the content adjacency. A tool being sold on scarcity should appear where the reader is already in a forward-leaning, I-want-that headspace. A product running on social proof should appear where the reader is uncertain and looking to the crowd for guidance. Most media buys optimise for reach. Shotton says: optimise for the emotional state your ad requires.
+---
+
+I'll write today's DLE episode based on the selected material, then save a project memory.
+
+## 2026-10-01
+
+### 1. The Funny One
+> "When comedians get too rich, they fall off a cliff because they don't have relatable jokes anymore because their life is completely unrelatable at this point." — Shaan Puri
+
+Deploy when a founder starts explaining their "multiple revenue verticals" to a room that's still figuring out how to make one thing work.
+
+### 2. Business Insight
+**Innovator's Solution:** The best disruption target is nonconsumption — nobody is defending it, and the customer is thrilled with something merely adequate.
+
+The incumbent is busy charging premium prices to demanding customers who keep asking for more. Meanwhile, the person who was never being served at all — couldn't afford it, couldn't access it, lacked the skill to use the existing product — is just sitting there, undefended. You don't beat a category leader by punching them in the face. You find the customer they don't care about and you serve them well enough that, over time, you've built a base to come upmarket.
+
+For The Kiln: most GTM agencies go after funded Series A companies with existing sales teams. The nonconsumption play is the founder still doing outbound from a spreadsheet. They've never had a proper GTM motion. They're not comparing you to a competitor — they're comparing you to a worse version of themselves at 11pm on a Sunday. That's a very winnable comparison.
+
+### 3. Deep Line
+> "Most people don't want to rock the boat. Most people don't want to be the skunk at the garden party. Most people don't want to call their own baby ugly. Most people don't want the reputation of being a troublemaker." — Marc Andreessen
+
+The person willing to say the true inconvenient thing in the room has a permanent asymmetric advantage. Everyone else is playing reputation defence. They're playing the actual game.
+
+### 4. Thought Principle: The Deflationary/Inflationary Split
+Software eats price. Government inflates it.
+
+Marc's observation: everything electronic, everything software, everything media is getting relentlessly cheaper — because competition, iteration, and no gatekeepers. Everything where government restricts supply — housing, education, healthcare — is getting relentlessly more expensive, because zoning boards, accreditation bodies, and regulatory capture. Same economy. Opposite trajectories.
+
+For The Kiln: GTM infrastructure is firmly in the deflationary bucket. The tools are dropping in cost every six months. Clients still pay consultants as if it's 2018. That gap between what it costs us to produce the outcome and what the client will pay for it is widening in our favour. Price the value delivered, not the hours logged.
+
+### 5. New Words & Terms
+**Formlessness** — from The 48 Laws of Power: staying adaptive and fluid, refusing to take a fixed shape that gives opponents something to target. The moment you commit to a rigid form, you can be countered. Usage: "We don't have a single productised offering yet — that's not indecision, that's formlessness. We're waiting to see which client profile converts three times better than the others, then we'll harden around that."
+
+**Bourgeois capitalists** — Marc Andreessen's term for hands-on, owner-operator industrialists: Ford, Carnegie, Rockefeller, Vanderbilt. People who built the thing, ran the thing, owned the thing. He uses it to explain Elon. Usage: "He's not a manager floating above the org. He's a bourgeois capitalist. He's in the factory."
+
+**Computer industry V2** — AI as the first fundamental reinvention of computing in 80 years, from Von Neumann architecture (logic gates, sequential processing) to neural networks (learned weights, probabilistic output). Usage: "Clients are still treating this like a productivity tool. It's Computer Industry V2. They're standing in front of the mainframe in 1970 asking if it'll help them file invoices faster."
+
+### 6. Contrarian Take
+> "His better for you isn't in the ingredients, it's in the business practices... we don't use child labor in the cocoa farms." — Shaan Puri on MrBeast chocolate
+
+The "better for you" frame has been owned by nutritionists for decades. MrBeast blew the definition open: better for you can mean better supply chain ethics, better treatment of workers three links upstream. The honest counter — will it change purchasing decisions — is real, and still unresolved. For The Kiln: same move. "Better GTM" doesn't have to mean more raw leads. It can mean cleaner data, less sales-rep burnout, fewer cold emails that damage the brand you're trying to build. Reframe what "better" means before the client's existing frame locks you into a volume conversation you don't want.
+
+### 7. Analogy
+Marc Andreessen on AI data-centre buildout: fibre optic cable was laid in the late nineties in enormous quantities, sat largely unused for 15 years, and "in the meantime, much like luxury hotels, it traded hands three times." The infrastructure didn't disappear — it just got repriced at distressed valuations until demand finally caught up. Then whoever bought it cheap at year ten looked like a genius.
+
+AI compute is following the same script. Capacity being built right now looks insane relative to current demand. That's the pattern. For The Kiln: tools that look overpowered for what clients are ready for today — AI-native CRMs, autonomous outbound sequences — are worth getting reps on now, while they're cheap to learn. By the time the average client is ready to deploy them, we'll have two years of operational experience they can't fake their way into.
+
+### 8. Story
+Jeff Bezos's father filmed a tour of the early Amazon office. Orange extension cord on the floor. A CRT monitor. The whole thing looks like a side project that got out of hand at a garage sale.
+
+Bezos told early investors he thought there was a **30% chance of success**. Not founder bravado. Not "this is definitely working." Thirty percent. And he did it anyway, because the expected value of the upside — multiplied by the probability — was still worth the cost of it not working. The specificity of 30% is the interesting thing. He'd done the math. He wasn't certain; he was calibrated.
+
+The lesson: the most important founder trait isn't certainty. It's willingness to act on asymmetric upside when you've only got a coin-flip-and-a-bit on your side. Most people wait for 90% confidence. By then someone else has the orange extension cord and a warehouse in Seattle.
+
+### 9. Rule of Thumb
+**Have a disciplined mechanical process for the pace of investment and for the pace of exits, and don't deviate from it.** (Fred Wilson, via Marc Andreessen)
+
+Rules that only hold when you're calm are preferences, not rules. The point of a mechanical process is that it applies when you're excited about a deal and when you're panicking about a slow month. For The Kiln: set the criteria for doubling down on a channel, and the criteria for killing one, before you have results you're emotionally attached to.
+
+### 10. Stoic Closer
+> "Something that basically is infinitely patient and knows everything about you and is pulling for you in every possible way, wants you to be successful." — Marc Andreessen
+
+Most people have never had a single person in their corner who was fully, unconditionally, tiredly on their side — and we're now building tools that approximate that, for everyone, at cost.
+
+### 11. Daily Math: Expected Value
+**Concept:** Yesterday completed the first full curriculum pass with Kelly Criterion. Today we restart from the foundation everything else is built on: Expected Value.
+
+Expected Value is the probability-weighted average of all possible outcomes. The formula: **EV = Σ (probability × outcome)**. If there's a 60% chance you make €1,000 and a 40% chance you lose €500, then EV = (0.6 × €1,000) + (0.4 × −€500) = €600 − €200 = **€400**. Positive. Do it.
+
+**Business example:** A cold email campaign costs €2,000 to produce and run. You estimate a 5% conversion rate on a segment with €8,000 average deal value. EV = (0.05 × €8,000) − €2,000 = €400 − €2,000 = **−€1,600**. Negative. Don't send it — or change one variable. Double the conversion rate by better targeting. Increase deal size by going upmarket. The formula tells you which lever matters most before you spend anything.
+
+**The insight:** Most business decisions get made on vibes, precedent, or peer pressure. EV forces you to make your assumptions explicit. The moment you write down your probability estimate — "I think this has a 15% shot" — someone in the room will disagree. That argument is where the thinking actually happens. The number is almost never the point. Surfacing the hidden disagreement is.
+
+**For The Kiln:** Every new service, every new outbound channel, every new market segment is an EV calculation. Revenue if it works, times probability it works, minus cost of the experiment. If EV is positive, run it. If it's negative, ask whether the learning itself has a value worth paying for — and then make that implicit value explicit so you're deciding, not drifting.
+
+**Today's exercise:** Pick one sales or marketing bet you're running this month. Write down: what does success look like in euros? What probability do you honestly give it — not the one you'd say to a client, the one you'd say at midnight? What does it cost in time and money? Calculate EV. Is it positive? If not, which variable flip is most achievable — and is that flip actually realistic, or are you fudging the math to justify what you already want to do?
+
+### 12. Ad Craft
+**Richard Shotton:** Anderson and Simester found a $39 dress outsold both the $44 version and the $34 version. The nine does two distinct jobs. First, left-digit anchoring — 39 feels much cheaper than 40, not just one dollar cheaper. Second, the nine signals bargain: it tells a story about a reduction from something higher, that the buyer is landing at a deal.
+
+The $34 dress should have won on pure price. It didn't, because buyers read it as either too cheap (a quality-signal problem) or arbitrary. $39 implies a markdown. It implies someone calculated this down from somewhere. That narrative is worth more than the extra five dollars in the buyer's pocket.
+
+For The Kiln: on proposals where the client is price-sensitive and comparing options, €4,990/mo reads differently from €5,000/mo — not because of the ten euros, but because of the deal-signal it sends. For premium anchor prices, where you want the client to feel they're buying quality with no apology, go clean round numbers. €10,000 says "we know what we're worth." €9,990 says "we took something off." Different story. Different client.

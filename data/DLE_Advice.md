@@ -10611,3 +10611,92 @@ The shortcut that sounds like a breakthrough is usually a well-marketed detour.
 Your brain automatically transfers the credibility of the container onto the content inside. This isn't a manipulation trick — it's physics. Context is part of the message. A case study in a trade publication your buyers already trust lands differently than the identical case study on your own website. A cold email that references a mutual connection reads differently than the same words from a stranger.
 
 For The Kiln: where you say a thing matters as much as what you say. Get into the publications, podcasts, and Slack communities your ICP already believes in. The credibility transfer is real, it's measurable by Shotton's own numbers, and it's mostly free. Same claim, better frame, different result.
+---
+
+I'll write today's DLE episode for 2026-10-07, continuing the math curriculum with Pareto Distribution (next after Regression to the Mean).
+
+## 2026-10-07
+
+### 1. The Funny One
+> "Turns out that wish came, wishes do come true. He got a lot more than a penny." — Shaan Puri
+
+Deploy when recounting someone's early, laughably small bet that turned into a life-altering number — the gap between what they asked for and what they got is the whole joke.
+
+### 2. Business Insight
+**Marc Andreessen (Stripe/Songhurst):** The employment decisions of graduating Harvard and Stanford Business School students are possibly the best indicator of what's happening in the market — tech-heavy cohort means the market's overblown; banking-and-consulting-heavy cohort means it's actually a good time to make VC investments.
+
+MBA students are information-arbitrage machines. They track compensation, prestige, and momentum obsessively, then pile into whatever looks most lucrative right now. So when everyone's heading to Stripe or OpenAI, valuations are at the top. When Goldman is suddenly cool again, early-stage assets are cheap and patient capital wins.
+
+For The Kiln: when ambitious 26-year-olds start flooding into "GTM AI" roles at scale-ups, that's your signal the space is crowded and commoditising. When they go back to consultancies, the operator-level work you do gets scarcer and more valuable. Know which phase you're in.
+
+### 3. Deep Line
+> "There are just too many examples of too many things that go wrong, for any institution, for them to retain their credibility." — Marc Andreessen (Stripe/Songhurst)
+
+Not nihilism — realism. Institutions are made of humans, and humans at scale optimise for self-preservation first, output second. The credibility you inherited from them was mostly earned under conditions that no longer exist, by people who are no longer there.
+
+### 4. Thought Principle: RPV
+Resources, Processes, Values — Christensen's framework from *The Innovator's Dilemma*. What an organisation can do is bounded by what it has (resources), how it actually operates (processes), and what margins it will accept (values). Resources are visible and flexible. The other two calcify quietly.
+
+The trap: a company that built its processes around enterprise contracts literally cannot serve SMBs well — not for lack of will, but because every decision-making instinct in the organisation rejects the margin profile. The body rejects the transplant.
+
+For The Kiln: your processes and values are still soft clay. Every client you take shapes them. Take misaligned clients long enough and you'll find you "can't" take the right ones — not because you lack the skills, but because your organism has optimised itself for something else.
+
+### 5. New Words & Terms
+**Finger and thumb on the scale** — weighted interference dressed up as neutral behaviour. "He put his finger on the scale and his thumb on the scale to tilt, to be competitive with other products." (Shaan Puri) Use it for any platform or market actor claiming neutrality while quietly tilting the game — algorithms, referral networks, search rankings.
+
+**Residues** — the constant, non-logical human drives underneath any stated belief: group loyalty, self-preservation, conformity. From the Machiavellians. The insight: people don't update their residues when you give them better arguments. They just find new arguments to justify the same drives. You're not fighting the logic — you're fighting what's underneath it.
+
+**Restraining bolts / jailbreak** — the policy-layer limiters built into LLMs that suppress outputs the developer won't ship. "It removes the censorship quote unquote." (Marc Andreessen, Lex Fridman) Useful shorthand for any system where the gap isn't capability — it's permission. The thing can do it. Someone decided not to let it.
+
+### 6. Contrarian Take
+> "Competition is not healthy — it's destructive." — Peter Thiel, *Zero to One*
+
+Competition destroys margins, forces commodity positioning, and burns your attention on what rivals are doing instead of what customers actually need. If you're competing hard, you've probably already lost the high ground — you're fighting over a piece of ground someone else defined. For The Kiln: "GTM infrastructure" is the attempt at a category you own. Stop explaining it to people and start making them say it back to you.
+
+### 7. Analogy
+> "In a great market, the market pulls product out of the startup." — pmarca
+
+This is the difference between pushing a boulder uphill and surfing a wave. Bad market: you spend the call convincing someone they have a problem, then convincing them your solution works, then convincing them the price is reasonable. Great market: they arrive knowing they have a problem, half-sold before you open your mouth, asking you which plan they should start on.
+
+For The Kiln: with every company currently trying to figure out what AI does to their sales motion, GTM infrastructure has pull. The move is not to explain the category — it's to let prospects explain their version of the problem back to you and then confirm you're the answer they already suspected existed.
+
+### 8. Story
+Benjamin Franklin needed the vote of Isaac Norris, a man who openly disliked him. Franklin didn't flatter him. Didn't confront the hostility. Didn't apologise. He wrote a short note asking to borrow a rare book from Norris's personal library — something scarce, something Norris was known for having.
+
+Norris lent it. Franklin returned it promptly with a brief thank-you.
+
+Next time they met, Norris was warm. He ended up a Franklin ally.
+
+The mechanism: asking someone for a favour makes them feel competent and generous. It flatters the vanity without the awkwardness of a direct compliment. And the mind doesn't like to hold hostility toward someone it has already helped — so it quietly updates.
+
+Franklin didn't change Norris's mind. He changed the behaviour first, and the mind followed.
+
+For The Kiln: when a prospect is cold, don't pitch harder. Ask for something small and specific — their read on a trend in their space, an introduction to someone they'd plausibly know. Let them be the expert for 90 seconds. Cold leads have warmed on less.
+
+### 9. Rule of Thumb
+**Don't try to think of startup ideas — look for problems you already have yourself.** — Paul Graham
+
+The brain trying to "ideate" produces things that sound like businesses. The brain noticing friction produces things that are businesses. For The Kiln: when scoping new service lines, don't brainstorm — track the workarounds you're already running for clients and charge for those first. The product is already there. It's just called a favour.
+
+### 10. Stoic Closer
+> "You need to be brutally honest with respect to what your actual issues are." — Marc Andreessen (Stripe/Songhurst)
+
+The story you tell yourself about why things are hard is almost always slightly wrong in the direction that protects your ego.
+
+### 11. Daily Math: Pareto Distribution
+**Concept:** The normal distribution puts most values near the middle, tails symmetric on each side. The Pareto distribution doesn't. It's heavy-tailed and skewed — a small number of inputs produce a large proportion of outputs. The 80/20 rule is a loose approximation: 80% of outcomes from 20% of causes. But real-world Pareto distributions are often more extreme: 95/5, or 99/1. The tail is longer than you expect and the head is more concentrated than you're comfortable admitting.
+
+**Business example:** In most B2B businesses, the top 20% of clients generate 80% of revenue. But the top 5% of clients often account for closer to 50% — and they require roughly the same relationship overhead as a client worth a fifth as much. The implication isn't "fire small clients." It's that your attention is a fixed resource being distributed across a wildly non-uniform distribution of value.
+
+**The insight:** Normal distribution thinking makes you manage the average — average deal size, average churn, average CAC. Pareto thinking makes you obsess over the tail. Who are your top three clients? What made them possible? What specific sequence of events produced them? The best outcomes don't come from doing the average thing more consistently. They come from identifying the tail and figuring out how to fish there deliberately.
+
+**For The Kiln:** At €20k/month targeting €100k, you are not going to average your way there. You need two or three clients worth 10x your current median. That's a Pareto move, not an averaging move. The question is: which of your current activities even touches clients at that scale? If the answer is "not many," that's not a growth problem. That's a Pareto problem with a growth-problem costume on.
+
+**Today's exercise:** List every revenue source from the last six months — client by client, project by project. Rank by total value. Draw a line at 80% of total revenue. How many clients sit above it? What do they have in common that the ones below don't — industry, company size, how they found you, what they hired you for? If you could only speak to clients above that line for the next 90 days, what would change about your pitch, your outreach, your positioning? Write one thing that would change. Then ask yourself why it isn't already the default.
+
+### 12. Ad Craft
+**Drayton Bird:** The same appeals work everywhere — nations are united more by their similarities than divided by their differences.
+
+The surface read: don't over-localise your copy. The deeper read: human motivators don't have national borders. Status, fear, belonging, vanity, the desire to be seen as the person who spotted the right thing first — these run in every market. A Lisbon SMB owner and a Chicago VP of Sales eat different lunches and drink different things, but they both fear looking stupid in front of their stakeholders, and they both want credit for a smart call.
+
+For The Kiln: if your copy is working in one market, don't rewrite it from scratch for another. Test the same core appeal with surface localisation only. The insight that lands in a Dublin pitch lands in London and Lisbon too — because the residue underneath is the same. You're not translating the message. You're translating the furniture around it.

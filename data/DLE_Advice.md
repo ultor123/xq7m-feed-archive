@@ -10775,3 +10775,76 @@ High standards without support is just pressure; high standards with support is 
 **Anchoring (Tversky & Kahneman):** Participants were shown a wheel of fortune spin that was rigged to land on either 10 or 65 — completely at random, completely unrelated to the task. Then asked: what percentage of UN member states are African? The group that saw 65 guessed 45%. The group that saw 10 guessed 25%. The wheel had zero informational content. It was noise. Didn't matter. The first number in the room colonised every estimate that followed.
 
 For The Kiln: the first number in your proposal anchors the whole conversation. Open with €5k/month and you are now negotiating upward from €5k. Open with €30k/month and work down, and you're negotiating downward from €30k — which is a very different place to land. This isn't manipulation. It is just how human cognition handles numerical reference points, and pretending otherwise doesn't make you more ethical, it just makes you worse at pricing. Highest-value tier goes first. Always. Let the anchor do its job before you say another word.
+---
+
+Let me check the repo structure to find where previous episodes are saved before writing today's.
+
+## 2026-10-09
+
+### 1. The Funny One
+> "So the standard Google search result is just 10 blue links to the random websites. And they turn purple when you visit them." "Guess who picked those colors?" (both laugh) "I'm touchy on this topic." — Marc Andreessen (Lex Fridman)
+
+Deploy this when someone casually claims credit for your decision in front of the room and expects you not to notice.
+
+### 2. Business Insight
+**Shaan Puri:** "I had to learn how to like communicate upwards... How do I simplify? How do I speak the language that they're trying to understand in order to do this well?"
+
+Talking to a CEO is not the same as talking to their analyst. The analyst wants completeness; the CEO wants one number and one ask. Show up with five slides of supporting data before you've named the problem and you've lost them. For The Kiln: every intro call with a founder or CEO, the first thing out of your mouth is the one-sentence problem and the one-sentence fix. Data comes after permission, not before.
+
+### 3. Deep Line
+> "Large language models in their current form are not inventions, they're discoveries... We're constantly getting surprised by their capabilities." — Jeff Bezos (Lex Fridman)
+
+Inventions you design and control; discoveries you find and don't fully understand yet. If Bezos is right, nobody — not OpenAI, not Anthropic, not your most-online AI contact — actually knows what these things will do next. That's either terrifying or the most interesting thing happening in any industry right now.
+
+### 4. Thought Principle: Day 1
+> "Day two is stasis followed by irrelevance, followed by excruciating painful decline, followed by death. And that is why it's always day one." — Jeff Bezos (Lex Fridman)
+
+Day 1 isn't a motivation poster. It's an operating system: treat every process, product decision, and client relationship as if you're still proving yourself, because the moment you stop you're already in Day 2 and don't know it yet. For The Kiln at €20k/month heading to €100k, the processes that got you here are temporary scaffolding, not infrastructure. Keep pulling them apart and rebuilding.
+
+### 5. New Words & Terms
+**Strategic incompetence** — Deliberately botching a task the first time so you're never assigned it again, conserving your best energy for what actually matters. Usage: if you want to stop being the person who books the meeting room, be catastrophically bad at it once.
+
+**Definite optimist** — Someone who has a specific plan and executes it, versus an indefinite optimist who just expects things to improve somehow. Thiel's point: most "optimists" are indefinite — they expect a good outcome without doing the work of designing one. Definite optimists build blueprints; indefinite optimists just hope the weather clears.
+
+**Permissionless leverage** — Code and media that work for you while you sleep, deployed without asking anyone's approval. Naval's point: old leverage (labour, capital) required permission from someone more powerful; the new leverage doesn't. A blog post, a piece of software, a video — they scale without a boss cosigning each unit of output.
+
+### 6. Contrarian Take
+> "The #1 company-killer is lack of market." — Rachleff's Law (pmarca)
+
+Not bad founders, not insufficient capital, not poor execution — lack of market. This tells you where to spend your paranoia. Before you optimise anything at The Kiln, the question is: is the market actually there? GTM infrastructure for scaling companies — real, paying, pulling market, or are you pushing rope? The evidence so far says yes. Keep checking.
+
+### 7. Analogy
+Shaan Puri, relaying Palmer Luckey on the defense/tech gap: "At some point, the slope of their line will cross over the lead that we have."
+
+Think of it as a race where you're ahead but running slower than the person behind you. You might be winning right now; you're definitely losing eventually. The danger isn't where the lines are today — it's which direction they're both moving. For The Kiln: competitors aren't at your capability level today. But if you stop improving and they don't, the lines cross. Doesn't matter who was ahead on day one.
+
+### 8. Story
+Jeff Bezos on the first crewed New Shepard flight with his brother Mark. They trained together, suited up together, flew together in the same experimental rocket. Before leaving, they told their mother. Her reaction to learning both her sons were getting in: *"She's like, 'both of you?'"*
+
+The lesson isn't about courage. It's that the people who love you see the risk more clearly than you do — because they're calculating loss, not upside. That doesn't mean don't get in the rocket. It means your optimism is not universal, and the people around you may need a different conversation than the one running in your head.
+
+### 9. Rule of Thumb
+**Positive selection + ruthless firing (Marc Andreessen):** the best engineers want to work for a CEO who can be their peer on the technology — and anyone who can't cut it gets fired.
+
+Two parts, both required. You attract the best by being genuinely capable, not just by paying well. And once they're in, one person who can't cut it poisons the bar for everyone who can — so the firing has to be fast. For The Kiln: you need to speak the language of the people you hire and the clients you serve. If you can't, that's the gap to close first.
+
+### 10. Stoic Closer
+> "I can't go on. I'll go on." — Samuel Beckett
+
+The whole thing in six words. No drama, no resolution, just continuation.
+
+### 11. Daily Math: Monte Carlo
+**Concept:** Monte Carlo simulation is what you do when the math gets too complicated to solve directly — so instead, you run thousands of random scenarios and look at the distribution of outcomes. The name comes from the casino in Monaco: if you don't know the exact formula, just play the game many times and see what happens. You're not predicting one future; you're generating ten thousand possible futures, each with slightly different inputs, and asking: where does it cluster? How bad is the worst 10%?
+
+**Business example:** You want to forecast The Kiln's revenue in Q1 2027. You don't know exactly how many clients you'll close, what size they'll be, or how long they'll stick — but you have ranges. Say: two to six new clients, ticket sizes between €3k and €12k/month, churn between 5% and 15% per quarter. Instead of picking one number from those ranges and calling it your forecast — which is just one arbitrarily selected future — you run the simulation. Generate ten thousand random draws from those ranges. The median output is your central estimate. The 10th percentile is your downside case. The 90th percentile is what a genuinely good quarter looks like. Now you have a forecast that tells you something about the *shape* of the future, not just a single dot you'll definitely be wrong about.
+
+**The insight:** Most business forecasts are fake precision. Someone picks a number, it looks like a prediction, and everyone treats it as a plan. Monte Carlo forces you to acknowledge that your inputs are uncertain — and that's not a weakness, it's honesty. A range is more useful than a dot because it tells you how confident to be and where the real risk lives.
+
+**For The Kiln:** You don't need simulation software. Spreadsheet, three columns: pessimistic inputs, base inputs, optimistic inputs. Run all three. The gap between pessimistic and optimistic output is your uncertainty budget. If the gap is enormous, you don't have a forecast — you have a wish and a nightmare sitting next to each other. Narrow the inputs (more data, more sales activity) and the gap closes.
+
+**Today's exercise:** Take your Q1 2027 revenue projection. Identify the three inputs that move the number most — new clients, average contract value, churn rate. Give each a low, middle, and high. Calculate revenue for all-lows, all-middles, all-highs. Is the downside survivable? Is the upside worth the effort? Those two questions will tell you more than any single-number forecast.
+
+### 12. Ad Craft
+**Drayton Bird:** Sell the benefit (money), not the negative scary thought (hospital costs).
+
+Fear-based copy: "What if you can't pay your hospital bills?" Benefit-based copy: "Keep €10,000 in your pocket, no matter what happens." Same product, same protection, completely different emotional register. Fear gets attention but creates avoidance — people don't want to sit with the scary thing, so they close the tab. Benefit gets attention and creates desire — people *do* want to think about the money. For The Kiln: every service description opens with what the client gains ("you close more deals, faster") not what they're currently losing ("you're leaving revenue on the table"). The second framing implies they've been doing it wrong. The first implies you're about to make them better. Same truth. Very different room temperature.

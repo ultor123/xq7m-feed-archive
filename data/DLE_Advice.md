@@ -11057,3 +11057,76 @@ The crowd is always earliest to the obvious play and latest to the durable one.
 **Drayton Bird:** Never acquire accounts through bribery — what comes through corruption goes the same way.
 
 The practical version: any client relationship that started bent will end on bent terms, on someone else's timetable, when you can least afford it. The client who was bought is always available to be bought again. Win on thinking, on results, on trust. Integrity in new business isn't a moral posture — it's a retention strategy.
+---
+
+## 2026-10-13
+
+### 1. The Funny One
+> "By a slim margin, Pizza Hut wins customer preference over Domino's." — Amazon Letters to Shareholders (2013), on the 109 Mayday button calls requesting pizza delivery; the same button received 35 marriage proposals and 475 requests to speak with TV personality Amy.
+
+Deploy this when a client insists their product's support channel is "purely transactional" — users will always find a use case you didn't design for, and it usually involves pizza or romance.
+
+### 2. Business Insight
+**Hormozi/DOAC:** "People are using AI in the wrong places. They're trying to start AI businesses when they shouldn't start AI businesses. They should use AI in their business."
+
+Building an "AI company" right now is like announcing you started a "spreadsheet company" in 1985. The tool is the edge inside the business, not the business itself. At The Kiln, the pitch is never "AI-powered GTM." The pitch is: we run GTM infrastructure faster, tighter, and cheaper than any in-house team could, and AI is how the engine works. The business is GTM. AI is the room where the boiler lives.
+
+### 3. Deep Line
+> "we live in a world today that in many ways is more advanced and moral... But we live in a world that's like very washed out... everything has become very colorless and gray as compared to how people used to experience things. Which is I think why we're so prone to reach for drama." — Marc Andreessen (Lex Fridman)
+
+The human nervous system was calibrated for genuine stakes — famine, raids, real consequence — and now it's running in a climate-controlled office with a standing desk and oat milk. The client who turns a delayed deliverable into an existential crisis isn't irrational; they're just running old hardware on a very boring new map.
+
+### 4. Thought Principle: One-Way vs Two-Way Doors
+**Jeff Bezos (Lex Fridman):** "Some decisions are so consequential and so hard to reverse that they really are one-way door decisions... Most decisions are two-way doors."
+
+The practical translation: before any decision, ask one question — if this turns out to be wrong, can I walk back through? If yes, move fast, decide now, fix it later. If no, slow down, involve the room, think twice. Most people treat everything like poured concrete; the result is a company that moves like poured concrete. At The Kiln, retainer structure, messaging angle, outreach channel — two-way doors, decide and iterate. Who you hire, which clients you go deep with — those are closer to one-way. Know which door you're standing at before you push through.
+
+### 5. New Words & Terms
+**Bourgeois capitalism vs. managerialism** — James Burnham's two modes of business organization, via Andreessen. Bourgeois capitalism: owners run their own companies, skin in the game, decisions flow from stake. Managerialism: professional managers run companies they don't own; optimization drifts from value creation toward self-preservation and process theater. Usage: "The client's procurement process is pure managerialism — twelve sign-offs, none of them with skin in the game."
+
+**Computer industry V2** — Andreessen's frame (Stripe/Songhurst): AI is the first reinvention of computing in eighty years, the shift from Von Neumann architecture — sequential processing, explicit instructions — to neural networks that learn by pattern. Usage: "We're not just automating tasks. We're in Computer industry V2. The underlying machine changed."
+
+**Bonapartism** — A mode of rule where a leader claims to so fully embody the general will of the people that democratic objection becomes logically impossible; any opposition is by definition against the people themselves. From the Machiavellians. Usage: "His company culture is full Bonapartism — challenge the founder and you're against the mission itself."
+
+### 6. Contrarian Take
+> Strategy doesn't separate good from great — both sets had good strategies; the difference was deeper understanding and disciplined execution. — Good to Great
+
+Everyone in the room has read the same books. They can all articulate a defensible strategy; the deck looks sharp, the framework is coherent, the logic holds. The strategy is not the variable. At The Kiln, the pitch is never "we have a better strategy than your last agency." It's "we execute at a standard that makes the strategy actually happen." That's a harder thing to promise and a harder thing to fake.
+
+### 7. Analogy
+Balcha of Sidamo on Haile Selassie, before Selassie outmaneuvered him completely: "Do not underestimate the power of Tafari. He creeps like a mouse but he has jaws like a lion." (The 48 Laws of Power)
+
+Selassie came up deferential, patient, apparently harmless — and systematically dismantled every louder rival until he was Emperor of Ethiopia. The men who announced themselves loudest lost first. The one who moved like he had all the time in the world won everything.
+
+For The Kiln: the loudest agency in the pitch room rarely wins the best clients. The best clients are bought on evidence, not performance. Show up consistently, deliver exactly what you said you'd deliver, never oversell the room. Be Tafari. Let the jaws announce themselves when it actually counts.
+
+### 8. Story
+Alex Hormozi, in college, bought a lottery ticket on a Super Bowl-adjacent promotion — something like a billion dollars in prize money. He sat with the ticket and felt, his own word, sheer terror at the thought of winning. Not excitement. Terror. Because if the ticket came in, he'd never know whether he actually had it in him. The money would arrive before he'd earned the right to it, and the question he was actually trying to answer — do I have the mettle? — would be permanently closed.
+
+The lesson isn't that he's weird, though he might be. The lesson is that what he was actually playing for was proof of capability, and a random billion-dollar windfall would have disqualified him from the game. Revenue is a scoreboard. The game is finding out what you're made of. For The Kiln: know which one you're actually after. They pull in the same direction until they don't.
+
+### 9. Rule of Thumb
+**"Only bring me a problem if you're also bringing me the solution." — Marc Andreessen (Stripe/Songhurst)**
+
+This isn't just a management line — it's a thinking discipline in disguise. Being forced to generate a solution before you're allowed to surface the problem is what separates reactive from strategic. At The Kiln, any team member who flags a client issue gets one question back: "and what do we do about it?" If they haven't thought about it, they go think about it first. The problem without a solution is noise; the problem with an attempted solution is how the team gets smarter over time.
+
+### 10. Stoic Closer
+> "It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult." — Seneca, Philosophy Soundbites
+
+The difficulty isn't upstream of the action — it's manufactured by the delay.
+
+### 11. Daily Math: Bayes' Theorem
+**Concept:** Bayes' Theorem is how you update beliefs when new evidence arrives. The formula: P(A|B) = [P(B|A) × P(A)] / P(B). In plain English: the probability your belief is correct given new evidence equals how likely you were to see that evidence if you were right, times how confident you already were, divided by how likely you were to see that evidence regardless. You start with a prior — your best estimate before new information — and you revise it as evidence comes in. That's it. The math is just the formal version of a move your brain should already be making.
+
+**Business example:** The Kiln has a new prospect who booked a discovery call. Historically, thirty percent of people who book discovery calls become clients — that's the prior, P(client) = 0.30. Now you learn this prospect replied to two cold emails before booking. Historically, prospects who engage twice before booking convert at sixty percent. New evidence arrives; your estimate should move from thirty to sixty percent. You don't need to run exact algebra on every call. The discipline is just: each new signal should shift your number, not sit unprocessed.
+
+**The insight:** Most people form a view once — "cold outreach doesn't work," "enterprise clients take six months to close," "this founder type never buys" — and they don't update it when contradicting evidence walks through the door. Bayes makes the update mandatory. A prospect who asks about contract length in the first five minutes of a call is signalling something. A client who copies their CFO on email two is signalling something. These aren't vibes — they're evidence that should move your estimate. Ignore them and you're running on a prior that's months stale.
+
+**For The Kiln:** Build a short signal list for prospect discovery calls. Start with the prior conversion rate. Identify the signals that reliably shift it up — two-touch engagement before the call, a specific budget number mentioned, a competitor named — and the signals that shift it down. Use this to score your pipeline with actual evidence instead of gut feel from the intro five minutes. The call where you update your estimate is the call where you're actually paying attention.
+
+**Today's exercise:** Pick one belief about your sales process — a conversion rate, a client type, a channel. State your prior. Now: what evidence arrived in the last thirty days that should have shifted that number? Did you actually update, or did you leave the prior sitting there, untouched, like it's still valid? That gap is where bad forecasting lives.
+
+### 12. Ad Craft
+**Drayton Bird:** Make it sound easy — don't say the buyer must learn to type; say the course has them typing in thirty days.
+
+The instinct is to be honest about the effort involved. Resist it — not by lying, but by translating effort into outcome. Buyers don't buy process; they buy the result of process. "You'll need to invest six hours a week learning GTM fundamentals" becomes "your team will be running qualified outbound in thirty days." Same reality, completely different emotional math. For The Kiln: go through every deliverable description and rewrite each one to describe what the client gets, not what you do to produce it. Nobody pays for work. They pay for what the work creates.

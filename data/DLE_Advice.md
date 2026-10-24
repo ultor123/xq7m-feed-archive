@@ -11884,3 +11884,84 @@ Classic example: sixty percent chance of winning a bet that pays one-to-one. f =
 This is one of the oldest direct response moves and still works because the targeting is nearly perfect by accident. The person opening the package already bought. They're at peak satisfaction — holding the thing they chose to spend money on. That moment is worth more than any retargeting pixel.
 
 For The Kiln: the equivalent is onboarding week. A new client has just signed, wired the first payment, and is feeling good about the decision. That is not the time to go quiet and "let them settle in." That is the bounce-back moment. A concise one-pager — "here's what else we can activate when you're ready" — sent on day three of onboarding, before the honeymoon ends. Not a hard sell. A door left open. Buying temperature is highest right after the first purchase. The cheapest upsell you'll ever run costs you a page and twenty minutes.
+---
+
+Looking at the recent episode and math curriculum, Kelly Criterion was yesterday, so today cycles back to Expected Value. Writing the full episode now.
+
+## 2026-10-24
+
+### 1. The Funny One
+> "they need to be taught to say I don't know more often. And I know of several humans who could be taught that as well." — Jeff Bezos (Lex Fridman)
+
+Deploy this when a prospect's founder insists their churn is zero and their TAM is "basically unlimited."
+
+### 2. Business Insight
+**Positioning (Ries & Trout):** The follower's move is not to build a better version of the thing that already exists. It's to find an attribute nobody has claimed and plant your flag there. 7Up didn't beat Coke at being a cola. They stopped playing that game entirely. "The Uncola" beat every cola challenger that tried to out-cola the market leader. The open hole wins. The better version loses.
+
+For The Kiln: GTM infrastructure is a crowded word if you fight on "better execution" or "more experienced team." Everyone says that. The uncola move is to own a specific attribute nobody's claimed — fastest time-to-first-meeting guaranteed, or the only shop that builds the system and then trains your team to run it without you, or the one that only takes Series A companies in B2B SaaS. Pick one open hole, name it, say it until prospects repeat it back in their own words.
+
+### 3. Deep Line
+> "The modern devil is cheap dopamine." — Naval (2020-05-25)
+
+The dangerous version isn't the dramatic one — it's the infinite scroll that costs you nothing and returns you nothing. Feels like staying informed. Produces no output. Runs on the same reward circuitry as actual work, which is why it's so hard to catch yourself doing it.
+
+### 4. Thought Principle: Ethos, Pathos, Logos
+Aristotle named the persuasion sequence 2,400 years ago and everyone's still getting it backwards. Credibility first, empathic connection second, logic last. That's the order because each stage is the key that unlocks the next door. If I don't trust you, your data is noise. If I don't feel understood, your case study bounces off me. But once you have both, one clean number closes the room. Most people pitch by leading with the deck — all logos, no foundation — and then wonder why the prospect ghosts them after "we'll think about it."
+
+For The Kiln: lead with who you've helped (credibility), prove you understand this specific problem in this specific company's language (connection), then present the mechanism. The deck is the last thing they need to see, not the opener. If your first slide is a framework diagram, you skipped two steps.
+
+### 5. New Words & Terms
+**Millennialism** — the western tradition of organising collective meaning around a coming end-of-the-world event. Every era produces a version: nuclear war, Y2K, climate collapse, AI doom. Andreessen's point is that the pattern itself is the thing worth noticing — not each individual apocalypse. Usage: "There's a millennialism quality to the AI safety discourse; the eschatology is baked in before the evidence arrives."
+
+**Acceptable Use Policy (AUP)** — the NSFNET rule that banned commercial activity on the early internet. The reason the internet felt like a pure public commons in 1991 is that commerce was literally against the rules. Andreessen notes this was repealed in 1995, and the commercial internet was born overnight. Usage: "The AUP repeal is probably the single policy change that generated more wealth than any other in the twentieth century and almost nobody knows its name."
+
+**Balance of terror** — the mutual-assured-destruction framing of the Cold War nuclear standoff. Neither side fires because both sides are certain of annihilation. Deterrence through symmetric catastrophe. Usage: "The big-tech regulatory standoff has taken on a balance-of-terror quality — everyone threatens the nuclear option and nobody pulls the trigger."
+
+### 6. Contrarian Take
+> "the internet is a fountain of misinformation... but the other thing is... the internet is an x-ray machine." — John Collison (Stripe)
+
+Most people see institutions losing credibility and call it collapse. Collison's read is that the x-ray was always there — we're just seeing the bones now. The misinformation is real; so is the accountability. For The Kiln: client scepticism about your claims is not friction, it's the x-ray working in your favour. Everything you say is checkable in thirty seconds. If it checks out, the trust is load-bearing and permanent.
+
+### 7. Analogy
+Shaan Puri: "do we all just become sort of like mechanics for the robots and for AI?"
+
+Picture a factory floor. Machines doing the output work — stamping, assembling, shipping. Humans walking the aisles with a wrench, listening for the sound that means something's about to seize up. That's not dystopia. That's most manufacturing jobs for most of human history. And the mechanic is not the lowest status person in the building. The mechanic is the one who knows when the machine is lying to you.
+
+For The Kiln: the GTM agency that survives the next five years is not the one fighting automation — it's the one becoming the mechanic. You don't write the sequences; you know when the sequence will get the domain blacklisted. You don't generate the copy; you know when the copy sounds like a robot wrote it, because a robot did. The mechanic's edge is judgment about the machine's output, and that specific judgment doesn't automate. It compounds.
+
+### 8. Story
+Samuel Langley had a $50,000 Smithsonian grant, War Department backing, a Harvard professorship, and a machine shop full of engineers. Wilbur and Orville Wright had a bicycle shop in Dayton and a budget under $1,000. Langley was the establishment favourite. Nobody was watching Kitty Hawk.
+
+The Wright Brothers' edge wasn't money or credentials. It was iteration rate. They flew hundreds of cheap gliders before they ever bolted a motor to anything. Each flight was a data point. Each crash was cheap and fast. Langley built one expensive machine, flew it twice, and watched it go into the Potomac both times. The Wrights ran fifty experiments and learned from all of them. Langley was optimising for the final product. The Wrights were optimising for learning speed.
+
+December 17, 1903: first powered flight, twelve seconds, 120 feet. Langley's programme was cancelled nine weeks later.
+
+The lesson isn't "be scrappy." The lesson is that iteration rate beats starting quality every time in a domain where the answer isn't known yet. Don't build the perfect campaign. Build five testable ones. The expensive version is usually just a way of delaying the feedback loop.
+
+### 9. Rule of Thumb
+**Start with the founder and teach them management — not the reverse.** — Marc Andreessen
+
+Hiring professional management into a founder-led company before the founder has learned to manage produces a power struggle where neither side wins. The founder has the vision and the cultural credibility; they need the reps, not a replacement. At The Kiln: before you hire a Head of Sales, know the sales process well enough to train one. If you can't train them, you can't evaluate them.
+
+### 10. Stoic Closer
+> "As long as you don't quit, you win. You just have to not stop." — Hormozi/DOAC
+
+Not a motivational poster — arithmetic. Everyone else quits first. If you stay, you inherit the field by default.
+
+### 11. Daily Math: Expected Value
+**Concept:** Expected Value (EV) is the probability-weighted average of all possible outcomes. It answers: what is this decision worth, on average, if I run it a thousand times? Formula: EV = sum of (probability of each outcome × value of that outcome). Add up every possible result multiplied by how likely it is. The number you get is what each attempt is worth in the long run, before variance has its say.
+
+Classic example: a coin flip that pays you €3 on heads and costs you €1 on tails. EV = (0.5 × 3) + (0.5 × −1) = 1.50 − 0.50 = €1.00 per flip. You play this game every single time someone offers it. Not because you win every flip. You don't. But the average outcome across enough flips is reliably positive, and that's all you need.
+
+**Business example:** You're deciding whether to run an outbound sequence at The Kiln. Cost: €500 in time and tooling per 100 contacts. Historical data: 3% book a call. Of those, 40% close. Average deal: €8,000. EV per contact = 0.03 × 0.40 × €8,000 = €96. Cost per contact = €5. Net EV per contact = €91. Run the sequence. Every time. A string of three non-responses in a row is not evidence the strategy is broken — it's variance. Abandoning a positive-EV sequence after bad draws is how variance beats you, not the market.
+
+**The insight:** EV is not about any single outcome. It's about what the decision is worth. The underrated application: EV forces you to assign actual numbers. Most business decisions live in a fog of "I think this will work." EV demands a probability. The process of writing down your honest estimate — before you calculate anything — is where most of the value is. It surfaces the assumptions you've been leaving soft on purpose.
+
+**Today's exercise:** Pick one decision you're sitting on at The Kiln — a new service, a new channel, a partnership. Write down every realistic outcome, its probability, and its monetary value. Calculate the EV. Then ask the honest question: is the reason I'm hesitating that the EV is genuinely negative, or is it that I'm afraid of the bad draws?
+
+### 12. Ad Craft
+**Obvious Adams:** Beware of your propensity to convince yourself too easily that your ideas are good.
+
+The trap is the internal pitch. You have an idea, you explain it to yourself, and because you already believe the premise, the logic sounds airtight. Nobody challenged the assumption on the way in, so the reasoning feels clean. The test Adams is pointing at: would a stranger, knowing nothing about your business, immediately see why this makes sense? If you have to explain why it's a good idea, it may not be an obvious one yet.
+
+For The Kiln: this bites hardest on positioning. You are the worst judge of your own value proposition because you've been living inside it for months and the language feels like common sense to you. The client who hears the pitch in two sentences and nods — that's the Adams signal. The client who needs a third slide to get it — that's the signal you've talked yourself into something that isn't obvious yet.

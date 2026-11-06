@@ -12842,3 +12842,84 @@ The dangerous interpretation: "kiss more frogs" as an excuse to skip the thinkin
 The useful interpretation: once your targeting and offer are directionally right, the number of creative and copy permutations you test is a direct input to your conversion rate. Most businesses test three variants. The ones that dominate test thirty. The prince is in there somewhere.
 
 At The Kiln: outbound sequences. The first version of a cold email never performs at ceiling. The second rarely does either. Build a testing cadence — subject line, opener, CTA — and treat every send as a data point, not a verdict. The kiss count is the work.
+---
+
+## 2026-11-06
+
+### 1. The Funny One
+> "We specialize in economic infrastructure, not in hospitality service."
+
+Charlie Songhurst, on slow pub service. Deploy when a client complains your onboarding sequence "lacks warmth."
+
+### 2. Business Insight
+**Jason Calacanis:** The difference between a $1M company and a $100M company is usually the founder's willingness to do the things that don't scale — for way longer than feels reasonable.
+
+Everyone wants to hire away the uncomfortable parts before they've done the uncomfortable parts. At The Kiln right now: writing every cold email personally, running every discovery call, sequencing every prospect by hand. Not because there's no one to delegate to — because the unscalable phase is where you learn what actually converts. You cannot skip it. You can just call it "research" if that makes you feel better about being on call at 11pm.
+
+### 3. Deep Line
+> "even if [the doomer scenario] played out, the result would be hyper deflation of prices... things that today cost a lot of money will all of a sudden all be cheap or free." — Marc Andreessen
+
+The pessimists' best argument ends in a world where things are cheaper. That's their scary scenario. It's also the entire playbook for anyone selling to companies who currently pay rent on complexity — the moat of "this is too expensive to do any other way" is on a timer.
+
+### 4. Thought Principle: The Double/Triple/Quadruple Threat
+Scott Adams (via pmarca): don't chase being the best in the world at one thing. Be top 25% in two or three things — the combination is rare enough to be genuinely valuable.
+
+Scott Adams isn't a world-class cartoonist. He's a pretty good cartoonist who survived corporate America long enough to understand why it's absurd. The overlap is Dilbert. That's the whole play. At The Kiln: GTM strategy alone isn't unique. GTM infrastructure alone isn't unique. Being Irish and able to read a room, while also understanding the actual mechanics of outbound sequencing and attribution modelling, while also being the person who built the system — now that's a weird stack that takes a while to replicate. Stack the percentiles. Don't chase the ceiling on one.
+
+### 5. New Words & Terms
+**Thumbscrew** — a person's exploitable weakness: an insecurity, uncontrollable emotion, or secret pleasure (Law 33, *48 Laws of Power*). Usage: "His thumbscrew was founder ego — compliment the product once and he stopped negotiating on price entirely."
+
+**Lump of labor fallacy** — the mistaken belief that there's a fixed amount of work in an economy, so if AI or automation does some of it, there's less left for humans. Coined in economics; resurfaced by Marc Andreessen on Lex Fridman. Usage: "Panicking that AI eliminates all jobs assumes the lump of labor fallacy — the economy generates new tasks faster than it automates old ones."
+
+**Trajectory razor** — a person or moment that bends the arc of someone's life permanently. Shaan Puri. Usage: "That one cold email to a partner at a16z was his trajectory razor — the whole company shifted in the six months after."
+
+### 6. Contrarian Take
+> "If you eat, invest, and think according to what the 'news' advocates, you'll end up nutritionally, financially and morally bankrupt." — Naval
+
+The news optimizes for attention, not accuracy — and attention means: fear first, resolution optional. Nutritionally: margarine was good; now olive oil. Financially: buy at the peak; panic at the trough. Morally: whoever screams loudest sets the frame until the next screamer arrives. If the advice is front-page consensus, it's already priced in by everyone including the people who will regret it.
+
+### 7. Analogy
+Charlie Songhurst's drywall stat: in some markets, it's now cheaper to put a flat-screen TV over a hole in the wall than to repair the drywall.
+
+That's not a pub quiz fact. That's services inflation made concrete. Skilled labour costs have outrun manufactured goods so severely that substituting a physical object for human work is the rational economic move. At The Kiln: the same gap explains why companies will sign a software contract before they'll hire a person to do the equivalent task manually. The manufactured solution undercuts the labour solution on price, and the customer looks like a genius for buying it. Build on that side of the trade.
+
+### 8. Story
+IBM needed an operating system for the PC. Their lawyers flew to Santa Cruz to license CP/M from Gary Kildall at Digital Research. Kildall went flying that day. His wife — the company's general counsel — refused to sign IBM's NDA. IBM left.
+
+They went back to Bill Gates. Gates didn't have an OS either. He knew a guy. Bought QDOS — "quick and dirty operating system" — from Tim Paterson for a flat fee of $50,000. Licensed it to IBM. Renamed it MS-DOS. The rest is a $3 trillion company built on a fifty-grand acquisition and someone else's unavailability.
+
+Kicker from Marc Andreessen: thirty years later, Gary Kildall was knifed to death in a bar fight.
+
+The lesson isn't "don't fly." It's that availability is a business decision. When IBM was in the room, that was the meeting. Everything else was a hobby. At The Kiln: when the right client calls, everything else gets rescheduled. You can fly Tuesday.
+
+### 9. Rule of Thumb
+**Compete with yourself, not others** — Marc Andreessen's framing: get up because you're trying to become a better version of yourself. The external scoreboard makes you optimize for optics over output. Someone else's MRR number tells you nothing about whether you're making the right decisions for your business. At The Kiln: week-on-week metrics against your own baseline, not "how is agency X doing." Your version of the company is the only one you can build.
+
+### 10. Stoic Closer
+> "a sense of professional dissatisfaction, in the positive sense of, 'Okay, no, there's something better, there's something bigger, there's something new that we should do.'" — Marc Andreessen, on Jim Clark
+
+Dissatisfaction as compass, not complaint.
+
+### 11. Daily Math: Expected Value (Second Pass)
+Full curriculum cycle complete — Kelly Criterion was last. Back to the start, but different.
+
+First pass on Expected Value was the mechanics: EV equals probability times payout, summed across all outcomes. Today's pass is the failure mode that nobody talks about.
+
+**The trap:** EV is a long-run average. It assumes you can play the game repeatedly until the law of large numbers smooths the variance. If you're running one shot — one big client pitch, one product launch, one co-founder negotiation — EV is a poor guide on its own, because there is no average over a sample size of one.
+
+The fix is Kelly, which we just covered: size your bet so that a string of bad outcomes doesn't put you out of the game before the long run arrives. EV tells you whether to play. Kelly tells you how much to stake. Neither works without the other.
+
+**Business example at The Kiln:** A single €80k annual contract pitch. EV: 30% close rate × €80k = €24k expected. Positive. Play. But landing it requires six weeks of custom proposal work at the exclusion of all other business development. Kelly now asks — is that the right fraction of your total BD capacity to concentrate on one opportunity? Even high-EV shots can be overbets when they're single-shot and resource-intensive.
+
+**The insight:** Use EV to filter opportunities (play or don't play). Use Kelly to size them (how much to stake). Most businesses do neither formally. The ones that dominate usually do both intuitively — and the ones who crash out usually had the right EV on the bet, they just staked too much to survive being wrong once.
+
+**Today's exercise:** Take a decision you've been framing as binary — yes or no. Add the third dimension: if yes, how much? Time, money, attention. That's the Kelly question layered on top of the EV question. The answer is almost never "all in" and almost never "nothing."
+
+### 12. Ad Craft
+**Richard Shotton:** Nominative determinism — the idea that people called Dennis are disproportionately likely to become dentists — turned out to be a demographic artefact. "Dennis" peaked in a generation when dentistry was rapidly expanding as a profession. It looked like causation. It was correlation with a satisfying story draped over it.
+
+Plausible explanations dressed as evidence are still not evidence.
+
+This is the most common failure mode in GTM: post-hoc rationalization. A campaign works, so the team builds a theory about *why* it worked, then runs the theory without the original conditions and wonders why it doesn't replicate. You didn't find a principle. You found a Dennis.
+
+At The Kiln: when something works in outbound — a subject line, an angle, a CTA — resist the urge to immediately build a framework around it. Run it again. Then again. If it still holds at rep three across different lists, you have a Dennis-free pattern worth systematizing. If it doesn't, you had a fluke wearing a compelling story. Ship the fluke, don't productize it.

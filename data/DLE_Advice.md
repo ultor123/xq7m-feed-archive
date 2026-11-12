@@ -13312,3 +13312,76 @@ The question shifts from how long to how well — which is a better question any
 **Drayton Bird:** The best question to ask before anything ships: "Have I missed anything out?"
 
 Not "is this good?" — that's a compliment-fishing exercise. "Have I missed anything out?" is a checklist. The missing thing is almost always proof (a number, a name, a before/after), or the objection you haven't pre-empted, or the call to action you buried in paragraph four when it should have been the first line. At The Kiln: run this question on every piece of copy, every proposal, every sequence before it goes out. It will find something every time.
+---
+
+Let me check the repo structure before writing the file.
+
+## 2026-11-12
+
+### 1. The Funny One
+> "Stick to computing, John." — Lex Fridman, on Von Neumann advocating a first strike on Russia
+
+Deploy when someone brilliant wanders into a domain where brilliance is not transferable and hasn't noticed yet.
+
+### 2. Business Insight
+**Shaan Puri:** "That, in the world of AI, seems like the place to be. I'd rather own this meat business than tech businesses today."
+
+The insight isn't anti-tech — it's about where moats live when software gets commoditised overnight. Physical businesses have friction: supply chains, relationships, perishable inventory. That friction is exactly what AI can't replicate in an afternoon. The meat business doesn't fear GPT-5. At The Kiln: our moat is the same kind of friction. Human judgment inside a sales process. Knowing which VP of Sales won't respond to a template. Relationships with actual buyers who return your calls. That's physical-world messy, and that's why it's defensible. Lean into it.
+
+### 3. Deep Line
+> "The human brain isn't designed to process all of the world's breaking emergencies in realtime." — Naval
+
+The internet handed everyone a firehose of genuine catastrophe and we try to drink it. The brain treats each notification as a threat because evolutionarily that's what a loud noise meant. The fix isn't ignorance — it's scheduled attention. Read the news once. Then stop.
+
+### 4. Thought Principle: Pain + Reflection = Progress
+Ray Dalio's formula is deceptively simple. Pain alone just makes you tired. Reflection alone is navel-gazing with a better-sounding name. The combination — sitting with what went wrong and asking why, specifically — is the only process that generates upgrade. Most people skip the reflection because it's slow, embarrassing, and doesn't feel like work. At The Kiln: after every lost deal, run a 20-minute postmortem. What was the objection? When did we lose the room? What would we say differently? Not to feel bad. To get faster.
+
+### 5. New Words & Terms
+**Packard's Law** — a company should limit its growth to its ability to attract enough of the right people. The failure mode it names: you grow the org chart before you grow the people who can run it. Revenue goes up; everything else quietly breaks. Usage: "We can't take on a third retainer this month — Packard's Law, we don't have the account manager to run it yet."
+
+**Collateral damage (7 Powers)** — the reason incumbents rationally decline to copy a disruptive newcomer: copying would cannibalize their own cash cow. Blockbuster could have built Netflix; they would have killed their own store revenue doing it. So they didn't, and then someone else did it for them, fatally. Usage: "The reason enterprise CRMs haven't built what we build isn't that they can't — it's collateral damage. Their existing customers would riot."
+
+**Whole product (Crossing the Chasm)** — the full turnkey solution a pragmatist actually buys, versus the bare core technology. A pragmatist doesn't buy software; they buy software plus onboarding plus integrations plus the promise that someone picks up the phone when it breaks. If you're only selling the core tech, you're selling to early adopters. The mainstream doesn't buy incomplete. Usage: "Our whole product isn't the sequences — it's the sequences, the reporting, the weekly call, and us knowing their ICP better than they do."
+
+### 6. Contrarian Take
+> HP "was run by its founders for 50 years, and yet people concluded the founders shouldn't run the companies," so they built "elaborate lattices of theories" to avoid the obvious. — Marc Andreessen
+
+The orthodoxy that founders should hand off to professional CEOs was a theory built to explain one thing — some founders genuinely shouldn't run companies — then oversold into a universal law. It sounds sophisticated in a business school case study and falls apart the second you look at the actual 50-year data. At The Kiln: Ultan runs The Kiln because Ultan understands the craft. The day that stops being true is the day to revisit. Until then, the theory doesn't apply.
+
+### 7. Analogy
+Marc Andreessen on Silicon Valley: "it's like making a cake. They all have to be in the cake."
+
+The magic isn't the weather, the VC dollars, or the universities in isolation — it's that every ingredient is present simultaneously, and you can't replicate it by moving one ingredient to a new bowl. The VC only works because the engineers are there. The engineers only cluster because the exits are there. The exits only happen because the VCs fund the companies. Remove one ingredient and you don't get a slightly worse cake; you get a failed cake that looks like all the other failed cake experiments in Austin and Miami and Dublin and wherever else people keep trying to bake it.
+
+For The Kiln: GTM is the same cake. Cold outreach only works because the content validates it. The content only gets opened because the targeting is tight. The targeting is only tight because the positioning is clear. It's not a funnel — a funnel implies the top works independently. It's a cake. All of it has to be in there at once.
+
+### 8. Story
+Alex Hormozi, early days: split a bedroom with a roommate, paid $400 a month, mattress on the floor. The line was: "You'll be astonished at how little you can actually live on if you try to live on little."
+
+The number matters: $400 a month. Not "lived frugally" — $400. When your burn rate is that low, the pressure to take bad deals, bad clients, bad partnerships almost completely disappears. You can afford to wait for the right one. Hormozi didn't become patient — he engineered the conditions that made patience possible. At The Kiln: know your personal floor. The number below which you're not scared, you're just living. Keep optionality by keeping that number honest.
+
+### 9. Rule of Thumb
+**Have no introspection.** — Marc Andreessen. "As little as possible. Move forward. Go."
+
+The tax on over-analyzing past decisions is paid in present velocity. This doesn't mean skip Dalio's reflection from section 4 — it means keep it short, structured, and finite. Scheduled introspection. Not free-range wallowing.
+
+### 10. Stoic Closer
+> "You don't have any levels of introspection." / "Yes. Zero. As little as possible... Move forward. Go." — Marc Andreessen (Founders/Senra)
+
+Analysis paralysis is a form of cowardice wearing a lab coat.
+
+### 11. Daily Math: Regression to the Mean
+**The concept:** When you observe an extreme result — a spectacular win, a catastrophic failure — the next result will almost always be less extreme, not because anything changed, but because extreme results require skill and luck to align simultaneously. When you catch the extreme, you've caught a moment when luck was especially high or especially low. Next time, luck regresses toward its average. The underlying skill level didn't change. The randomness did.
+
+**The everyday version:** You have a terrible cold for a week. On day seven you buy echinacea and feel better by day nine. The echinacea gets the credit. But colds last seven to ten days regardless — you would have improved anyway. The recovery regressed to the mean of "how colds end." This is why bad medicine survives: people reach for a remedy at peak misery, which is also the most likely moment for natural recovery to begin.
+
+**Business example at The Kiln:** You run a campaign in October — your worst month ever, 3% reply rate, half your usual meetings booked. You panic, rebuild the whole sequence, and in November you're back to 11%. You credit the rebuild. But regression to the mean says: an unusually bad month contains unusually bad luck, and some portion of November's recovery was coming regardless. How much of the improvement is your sequence change and how much is regression? You can only know if you ran a control — the old sequence to a comparable list, same month. Without that, you're claiming credit for the weather.
+
+**The dangerous inversion:** Managers praise after a great quarter and punish after a bad one. The great quarter partially regresses down; the bad quarter partially regresses up. The praise and punishment feel causal. They're not. Performance management based on single-period results is almost always responding to noise, not signal — which means your best people get complacent and your worst people get traumatised, and neither outcome was earned.
+
+**Today's exercise:** Name your best-performing campaign or client month in the last year. Then name your worst. How much of each was skill, and how much was the variance of the universe doing its thing? If you can't tell, you don't have enough data to run a business on intuition yet. Build the measurement system that separates the two.
+
+### 12. Ad Craft
+**Drayton Bird:** The telephone gets five to six times as many sales as a mailing selling the same thing.
+
+Same offer. Same audience. Wildly different conversion. The only variable is medium. The telephone forces a decision in real time with a human on the other end who can hear the hesitation and address it immediately. A mailing gets filed, forgotten, or binned on a Tuesday. The implication isn't "make more cold calls" — it's: identify where in your funnel the asynchronous medium is failing you, and replace it with synchronous conversation. At The Kiln: if a prospect has opened your emails three times and not replied, they're in the phone's territory now. Stop emailing them. Call them. The numbers say you're leaving five-sixths of the conversion on the table.

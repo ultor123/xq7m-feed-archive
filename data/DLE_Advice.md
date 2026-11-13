@@ -13385,3 +13385,80 @@ Analysis paralysis is a form of cowardice wearing a lab coat.
 **Drayton Bird:** The telephone gets five to six times as many sales as a mailing selling the same thing.
 
 Same offer. Same audience. Wildly different conversion. The only variable is medium. The telephone forces a decision in real time with a human on the other end who can hear the hesitation and address it immediately. A mailing gets filed, forgotten, or binned on a Tuesday. The implication isn't "make more cold calls" — it's: identify where in your funnel the asynchronous medium is failing you, and replace it with synchronous conversation. At The Kiln: if a prospect has opened your emails three times and not replied, they're in the phone's territory now. Stop emailing them. Call them. The numbers say you're leaving five-sixths of the conversion on the table.
+---
+
+<function_calls>
+<invoke name="mcp__shell__execute_command">
+<parameter name="command">cd /home/runner/work/xq7m-feed-archive/xq7m-feed-archive && git add 2026-11-13.md && git commit -m "Daily DLE 2026-11-13" && echo "DONE"</parameter>
+</invoke>
+</function_calls>
+
+The file is written. Here's the full episode:
+
+---
+
+## 2026-11-13
+
+### 1. The Funny One
+> "I don't struggle with anxiety. I struggle with apathy... Why do I even bother? We already have enough money. Who cares?" — Hormozi/DOAC
+
+Deploy when a podcast host asks how you manage founder anxiety. Watch them reach for their notes.
+
+### 2. Business Insight
+**Naval (How to Get Rich):** "Capital and labor are permissioned leverage… someone has to give it to you… someone has to follow you."
+
+The word to notice is "permissioned." Capital needs an investor to say yes. Labor needs someone to follow you. Both require a gatekeeping human before you can deploy them. Code and content — Naval's other two levers — don't ask permission. You write the playbook, it works at 3am, no one has to approve it. At The Kiln: every time you scale by hiring before you've systematized, you're trading permissionless leverage for the permissioned kind. Build the repeatable machine first. Then staff it. The order matters.
+
+### 3. Deep Line
+> "No man is free who is not master of himself." — Epictetus, Philosophy Soundbites
+
+If you can't fire a bad client, you're not running a business — you're running a hostage situation where you volunteered to be the hostage. Self-command isn't a virtue. It's the prerequisite for every other kind of freedom.
+
+### 4. Thought Principle: Hard & Scarce
+Hormozi's defensibility test: a moat requires both. Hard alone is table stakes — plenty of things are hard, and plenty of people do them. Scarce means your version can't be reproduced in a weekend; can't be downloaded, copied, or templated away. Hard ≠ valuable, because hard is a property of effort. Scarce is a property of the market. At The Kiln: our outbound sequences are hard to run well but not scarce — a sharp operator with a free weekend and an Apollo trial could copy the structure. What's actually scarce is the pattern recognition from running hundreds of campaigns, the benchmark data, and the warm referral network. Those take years, not weekends. Build toward those.
+
+### 5. New Words & Terms
+**Shelf space is the original algorithm** — Shaan Puri (crediting Rohan). Before feeds, before engagement scores, before the For You page — physical shelf position determined what got bought. The algorithm didn't invent attention economics; it just digitized them. Usage: "We're not trying to game the feed. We're trying to own shelf space in our buyers' inboxes — same logic, different surface."
+
+**Cheeky pint** — Marc Andreessen (Stripe/Songhurst). A pint you're not quite meant to be having — stolen away with a few coworkers, technically off the books, entirely sanctioned by everyone involved. A micro-rebellion with unanimous consent. Usage: "That's the energy of a good team offsite — officially a strategy session, actually a cheeky pint."
+
+**The wall of worry** — Marc Andreessen (Stripe/Songhurst). Markets climb it: every upward tick generates a fresh wave of panic that it's all about to collapse. The worry never stops; the trajectory continues anyway. Usage: "Every deal we've closed was behind a wall of worry — budget, timing, 'we tried this before.' The pipeline always has a wall. You just have to show up and climb it."
+
+### 6. Contrarian Take
+> "He had the right amount of rebellion to pull this off. He knew what to keep sacred, and he knew what to rebel." — Shaan Puri (on Pat Jr. secretly reformulating Shake Shack patties)
+
+Blind deference kills companies slowly. Blind disruption kills them fast. The craft — and it is a craft — is in the discrimination: load-bearing walls versus furniture. At The Kiln: preserve the relationship frameworks, the trust mechanics, the client ownership model. Rebel on delivery format, cadence, channel mix — anything that's convention masquerading as principle.
+
+### 7. Analogy
+> "A leader is best when people barely know he exists. When his work is done... they will say: we did it ourselves." — Lao Tzu, History/Culture Soundbites
+
+The measure of a GTM leader isn't how indispensable they feel — it's how dispensable they've made themselves. At The Kiln: when a client says "our team figured out the outbound strategy," that's not a failure of credit. That's the system working. Clients who take ownership of the outcome retain, refer, and expand. Invisible leadership compounds. Visible leadership creates a single point of failure.
+
+### 8. Story
+Isabella d'Este ran Mantua — a city-state so small it barely rated a mention on the maps of its era. Around her: the Pope with an army, Venice with a navy, France with bottomless ambition, and Cesare Borgia with the kind of reputation that made grown men relocate. Every other Italian power picked a side, made an alliance, committed. Isabella committed to none of them. She flattered everyone, promised adjacency, and moved Mantua through fifty years of open warfare without being consumed by any of it. While Florence burned, Venice contracted, and Borgia's empire dissolved in a single season, Mantua thrived for a century. Law 20: Do Not Commit to Anyone. The weakest position in a room full of competing powers is to be firmly in the pocket of one of them. At The Kiln: don't become existentially dependent on one channel, one platform, or one anchor client. The moment you fully commit, you become leverage for someone else.
+
+### 9. Rule of Thumb
+**95% of people are imitators; 5% are initiators.** — Cialdini, Influence
+
+This means social proof isn't a nice-to-have in your GTM — it's the primary persuasion mechanism for the overwhelming majority of buyers. The question isn't "did we prove it logically?" It's "did we show enough people doing it?" At The Kiln: lead every proposal with named client results, not methodology. The methodology is for the 5%. The 95% need to see someone like them who already said yes.
+
+### 10. Stoic Closer
+> "It's this very interesting signal you have to decide whether you want to send as a leader, which is do you want people to bring you bad news?" — Marc Andreessen (Stripe/Songhurst)
+
+The moment your team stops bringing you bad news is the moment you lose the ability to lead anything that matters.
+
+### 11. Daily Math: Pareto Distribution
+**The concept:** The Pareto Distribution is a power law — a statistical pattern where a small minority of inputs produce a disproportionate majority of outputs. The classic framing is 80/20, but that undersells how extreme it gets: the top 1% of customers generating 50% of revenue, the top 10 songs accounting for 90% of streams, the top 0.1% of startups returning most of a fund. The distribution has a fat tail — extreme values occur far more often than a bell curve would predict, and the average tells you almost nothing useful about where the real action is.
+
+**The everyday version:** You have 20 clients. Three of them send referrals unprompted, reply within the hour, expand their contract without being asked, and mention The Kiln over dinner to other founders. The other 17 are fine. The three are the Pareto slice. The question isn't how to serve all 20 equally — it's how to identify the three faster next time, and how to engineer the conditions that produced them.
+
+**Business example at The Kiln:** Revenue, referrals, and channels are all Pareto-distributed. If you're running outbound across five channels and tracking results honestly, you'll almost certainly find that two channels produce 80% of the meetings. The correct response isn't to optimize all five equally. It's to cut three and double down on two. Most agencies won't do this because narrowing feels reckless. But narrowing on the Pareto slice is how you stop being average across everything and start being dominant in one place. The median campaign, the median channel, the median client: none of these are where the business actually lives. They're where you stay even.
+
+**The dangerous mistake:** Treating a Pareto world like a normal one. If revenue follows a bell curve, you manage to the median. If it follows a power law, you manage to the tail. The tail is where the actual business is. Managing to the median in a power-law world is the most common and most expensive strategic mistake in agency land.
+
+**Today's exercise:** Pull last year's revenue by client. What percentage of clients generated 80% of the revenue? Now do it for referrals. If the numbers aren't wildly concentrated, either your business is unusually balanced (possible) or your tracking is off (more likely). Find your Pareto slice. Those are your real customers. The rest are adjacencies.
+
+### 12. Ad Craft
+**Drayton Bird:** The purpose of business is to make and keep a customer.
+
+Not to generate leads. Not to close deals. Not to hit MRR. Those are metrics in service of one actual function: create a customer, then not lose them. The keeping is where the economics live. At The Kiln: acquisition is expensive and visible. Retention is cheap and invisible. A client who stays three years without renegotiating is worth four times one who churns after one and absorbs twelve months of onboarding. The business question isn't "how do we get more clients?" It's "why do the best ones stay — and how do we make that the default?"

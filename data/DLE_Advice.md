@@ -13539,3 +13539,78 @@ The queue at the shortcut is always longer than the route people avoided.
 This is the trap that kills innovation pitches and the gift that makes case studies sing. Before the product: "I don't have that problem." After: "How did I ever live without it?" Nobody could have told you they needed Uber before Uber. Nobody could have told you they needed CRM attribution before they lost a quarter to bad data.
 
 For The Kiln: don't try to explain the need. Create the *experience* of the need. A one-hour audit that surfaces three attribution gaps in a prospect's existing stack does more than six slides explaining why attribution matters. The slide makes it intellectual. The audit makes it obvious. Sell through demonstration of the problem, not description of the solution.
+---
+
+## 2026-11-15
+
+### 1. The Funny One
+> "There's an American bias in the naming. I apologize." — Jeff Bezos, on why he named his rockets New Shepard and New Glenn but not New Gagarin
+
+Deploy this whenever you get caught defaulting to your own frame of reference — it's a better apology than the defensive kind.
+
+### 2. Business Insight
+**Good to Great:** "The purpose of compensation is not to 'motivate' the right behaviors from the wrong people, but to get the right people on the bus in the first place."
+
+The implication is brutal: if you're designing incentive systems to fix a people problem, you've already lost. The right hire brings the motivation with them — it arrived before the offer letter. At The Kiln, at $20k/mo building toward $100k, every person you add should be someone you'd embarrassingly recommend to a friend — not someone you're managing into performance with commission clawbacks and OKR check-ins.
+
+### 3. Deep Line
+> "If you identify them in that golden window, that eleven to nineteen year old window, you can actually be such a meaningful trajectory razor for them. You can actually shift the course of their life just by giving them a network of other weirdos like them." — Shaan Puri
+
+You don't need to be someone's mentor to change their life. Sometimes you just need to introduce them to two other weird kids doing the same thing. The network does the work.
+
+### 4. Thought Principle: Escalation Over Attrition
+Bezos: never let a disagreement run until one side collapses from exhaustion. That's not resolution — it's the person with more energy winning, regardless of who's right.
+
+Escalate before it becomes a stamina contest. Put it in front of someone with more context, more authority, or a cleaner framework for deciding. At The Kiln: when a client deliverable is stuck in feedback-loop hell with no clear owner, don't keep iterating into the void. Call a decision-maker meeting. The meeting that feels too formal to request is usually the one that would have saved three weeks.
+
+### 5. New Words & Terms
+**Nonconsumption** — the market of people who lack the money or skill to use the existing product at all. The highest-leverage disruption target because no incumbent defends it. Usage: most sub-$5m ARR companies don't have a RevOps person; they're not underserved by existing GTM agencies — they're outside the market entirely. That's nonconsumption. That's the gap.
+
+**Fun employed** — Shaan Puri's term for the entrepreneur who calls it a sabbatical when it's really unemployment with better branding. Usage: "I'm between things but building something" is sometimes just fun employed with a Notion doc.
+
+**FWMTS ("Forgot What Made Them Successful")** — when companies drift from the sharp idea that won them the market in the first place. From Ries & Trout's *Positioning*. Usage: every agency that started scrappy and specific, then expanded into "full-service digital transformation," has FWMTS. You can usually date the slide to whatever year they hired a Chief Growth Officer.
+
+### 6. Contrarian Take
+> "Leanness is a methodology, not a goal. Iteration without a bold plan won't take you from 0 to 1." — Zero to One (Thiel)
+
+Lean is the right process for executing a clear vision — it's a terrible substitute for having one. The pivot is a tool, not a strategy. At The Kiln, moving fast means nothing if you don't know the destination with enough conviction to defend it when things are slow.
+
+### 7. Analogy
+Shaan Puri on a concentrated portfolio held for years: "it's like sitting in there like a Swiss bank account" — describing a dry-aging room full of meat.
+
+The structure of the analogy: you pick the cuts deliberately, put them in a controlled environment, and then leave them alone. The discipline is not fiddling. The temptation is to rotate out your aged beef for something that looks fresher. The result is you never get to the good stuff. For The Kiln: the retainer client you've had for eighteen months looks unremarkable on any given invoice, but it's producing trust, referrals, and upsell surface that five new logos can't match. Stop treating longevity like stagnation.
+
+### 8. Story
+Marc Andreessen grew up in a truck-stop town. He watched truck drivers his whole childhood — the actual texture of the work, up close. Here's what he saw: they die a decade earlier than average. They get skin cancer predominantly on the left side of their bodies — from decades of a left arm resting in an open window on the highway. The vibration from the cab causes chronic physiological damage across their entire skeletal structure. It's occupational injury that never makes the news because it looks like normal aging.
+
+When AI and automation threaten trucking, the debate gets framed as: "will we destroy jobs people love?" Andreessen's observation is more uncomfortable — this is a job people actively steer their kids away from. The automation panic assumes incumbency equals desirability. It frequently doesn't.
+
+Lesson for The Kiln: when evaluating what to displace — in a market, in a process, in a workflow — ask what the incumbents actually think of what they do. The answer is often "I'd leave if I could." That's your opening.
+
+### 9. Rule of Thumb
+**Ask questions instead of giving direct orders.** — *How to Win Friends and Influence People*
+
+Questions create ownership; orders create resentment. When a Kiln client needs to change direction, ask "what do you think happens if we hold this ICP targeting for another quarter?" before saying "your ICP is wrong." They land at the same conclusion — but now it's theirs. The idea they came to is twelve times harder to argue against than the idea you handed them.
+
+### 10. Stoic Closer
+> "Any fool can criticize, condemn and complain — and most fools do. But it takes character and self-control to be understanding and forgiving." — *How to Win Friends and Influence People*
+
+The critical voice is the cheapest voice in the room; it costs nothing to run and produces nothing of value.
+
+### 11. Daily Math: Monte Carlo
+**The concept:** Monte Carlo simulation is the practice of running thousands of random trials through a model to understand the full range of outcomes. Instead of calculating a single answer, you let randomness do the work repeatedly until a distribution emerges. Named after the casino — not because it involves gambling, but because probability plays out clearly across many iterations.
+
+**The everyday version:** You're forecasting Kiln revenue for Q2. You could make one estimate. Or you could build a model with ranges: close rate varies 15–35%, average contract value varies €4k–€12k/month, pipeline varies 8–20 deals. Run 10,000 scenarios. Now you have a distribution, not a forecast. You see the median, the 90th percentile, and where the floor probably sits. A single number pretending to be a forecast is a story. A distribution is a tool.
+
+**Business example at The Kiln:** You're evaluating hiring a full-time SDR. Inputs with real uncertainty: calls per day (40–70), calls per booked meeting (20–40), meetings to close (15–30%), deal value (€4k–€8k/month). Don't average those ranges and call it a model — the interactions between them compound. Some simulation runs, the SDR barely covers their salary. Some runs, they're your best hire of the year. Monte Carlo tells you the *shape* of the bet, which is more honest than the shape of your optimism.
+
+**Key insight:** Monte Carlo is most useful when inputs have wide uncertainty and compound against each other. Single-point estimates hide uncertainty. Distributions surface it. The goal isn't to narrow uncertainty artificially — it's to understand the actual range of outcomes and decide accordingly.
+
+**Today's exercise:** Take one revenue or cost decision you're sitting on right now. Write three ranges — optimistic, base, pessimistic — for the two or three inputs that most affect the outcome. In a spreadsheet, run 20 random combinations drawn from those ranges. The variance you see isn't noise. It's the information a single-line forecast was hiding from you.
+
+### 12. Ad Craft
+**Projection bias:** iPhone owners think half the population owns one; non-owners think a third — Richard Shotton.
+
+Marketers project their world onto everyone else. If you use something, you assume penetration is high. If you know a term, you assume it's common vocabulary. The insider can't see what the outsider sees because they can't remember not knowing.
+
+For The Kiln: founders who've lived inside SaaS ecosystems assume their prospects know what a RevOps motion is. They don't. The vocabulary you use daily — ICP, signal-based outbound, intent data, pipeline velocity — is opaque to a first-generation founder who built to €3m on referrals and handshakes and is now trying to systematize. Write for their world, not yours. If you're the iPhone owner, write ads for the person who isn't yet.

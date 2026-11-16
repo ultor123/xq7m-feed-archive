@@ -13614,3 +13614,80 @@ The critical voice is the cheapest voice in the room; it costs nothing to run an
 Marketers project their world onto everyone else. If you use something, you assume penetration is high. If you know a term, you assume it's common vocabulary. The insider can't see what the outsider sees because they can't remember not knowing.
 
 For The Kiln: founders who've lived inside SaaS ecosystems assume their prospects know what a RevOps motion is. They don't. The vocabulary you use daily — ICP, signal-based outbound, intent data, pipeline velocity — is opaque to a first-generation founder who built to €3m on referrals and handshakes and is now trying to systematize. Write for their world, not yours. If you're the iPhone owner, write ads for the person who isn't yet.
+---
+
+## 2026-11-16
+
+### 1. The Funny One
+> "Bro. Bro. Bro. I came to you ready baked. That was a DoorDash delivery on your doorstep." — Shaan Puri
+
+Deploy when someone takes credit for your setup. You handed them the punchline on a plate and they took a bow.
+
+### 2. Business Insight
+**Good to Great:** "Stop doing" lists are more important than "to do" lists.
+
+Every productivity system ever invented is an elaborate mechanism for adding things. Good to Great flips it: the lever isn't what you start, it's what you stop. Collins found the best-performing companies weren't doing more things — they were doing ruthlessly fewer. For The Kiln: some of what's on the plate right now is habit, not strategy. The annual stop-doing audit — what clients do we drop, what services do we kill, what internal meetings do we cancel — is probably worth more than any new service line we could add this quarter. The to-do list is infinite; the calendar is not.
+
+### 3. Deep Line
+> "The world we live in is just a very primitive and crude place as compared to what it should be, and what it could be." — Marc Andreessen (Founders/Senra)
+
+This isn't despair — it's a business plan. Every gap between what is and what could be is a market. Andreessen isn't complaining; he's pointing at the size of the remaining work.
+
+### 4. Thought Principle: The Debate Ladder
+Andreessen's LLM technique: prompt it to argue both sides of a contentious issue, then keep steering the tension up — "no, this is getting too polite... make it denser, more adversarial" — running five, six, seven prompts until you have a genuinely heated exchange. Constraint: no misrepresentation, just real friction.
+
+For The Kiln: before any major strategic call — which market to pursue, what pricing to anchor on, whether to hire — run the debate. Force the AI to be both bull and bear. The polite version is useless; the heated version surfaces the actual objections your prospects or partners will raise in a room. You're getting embarrassed in private so you're not embarrassed in public.
+
+### 5. New Words & Terms
+**Eternal September** — Before September 1993, the internet received new users once a year: college freshmen, socialised into norms before the next wave. AOL's mass onboarding ended that rhythm permanently. Every day became September forever. Marc Andreessen watched it happen in real time. Useful shorthand for any community that gets flooded with new entrants faster than culture can be transmitted — Discord servers, Slack communities, emerging markets.
+
+**The kingmaker move** — Shaan Puri's term for inserting yourself at the centre of a market by creating the award, the list, or the event. You don't win by competing in the game — you win by becoming the person who decides what the game is. For The Kiln: an annual "top 50 GTM operators in Europe" list costs nothing to create and makes you the person who decides who matters in the category.
+
+**Entropy (of bureaucracy)** — The tendency of any institution to drift toward sclerosis over time, independent of anyone's intentions. As All-In put it: "It's not a political statement. It just is what bureaucracy does." Useful because it's a physics framing, not a moral one. Bureaucracy doesn't go wrong because someone decided it should; it goes wrong because that's what complex human systems do without deliberate counter-pressure. Gravity, not malice.
+
+### 6. Contrarian Take
+> Drugs and madness don't produce creativity — discipline does. Coltrane did his worst work on heroin. — *Mastery*
+
+Coltrane's transcendent period — *A Love Supreme*, the Atlantic years — was built on five to eight hours of daily practice. The heroin years produced chaos, not art. Creativity is a skill, not a visitation. For The Kiln: systems, routines, and deliberate reps produce better client work than waiting for inspiration to show up uninvited.
+
+### 7. Analogy
+"Give me six hours to chop down a tree and I'll spend four sharpening the axe." — Lincoln's Axe.
+
+The move is counterintuitive because preparation looks like inaction. Someone watching Lincoln for four hours would think he was procrastinating. Someone watching the other guy flail at bark for six hours would think he was working. At the end of the day: Lincoln has a stump and a sharp axe; the other guy has a dent and blisters.
+
+That's what The Kiln does. Founders arrive desperate to swing — they want campaigns, sequences, outbound, they want activity. We spend the first weeks sharpening: ICP, positioning, the narrative that makes everything downstream cheaper and faster. It looks slow. It isn't. The flailing they do before they find us is six hours on a dull blade.
+
+### 8. Story
+Shaan Puri got an introduction to Emmett Shear — Twitch founder, early internet figure, the kind of person worth having in your orbit. Shaan knew the window was narrow. So rather than show up and chitchat, he asked Emmett directly: "How do I talk to you? I don't want to come here and waste your time." Emmett gave him a structure: *what, why, so what*. What is the thing you're sharing? Why does it matter? So what should I do with it? Shaan now teaches it to his own team.
+
+The lesson: when you get access to someone exceptional, don't waste the first meeting performing. Ask them how they like to receive information. They've usually thought about it. And now you have the protocol for every future interaction — no more burning social capital on badly-formatted updates.
+
+For The Kiln: every new client engagement should open with the same question. "How do you like to receive information from an agency?" The answer tells you how to run the relationship for the next twelve months without having to guess.
+
+### 9. Rule of Thumb
+**When you sell your company, the first thing to internalise is: you don't own it anymore. They do. They have the keys.** — Sam Parr (MFM)
+
+Founders who get acquired and then act like they still run the place — pushing strategy, resisting integration, treating the acquirer like an annoying investor — are burning the relationship that determines whether they ever see their earnout. The day you sign is the day your leverage inverts completely. The sooner you internalise that, the better the next chapter goes.
+
+### 10. Stoic Closer
+> "In a startup, absolutely nothing happens unless you make it happen." — pmarca
+
+There is no ambient momentum. The company doesn't drift forward. It moves because someone decided to move it, and then moved it.
+
+### 11. Daily Math: Markov Chains
+**The concept:** A Markov chain is a system where the next state depends only on the current state — not on the history of how you got here. Each state has known probabilities of transitioning to other states. The punchline: where you end up long-term is entirely determined by those transition rates, not by where you started.
+
+**The everyday version:** Think of a customer moving through a sales pipeline. They're in one of five states: Prospect → Qualified → Proposal Sent → Negotiation → Closed/Lost. Each week, there's some probability they advance, stall, or fall out. A Markov model maps those transition probabilities. Run it forward and you can estimate average deal length, where deals die most often, and expected close rate from any given stage — without tracking individual deal histories.
+
+**Business example at The Kiln:** Map a prospect's journey through a cold outbound sequence: Cold → Opened → Replied → Meeting Booked → Proposal Sent → Client. At each stage there are transition probabilities — what percentage advance, what percentage ghost, what percentage exit entirely. If 60% of deals die at the Replied-to-Meeting-Booked transition, the Markov model tells you that's the bottleneck, not anything upstream. You don't need to fix the cold email subject line. You need to fix the first reply. Most people optimise the wrong stage because they're watching volume, not transition rates. Volume is vanity. Transition rates are the actual machine.
+
+**Key insight:** The Markov property — that history doesn't matter, only current state — is an approximation of how most business processes work. It strips out noise and forces you to look at where things actually break down, which is usually not where you assumed.
+
+**Today's exercise:** Pick one process — sales pipeline, onboarding, churn. Write down five to seven states a customer or deal can be in. For each state, estimate what percentage advance, stall, and exit. Find the worst transition. That's where to point next quarter's attention.
+
+### 12. Ad Craft
+**Read your customer letters.** — Drayton Bird
+
+Before focus groups, NPS surveys, and persona workshops, there were letters. Angry ones, grateful ones, confused ones sent on actual paper. Drayton Bird's point is that those letters contain the real vocabulary — the words real people use when no one is performing, when they're alone with their thoughts and trying to describe a problem or a delight. No focus group replicates that, because a focus group is a performance.
+
+For The Kiln: the equivalent is reply emails. Not cold email responses — the replies from actual clients when something worked or didn't, the ones that arrive at 7am before anyone's in professional mode. Mine those for language. The phrase a client uses to describe what you fixed for them is almost certainly better copy than anything you'd write describing what you do. You're not writing the ad. You're finding it in what already exists.

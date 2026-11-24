@@ -14177,3 +14177,80 @@ The reps you're avoiding are exactly the reps you need.
 The first transaction is expensive — you paid for the click, the sales call, the onboarding. The second is cheap. You already have trust, billing details, proof that they buy. The economics of a second sale from an existing customer are almost always better than a first sale from a new one, and the window where the relationship is freshest is immediately after the first purchase. Don't wait for the case study. Pitch the next thing while they're still excited.
 
 At The Kiln: during onboarding — not month three, not after the first results, but *during* onboarding — introduce the expansion conversation. "Here's what we're doing. Here's what most clients add after the first ninety days." Plant the flag while the soil is freshest.
+---
+
+## 2026-11-24
+
+### 1. The Funny One
+> "AI productivity is showing up everywhere except the hiring plans of your portfolio companies." — Charlie Songhurst (Stripe)
+
+Deploy the moment a VC mentions "AI-native efficiency" in a sentence that ends with "and we're scaling the team to sixty."
+
+### 2. Business Insight
+**Marc Andreessen (Founders/Senra):** The alternate universe Airbnb is hotel booking software. Some bored PM at a decent SaaS shop built it, it charges €29/month per property, and it is fine.
+
+The actual Airbnb looked at the same opportunity and said: we're going into the hospitality business. Competing with hotels directly. The software was the wedge, not the destination.
+
+Andreessen's point is that the most defensible companies aren't platforms — they're competitors. Tools get commoditised. Competitors take share. At The Kiln, the question is never "what GTM software can we sell?" It's "what does it look like to actually own the client's pipeline — to be the thing that moves the number, not the thing that tracks it?" Different identity. Different value prop. Generates ten times the fees.
+
+### 3. Deep Line
+> "No good can ever come from deviating from the path that you were destined to follow. You will be assailed by varieties of hidden pain." — Mastery
+
+The hidden pain isn't dramatic — it arrives as distraction, dilution, and the slow drag of doing things you're not built for. The path isn't mystical; it's the specific thing you're calibrated to do well and hate stopping.
+
+### 4. Thought Principle: Jobs To Be Done
+Christensen's framing: customers don't buy products, they hire them to do a job that shows up in their lives. McDonald's milkshake research is the famous one — people bought milkshakes for the morning commute, not because they were hungry. One hand on the wheel, something to do for forty minutes. They hired the milkshake to solve boredom and hand-idleness, not hunger. Thicker milkshake: better hire.
+
+For The Kiln: clients don't hire a GTM agency to "run outbound." They hire it because the sales team is thrashing, the CRO is nervous, and nobody owns the top of the funnel. The job is "make the pipeline problem go away and make my board meeting less awkward." Get the job right and your offer, your message, your channel — all of it falls out naturally. Get it wrong and you're pitching features at a problem the client doesn't think they have.
+
+### 5. New Words & Terms
+**Power** (Hamilton Helmer, 7 Powers) — a structural condition that generates durable differential returns: margins persistently above your cost of capital that competitors can't arbitrage away. Scale economies are Power. Network effects are Power. Brand is Power. Having a clever tactic is not Power. Use it when evaluating whether a business advantage actually compounds or just temporarily flatters the numbers.
+
+**Definite optimist** (Peter Thiel, Zero to One) — someone with a concrete plan who executes it, as opposed to an indefinite optimist who merely expects things to improve without knowing why or doing anything specific about it. Thiel's point: indefinite optimism produces portfolio diversification and vague aspirations; definite optimism produces SpaceX. Use it when asking whether your strategy is actually a strategy or just confident vibes wearing a deck.
+
+**"Balance of terror"** (Marc Andreessen, Lex Fridman) — the nuclear standoff reframed as equilibrium held in place by terror rather than trust. Each side is deterred not by goodwill but by the credible threat of annihilation. Use it when describing any competitive landscape where both parties are too dangerous to attack — pricing wars that would destroy both sides, or a large client relationship where the threat of exit runs both ways and everyone knows it.
+
+### 6. Contrarian Take
+> Liking the salesperson beats liking the product — and in the Regan raffle study, reciprocity wiped out the effect of liking entirely. — Influence
+
+Cialdini's finding: when someone does you a favour first, you'll return it even if you don't like them. The obligation bypasses preference. At The Kiln, this means leading with something genuinely useful before pitching — a real audit, a competitor teardown, a list of their broken sequences — not because it's generous, but because it's structurally effective. Give first. The reciprocity does the closing.
+
+### 7. Analogy
+Raising a seed round is basically online dating — a 70% aspirational profile, a string of awkward coffee meetings, and then someone says yes for reasons you don't fully understand and probably shouldn't interrogate too hard.
+
+New business development at The Kiln works the same way. You show up slightly more polished than reality, have ten conversations that feel like they're going nowhere, and then one day someone says yes. The move isn't to optimise each individual meeting into a masterclass of persuasion. It's to run more conversations simultaneously. Volume is the strategy. You're not finding the perfect match; you're running the numbers until the numbers run in your favour.
+
+### 8. Story
+Bob Noyce — co-founder of Intel, co-inventor of the integrated circuit — spent the last decade of his life mentoring young entrepreneurs in Silicon Valley. He had no commercial reason to. He'd already built one of the most important companies in history and made more money than he'd ever spend.
+
+Andreessen tells the story this way: Noyce called it "restocking the stream." He'd fished from this stream — the ecosystem, the knowledge chain running from Shockley to Fairchild to Intel. He'd pulled a lot out. So he went back and stocked it. His framing: "I learned from all the guys before me. I need to take that knowledge I've built up over multiple decades and push it down the generation."
+
+The lesson isn't altruism. It's accounting. If you treat knowledge as something you extracted from a system, you owe the system. At The Kiln's current scale, the version of this is: document what's working, say publicly what you're learning, build a reputation before you need it. Restock while the stream is still running. The return on that investment is delayed and non-linear, which is exactly why most people skip it.
+
+### 9. Rule of Thumb
+**"There are two kinds of failure. The first comes from never trying out your ideas because you are afraid. The second kind comes from a bold and venturesome spirit." — Mastery**
+
+The first failure is invisible and accumulates quietly. The second makes noise and teaches. Only one of them is actually a failure — the other is tuition with better branding.
+
+### 10. Stoic Closer
+> "You have to be extremely open-minded... you just need to be extremely open to the idea that you're going to run into the next big thing at any moment." — Marc Andreessen
+
+The posture isn't passive — it's active readiness, applied specifically to things that currently look small.
+
+### 11. Daily Math: Regression to the Mean
+**The concept:** After confidence intervals, we get regression to the mean. The idea: extreme observations tend to be followed by less extreme ones — not because anything changed, but because extreme results contain luck. A basketball player who scores 50 points one game is probably a great player who also ran hot. Next game, the greatness stays. The luck doesn't. They score 32. That's not a slump. That's arithmetic.
+
+Francis Galton noticed this first with height. Tall fathers have tall sons — but on average the sons are closer to the population mean than the father is. The height signal persists, but the extremity regresses. The exceptional part was partly exceptional circumstance.
+
+**Business example at The Kiln:** You bring on a new client and their first month of outbound goes unusually well — 12% reply rate, four qualified meetings a week. Month two: 7% reply rate, two meetings. The client asks what went wrong. Nothing went wrong. Month one was a statistical outlier driven by list freshness, the novelty effect on recipients, and timing luck. Month two is the actual signal. If you haven't warned them this will happen, you spend month two on a defence call instead of optimising the campaign. The regression was always coming. Brief for it.
+
+**Key insight:** We tend to intervene after extreme events — good or bad. A terrible week triggers a strategy review; a great week triggers confidence. Both reactions mistake variance for signal. The correct response to an extreme result is often *less* intervention, not more. Let it regress. Read the mean. Then act.
+
+**Today's exercise:** Pick any metric from last month that looked like a breakthrough or a disaster. Pull three months of data side by side. If the extreme month sits at either end and the others cluster together, you're looking at regression to the mean — not a trend, not a system failure, not a strategy vindicated. Adjust your story before the client asks you to explain it.
+
+### 12. Ad Craft
+**Drayton Bird:** Every catalogue entry should be a mini-ad with its own headline.
+
+The mistake is treating a list like a list. A service deck, a proposals appendix, a pricing page — each line item gets a name and a number and that's it. But the buyer's attention doesn't stay still while they scroll. They're scanning, skimming, stopping at anything that interrupts the rhythm. A headline does that. It doesn't have to be clever. It just has to do a job: "The thing that stops your SDRs wasting three hours a day on contacts who left the company six months ago." That's a headline. That's a mini-ad. It makes the item carry its own weight instead of depending on the reader to care enough to infer value from a noun.
+
+At The Kiln: every service on the deck, every deliverable in the proposal, gets one line that sells it on its own terms. You can't assume a client reads top-to-bottom and absorbs context. Treat each section like it's the only thing they'll see — because for some stakeholders who get forwarded a single slide, it is.

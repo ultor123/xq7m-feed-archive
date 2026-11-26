@@ -14337,3 +14337,84 @@ Sort your last twelve months of outbound experiments by meetings booked. The top
 The instinct is to streamline: one email, one message, one ask. Clean, respectable, minimal friction. But friction works both ways. If you can say no to one thing, you'll say no and move on without a second thought. If there are eight things in front of you, you have to decide eight times. Each decision is another chance for one to land on the right day.
 
 At The Kiln: this isn't a licence to spam. It's a prompt to think about surface area across a sequence. One email with one CTA is a single lottery ticket. A sequence with a case-study follow-up, a reply with a relevant data point, a LinkedIn touchpoint, and a final-ask email — that's eight chances for the right message to arrive on the right Tuesday when their current provider just irritated them. The person who books isn't always the one who read the first email. Sometimes it's the one who saw the fourth. Send the follow-up.
+---
+
+Let me check the repo structure to match the existing file format before writing.
+
+## 2026-11-26
+
+### 1. The Funny One
+> "Being Irish in tech is great because everyone assumes you're either going to be very charming or very drunk, and either way they take the meeting." — Humor Soundbites
+
+Deploy this in any room where you're the youngest person and the least expected.
+
+### 2. Business Insight
+**David Sacks:** "You know you have product-market fit when customers are pulling the product out of your hands. If you're pushing, you don't have it yet."
+
+The image does all the work. Pushing means you're generating all the forward motion. Pulling means they're generating it for you. The energy required tells you everything about which world you're in.
+
+At The Kiln: if every new client needs three educational calls, two follow-up emails, and a bespoke proposal before they sign — that's pushing. When a referral arrives already sold, calls your onboarding easy, and asks when they can start — that's a pull. The goal of the first ten clients isn't revenue. It's finding out if you're pushing or being pulled. If you're pushing, the product isn't right yet. Fix that before scaling the outbound.
+
+### 3. Deep Line
+> "That which we persist in doing becomes easier — not that the nature of the task has changed, but our ability to do has increased." — Emerson, via Covey, *The 7 Habits of Highly Effective People*
+
+The task doesn't get smaller. You get bigger. Cold outreach felt excruciating until it felt like admin.
+
+### 4. Thought Principle: Smart × Energetic × Courageous
+Marc Andreessen on Lex Fridman names three traits of a great founder: super smart, super energetic, super courageous. Then he drops the clause that changes everything: the first two are traits, the third is a choice. Smart and energetic you largely come with. Courageous is a decision you make fresh every morning.
+
+That's uncomfortable if you've been treating courage as something you either have or don't. It's also the most empowering note available, because you can choose it right now.
+
+At The Kiln: courage is quoting the number before they ask, sending the proposal without pre-emptive discounting, posting the unfashionable take publicly. Those moments feel like personality. They're choices with stakes.
+
+### 5. New Words & Terms
+**Frame breaker / frame-breaking moment** — an experience that cracks your default assumptions open and forces you to rebuild them from scratch. Travel is the classic example. So is your first churned client, your first enterprise deal, your first completely dead cold list. Use it: *"That first agency failure was a frame-breaking moment — I stopped assuming that good work sells itself."*
+
+**Token-maxing** — obsessively optimising AI token usage as a vanity metric while ignoring whether it actually grows revenue. Building elaborate prompt chains, tracking tokens per output, tweaking context windows — while the pipeline is flat. Use it: *"We were token-maxing for a month before someone asked how many meetings we'd actually booked."*
+
+**"Shelf space is the original algorithm."** — Shaan Puri (crediting Rohan's line). In a physical store, the item at eye level on the widest shelf wins. The feed algorithm is just digital shelf space. Brand presence, weekly LinkedIn posts, retargeting ads — all of it is a fight for shelf. The mechanic is ancient. Only the shelf changed.
+
+### 6. Contrarian Take
+> Cohesion doesn't cause groupthink — the real culprits are overconfidence and reputational fear. — *Originals*, Adam Grant
+
+Janis's theory says tight teams go wrong because they're too close. The data says otherwise: teams go wrong when members are certain they're right and afraid to say they're not. Both of those are fixable problems, not personality flaws. At The Kiln: a close-knit founding team is not the danger. The danger is never scheduling the call where someone has to say *"this campaign isn't working and here's exactly why."*
+
+### 7. Analogy
+Marc Andreessen — from David Senra's *Founders* — describes the IBM CEO visit as a royal progress. *"It was like a visit from the king... the king and the traveling court,"* inside *"a completely impervious bubble."* The CEO sees everything through prepared presentations, polished facilities, curated meetings. They receive information about the company, never from it.
+
+This is what happens to any agency founder who stops doing their own discovery calls. You manage the team that manages the client that manages the data. By the time signal reaches you it's been cleaned, softened, and filed into a talking point. At The Kiln: Ultan stays in the first few discovery calls on every new segment. Not because the team can't run them. Because the bubble forms faster than you think and you need to hear the actual words prospects use before you systematise anything.
+
+### 8. Story
+The Kiln enriched 47,000 contacts in six weeks. 23,000 had verified emails. 8,400 matched to open opportunities at their companies. That's not a campaign — that's a pipeline.
+
+The client came in convinced they had a messaging problem. They didn't. They had a data problem. Half the list was dead. Once it was clean, the reply rate jumped before we changed a single word of copy. The lesson is mechanical: before you rewrite the email, check the list. Before you rebuild the sequence, enrich the contacts. Infrastructure first. The best copy in the world doesn't reach a dead address.
+
+### 9. Rule of Thumb
+**"Who's your beachhead — the one narrow segment that will buy now and vouch for you to their peers? If it's 'everyone,' you're still stuck before the chasm." — Geoffrey Moore, *Crossing the Chasm***
+
+If you can't name the job title, the industry, the company size, and the specific problem your first ten clients share, you don't have a beachhead — you have a vague intention. At The Kiln: the beachhead was B2B SaaS founders between Series A and Series B, with a VP of Sales hired in the last eighteen months and no GTM systems in place. That's a zip code, not a country. Zip codes you can own.
+
+### 10. Stoic Closer
+> "That kind of motivation is so far in the future. It can be very hard to work in the second. So thinking about the fact I'll feel better in about four hours if I do it now." — Jeff Bezos (Lex Fridman)
+
+The only motivation that works in the moment is the one close enough to touch.
+
+### 11. Daily Math: Conditional Probability
+**The concept:** Conditional probability is the probability of something happening *given that something else has already happened*. Written P(A|B): probability of A, given B. The key move is recognising that new information shrinks your sample space. You're no longer in the full population — you're in a subset of it, and you should only be counting outcomes inside that subset.
+
+Classic example. Flip two coins. Probability both are heads: 25%. Now someone tells you at least one is heads. New information. Your sample space shrinks from four outcomes (HH, HT, TH, TT) to three (HH, HT, TH). Only one of those three is both heads. The answer is now 1-in-3: 33%. The number changed without touching either coin.
+
+**Business example at The Kiln:** Your overall reply rate on cold outbound is 8%. That's P(reply). But someone opening your email is new information. P(reply|open) is probably 25–35%, not 8%. That changes your strategy completely. If you optimise purely for reply rate across all sends, you're treating openers and non-openers identically. If you treat P(reply|open) as a separate metric — better CTA timing, faster follow-up, triggered sequence — you extract more value from the people who've already told you they're paying attention.
+
+Same logic, referrals. P(convert|cold prospect) might be 3%. P(convert|referred by existing client) might be 30%. If you're allocating outbound effort equally between cold and referral-sourced leads, you're ignoring conditional probability and spending most of your energy in the lower-probability world.
+
+**Key insight:** Most dashboards show flat marginal rates — the average across everyone. Conditional probability says: once you know something about this contact, you're not in the full population anymore. Build your GTM systems around conditioning signals, not just time-based follow-up steps. A triggered sequence that fires when someone visits your pricing page is conditional probability in production.
+
+**Today's exercise:** Pick one signal in your outbound data — an email open, a website visit, a LinkedIn engagement, a referral source. Calculate conversion rate for contacts who showed that signal versus those who didn't. The gap between those two numbers is your conditioning opportunity. That's the lever.
+
+### 12. Ad Craft
+**Drayton Bird:** Willingness to test is the definition of a perfect client.
+
+A client who lets you test is giving you a live environment to find what actually works — not what sounds reasonable in a deck. A client who won't test — who insists on the brand guidelines, the approved messaging, the committee-cleared copy — is asking you to run campaigns you can't improve because nothing is variable. That's not an engagement. That's a production job.
+
+At The Kiln: qualifying for willingness to test is part of discovery now. Not *"are you open to testing?"* — everyone says yes. The real question is: *"Tell me about the last time something you expected to work didn't — and what you did next."* The answer tells you whether you have a client or a brief.

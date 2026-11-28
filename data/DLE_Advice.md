@@ -14486,3 +14486,67 @@ The intuition: imagine you're a golfer trying to figure out your probability of 
 **Today's exercise:** Pick your biggest uncertainty right now — a deal, a channel, a hire. Write down three inputs that drive the outcome and give each a realistic range (not best case, not worst case — honest range). Sketch five scenarios by varying those inputs across the range. Notice how wide the outcome distribution is. That spread is what you're actually managing. The exercise is in seeing that the future isn't a line — it's a cloud, and your job is to shift the cloud toward better outcomes.
 
 ---
+---
+
+## 2026-11-28
+
+### 1. The Funny One
+> "By 2003, the line was B2B meant back to banking, and B2C meant back to consulting." — Marc Andreessen (Stripe/Songhurst)
+
+Deploy any time someone pitches you a revolutionary business model at the top of a hype cycle.
+
+### 2. Business Insight
+**Originals:** Run ten outreach variants, measure open and reply rates, double down on what works — don't perfect one sequence before you send it. The lab rat's approach to GTM is spending three weeks tweaking a cold email nobody has read yet. At The Kiln: test subject line angles, opener formats, and CTA structures across actual sends. The winning sequence emerges from volume data, not introspection. If you've sent fewer than 500 emails from a new sequence, you don't have data — you have a hunch in a trench coat pretending to be a strategy.
+
+### 3. Deep Line
+> "Important truths can be uncomfortable, they can be awkward, they can be exhausting... they can make people defensive even if that's not the intent." — Jeff Bezos (Lex Fridman)
+
+The word "important" is doing all the work there — trivial truths are easy to say. If your client feedback sessions always feel comfortable, you're running a morale service, not a GTM agency.
+
+### 4. Thought Principle: The Clip-Farming Inversion
+Most people treat the long-form asset as the product and clips as a nice-to-have byproduct. Shaan flips it: the four-hour livestream is the production line, not the product. The 20 clips are the harvest. The long-form is just the farm. At The Kiln: every sales call, every client workshop, every debrief is a farm. If you're not pulling short-form case study lines, email hooks, and LinkedIn posts out of that raw material — you worked once and sold once. That's a failure of the clip-farming inversion.
+
+### 5. New Words & Terms
+**Computer industry V2** — Marc Andreessen's framing for AI as the first reinvention of computing in 80 years: from Von Neumann architecture (chips executing instructions in sequence) to neural networks (chips learning patterns from data). Use it when someone calls AI "just another software wave" — it's not the same river.
+
+**Permissionless leverage** — Naval's term for leverage that needs no one's approval to deploy: code you shipped, content you published. The contrast is permissioned leverage — capital and labour — where someone has to say yes before you scale. A cold email sequence is permissioned leverage. A content asset generating inbound at 3am on a Sunday is permissionless.
+
+**The x-ray machine** — John Collison's phrase for the internet making institutional failure visible. Universities, banks, legacy media — the internet didn't destroy them, it just made it impossible to hide the gap between the promise and the delivery. Useful frame for every category a Kiln client operates in.
+
+### 6. Contrarian Take
+> Originals are not natural risk-takers — entrepreneurs are significantly more risk-averse than the general population. "Burn the boats" is survivor bias. — Originals (Adam Grant)
+
+The founders who burned the boats and failed aren't on stage at SaaStr giving keynotes about decisive action. The successful ones you're reading about kept a consulting client, a co-founder's salary, or a part-time income until the numbers justified the leap. At The Kiln: the disciplined hedge is usually the smarter move. Romanticising recklessness is a luxury of people who got lucky with it once.
+
+### 7. Analogy
+Andreessen's framing: put a creative LLM and a literal LLM in sequence — one generates the pitch with energy and voice, the second fact-checks every claim with a stricter, more sceptical prompt. It's a journalist and an editor. The journalist's job is to make it interesting. The editor's job is to shoot down anything that isn't true.
+
+At The Kiln: this is how AI-assisted outreach should be structured. First pass for fluency and tone, second pass explicitly asking "does this reference something the prospect actually did?" The fact-checker ruins fewer deals than the charismatic liar.
+
+### 8. Story
+Amazon launched AWS in 2006 not because Bezos had a cloud computing vision on a whiteboard since 1998. They built it because they needed reliable internal infrastructure at scale — and once they'd built it for themselves, they noticed other companies needed the same thing. By 2017, AWS was running at roughly $20 billion annually, inside a company most of the world still thought of as a website that sold books and occasionally lost money on garden furniture.
+
+The lesson is in what actually transferred. Not retail. Not fulfilment. Customer obsession, long-term orientation, operational excellence — the operating principles ported to a completely different product in a completely different industry. When The Kiln moves into a new service line, the question is never "do we know this space." It's "do our operating principles apply here." If yes, the knitting follows.
+
+### 9. Rule of Thumb
+**"Cut once, sell twice — not cut once, sell once."** — Hormozi (DOAC)
+
+One piece of work should generate multiple commercial events: the workshop becomes the case study, becomes the email sequence, becomes the LinkedIn post, becomes the lead magnet, becomes the client onboarding template. If you created something once and sold it once, you left most of the value on the floor.
+
+### 10. Stoic Closer
+> "My emotional discomfort is not an adequate reason to change what I'm doing." — Hormozi (DOAC)
+
+The difficult conversation, the uncomfortable number, the client who needs honesty more than reassurance — the discomfort is not a signal to stop.
+
+### 11. Daily Math: Markov Chains
+**The concept:** A Markov Chain is a system that moves between states where the next state depends only on the current state — not on how you got there. Technically called the "memoryless" property. The past is irrelevant; only where you are now determines where you go next.
+
+The intuition: Snakes and Ladders. It doesn't matter if it took you 10 turns or 40 turns to land on square 47 — when you roll from square 47, the probabilities of your next position are identical either way. Square 47 is square 47. You're a particle bouncing between states with fixed transition probabilities. That's the whole idea.
+
+**Business example at The Kiln:** A sales pipeline is a Markov Chain. Each deal lives in a state: Prospected → First Reply → Discovery Call → Proposal → Negotiation → Closed Won or Closed Lost. For forecasting purposes, the history of a deal is irrelevant — only the current stage and the historical transition rate at that stage matter. If 60% of deals in Proposal convert to Negotiation, and 70% of Negotiation deals close, then every Proposal-stage deal is worth 0.60 × 0.70 = 42% of its full contract value as a forecast contribution. Doesn't matter if it came from inbound or cold outbound, took two months or two weeks to reach Proposal, or had three different contacts along the way. It's in Proposal. That's the number.
+
+This is structurally better than gut-based pipeline reviews, where a rep's enthusiasm about a deal overrides its statistical stage probability. The Markov model is the sceptic in the room who doesn't care how excited you are.
+
+**Key insight:** Markov Chains also show you exactly where deals die. High transition from First Reply to Discovery Call but a 30% drop-off from Discovery to Proposal? That's not a volume problem — it's a specific conversion problem at a specific step, with a specific fix. You don't redesign the whole funnel. You fix the discovery-to-proposal motion and nothing else.
+
+**Today's exercise:** Map your pipeline as a Markov Chain. Write down each stage. For the last 20 deals, estimate the percentage that advanced from each stage to the next. Find the stage with the worst transition rate. That is your one constraint — not "we need more leads," not "we need a bigger team." One leaky stage, one fix.
